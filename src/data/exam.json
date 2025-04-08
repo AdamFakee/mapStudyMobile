@@ -1,0 +1,6783 @@
+
+{
+  "quizSet1": [
+      {
+        "id": 1,
+        "title": "1+1 bằng bao nhiêu?",
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "result": "B"
+      },
+      {
+        "id": 2,
+        "title": "Trái Đất có bao nhiêu châu lục?",
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8",
+        "result": "C"
+      },
+      {
+        "id": 3,
+        "title": "Nước có công thức hóa học là gì?",
+        "A": "H2O",
+        "B": "CO2",
+        "C": "O2",
+        "D": "N2",
+        "result": "A"
+      },
+      {
+        "id": 4,
+        "title": "Thủ đô của Việt Nam là gì?",
+        "A": "Hồ Chí Minh",
+        "B": "Hà Nội",
+        "C": "Đà Nẵng",
+        "D": "Huế",
+        "result": "B"
+      },
+      {
+        "id": 5,
+        "title": "Ai là người phát minh ra bóng đèn?",
+        "A": "Thomas Edison",
+        "B": "Albert Einstein",
+        "C": "Isaac Newton",
+        "D": "Nikola Tesla",
+        "result": "A"
+      },
+      {
+        "id": 6,
+        "title": "Hành tinh nào gần Mặt Trời nhất?",
+        "A": "Sao Thủy",
+        "B": "Sao Kim",
+        "C": "Trái Đất",
+        "D": "Sao Hỏa",
+        "result": "A"
+      },
+      {
+        "id": 7,
+        "title": "2^3 bằng bao nhiêu?",
+        "A": "6",
+        "B": "8",
+        "C": "10",
+        "D": "12",
+        "result": "B"
+      },
+      {
+        "id": 8,
+        "title": "Quốc gia nào lớn nhất về diện tích?",
+        "A": "Trung Quốc",
+        "B": "Nga",
+        "C": "Mỹ",
+        "D": "Canada",
+        "result": "B"
+      },
+      {
+        "id": 9,
+        "title": "Ai là tác giả của 'Tam Quốc Diễn Nghĩa'?",
+        "A": "La Quán Trung",
+        "B": "Thi Nại Am",
+        "C": "Ngô Thừa Ân",
+        "D": "Tào Tuyết Cần",
+        "result": "A"
+      },
+      {
+        "id": 10,
+        "title": "Mặt Trăng là vệ tinh của hành tinh nào?",
+        "A": "Sao Hỏa",
+        "B": "Sao Thổ",
+        "C": "Trái Đất",
+        "D": "Sao Mộc",
+        "result": "C"
+      },
+      {
+        "id": 11,
+        "title": "1 năm có bao nhiêu tuần?",
+        "A": "50",
+        "B": "52",
+        "C": "54",
+        "D": "48",
+        "result": "B"
+      },
+      {
+        "id": 12,
+        "title": "Đơn vị đo độ dài là gì?",
+        "A": "Kilogram",
+        "B": "Lít",
+        "C": "Mét",
+        "D": "Giây",
+        "result": "C"
+      },
+      {
+        "id": 13,
+        "title": "Màu sắc chính của lá cây là gì?",
+        "A": "Đỏ",
+        "B": "Xanh lá",
+        "C": "Vàng",
+        "D": "Xanh dương",
+        "result": "B"
+      },
+      {
+        "id": 14,
+        "title": "Ai là tổng thống đầu tiên của Mỹ?",
+        "A": "George Washington",
+        "B": "Abraham Lincoln",
+        "C": "Thomas Jefferson",
+        "D": "John Adams",
+        "result": "A"
+      },
+      {
+        "id": 15,
+        "title": "Kim loại nào dẫn điện tốt nhất?",
+        "A": "Sắt",
+        "B": "Đồng",
+        "C": "Vàng",
+        "D": "Bạc",
+        "result": "B"
+      },
+      {
+        "id": 16,
+        "title": "Thành phố nào là thủ đô của Nhật Bản?",
+        "A": "Osaka",
+        "B": "Kyoto",
+        "C": "Tokyo",
+        "D": "Hiroshima",
+        "result": "C"
+      },
+      {
+        "id": 17,
+        "title": "5 x 6 bằng bao nhiêu?",
+        "A": "25",
+        "B": "30",
+        "C": "35",
+        "D": "40",
+        "result": "B"
+      },
+      {
+        "id": 18,
+        "title": "Ai là nhà soạn nhạc của bản giao hưởng số 9?",
+        "A": "Mozart",
+        "B": "Beethoven",
+        "C": "Bach",
+        "D": "Chopin",
+        "result": "B"
+      },
+      {
+        "id": 19,
+        "title": "Hành tinh nào có vòng đai nổi tiếng?",
+        "A": "Sao Mộc",
+        "B": "Sao Thổ",
+        "C": "Sao Thiên Vương",
+        "D": "Sao Hải Vương",
+        "result": "B"
+      },
+      {
+        "id": 20,
+        "title": "Ngôn ngữ nào phổ biến nhất thế giới?",
+        "A": "Tây Ban Nha",
+        "B": "Anh",
+        "C": "Trung Quốc",
+        "D": "Pháp",
+        "result": "C"
+      },
+      {
+        "id": 21,
+        "title": "15 chia 3 bằng bao nhiêu?",
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7",
+        "result": "B"
+      },
+      {
+        "id": 22,
+        "title": "Ai phát minh ra thuyết tương đối?",
+        "A": "Isaac Newton",
+        "B": "Albert Einstein",
+        "C": "Galileo Galilei",
+        "D": "Stephen Hawking",
+        "result": "B"
+      },
+      {
+        "id": 23,
+        "title": "Đại dương nào lớn nhất thế giới?",
+        "A": "Đại Tây Dương",
+        "B": "Ấn Độ Dương",
+        "C": "Thái Bình Dương",
+        "D": "Bắc Băng Dương",
+        "result": "C"
+      },
+      {
+        "id": 24,
+        "title": "Ai là tác giả của 'Đồi gió hú'?",
+        "A": "Emily Brontë",
+        "B": "Jane Austen",
+        "C": "Charlotte Brontë",
+        "D": "Charles Dickens",
+        "result": "A"
+      },
+      {
+        "id": 25,
+        "title": "Loài động vật nào là biểu tượng của Úc?",
+        "A": "Kangaroo",
+        "B": "Gấu Koala",
+        "C": "Chim cánh cụt",
+        "D": "Cá sấu",
+        "result": "A"
+      },
+      {
+        "id": 26,
+        "title": "Công thức tính diện tích hình tròn là gì?",
+        "A": "πr^2",
+        "B": "2πr",
+        "C": "r^2",
+        "D": "πd",
+        "result": "A"
+      },
+      {
+        "id": 27,
+        "title": "Thành phố nào được gọi là 'Thành phố ánh sáng'?",
+        "A": "New York",
+        "B": "Paris",
+        "C": "London",
+        "D": "Tokyo",
+        "result": "B"
+      },
+      {
+        "id": 28,
+        "title": "Loài chim nào không bay được?",
+        "A": "Đại bàng",
+        "B": "Chim cánh cụt",
+        "C": "Chim sẻ",
+        "D": "Chim ưng",
+        "result": "B"
+      },
+      {
+        "id": 29,
+        "title": "Ai là người khám phá ra châu Mỹ?",
+        "A": "Christopher Columbus",
+        "B": "Marco Polo",
+        "C": "Vasco da Gama",
+        "D": "Ferdinand Magellan",
+        "result": "A"
+      },
+      {
+        "id": 30,
+        "title": "Hành tinh nào có nhiệt độ cao nhất?",
+        "A": "Sao Thủy",
+        "B": "Sao Kim",
+        "C": "Trái Đất",
+        "D": "Sao Hỏa",
+        "result": "B"
+      },
+      {
+        "id": 31,
+        "title": "12 tháng có bao nhiêu ngày?",
+        "A": "365",
+        "B": "366",
+        "C": "360",
+        "D": "364",
+        "result": "A"
+      },
+      {
+        "id": 32,
+        "title": "Nguyên tố hóa học nào có ký hiệu 'O'?",
+        "A": "Oxy",
+        "B": "Vàng",
+        "C": "Sắt",
+        "D": "Hidro",
+        "result": "A"
+      },
+      {
+        "id": 33,
+        "title": "Ai là tác giả của 'Chiến tranh và Hòa bình'?",
+        "A": "Fyodor Dostoevsky",
+        "B": "Leo Tolstoy",
+        "C": "Anton Chekhov",
+        "D": "Vladimir Nabokov",
+        "result": "B"
+      },
+      {
+        "id": 34,
+        "title": "Núi cao nhất thế giới là gì?",
+        "A": "K2",
+        "B": "Everest",
+        "C": "Kangchenjunga",
+        "D": "Lhotse",
+        "result": "B"
+      },
+      {
+        "id": 35,
+        "title": "Loài cá nào lớn nhất đại dương?",
+        "A": "Cá mập trắng",
+        "B": "Cá voi xanh",
+        "C": "Cá mập voi",
+        "D": "Cá đuối",
+        "result": "B"
+      },
+      {
+        "id": 36,
+        "title": "7 x 8 bằng bao nhiêu?",
+        "A": "54",
+        "B": "56",
+        "C": "58",
+        "D": "60",
+        "result": "B"
+      },
+      {
+        "id": 37,
+        "title": "Thành phố nào là thủ đô của Brazil?",
+        "A": "Rio de Janeiro",
+        "B": "São Paulo",
+        "C": "Brasília",
+        "D": "Salvador",
+        "result": "C"
+      },
+      {
+        "id": 38,
+        "title": "Ai là người sáng lập Microsoft?",
+        "A": "Steve Jobs",
+        "B": "Bill Gates",
+        "C": "Elon Musk",
+        "D": "Mark Zuckerberg",
+        "result": "B"
+      },
+      {
+        "id": 39,
+        "title": "Loài nào là động vật có vú sống dưới nước?",
+        "A": "Cá voi",
+        "B": "Cá mập",
+        "C": "Mực",
+        "D": "Bạch tuộc",
+        "result": "A"
+      },
+      {
+        "id": 40,
+        "title": "Đơn vị tiền tệ của Anh là gì?",
+        "A": "Euro",
+        "B": "Dollar",
+        "C": "Pound",
+        "D": "Yen",
+        "result": "C"
+      },
+      {
+        "id": 41,
+        "title": "Ai là nhà toán học phát triển định lý Pythagoras?",
+        "A": "Euclid",
+        "B": "Pythagoras",
+        "C": "Archimedes",
+        "D": "Fibonacci",
+        "result": "B"
+      },
+      {
+        "id": 42,
+        "title": "Sông nào dài nhất thế giới?",
+        "A": "Sông Amazon",
+        "B": "Sông Nile",
+        "C": "Sông Dương Tử",
+        "D": "Sông Mississippi",
+        "result": "B"
+      },
+      {
+        "id": 43,
+        "title": "Nguyên tố nào là thành phần chính của khí quyển Trái Đất?",
+        "A": "Oxy",
+        "B": "Nitơ",
+        "C": "Carbon dioxide",
+        "D": "Hidro",
+        "result": "B"
+      },
+      {
+        "id": 44,
+        "title": "Ai là tác giả của 'Harry Potter'?",
+        "A": "J.K. Rowling",
+        "B": "J.R.R. Tolkien",
+        "C": "C.S. Lewis",
+        "D": "George R.R. Martin",
+        "result": "A"
+      },
+      {
+        "id": 45,
+        "title": "Hành tinh nào có ngày dài nhất?",
+        "A": "Sao Kim",
+        "B": "Sao Thủy",
+        "C": "Trái Đất",
+        "D": "Sao Hỏa",
+        "result": "A"
+      },
+      {
+        "id": 46,
+        "title": "100 chia 4 bằng bao nhiêu?",
+        "A": "20",
+        "B": "25",
+        "C": "30",
+        "D": "35",
+        "result": "B"
+      },
+      {
+        "id": 47,
+        "title": "Thành phố nào là thủ đô của Ấn Độ?",
+        "A": "Mumbai",
+        "B": "Delhi",
+        "C": "Kolkata",
+        "D": "Chennai",
+        "result": "B"
+      },
+      {
+        "id": 48,
+        "title": "Ai là người phát minh ra điện thoại?",
+        "A": "Alexander Graham Bell",
+        "B": "Thomas Edison",
+        "C": "Nikola Tesla",
+        "D": "Guglielmo Marconi",
+        "result": "A"
+      },
+      {
+        "id": 49,
+        "title": "Loài cây nào là biểu tượng của Canada?",
+        "A": "Cây phong",
+        "B": "Cây sồi",
+        "C": "Cây thông",
+        "D": "Cây bạch dương",
+        "result": "A"
+      },
+      {
+        "id": 50,
+        "title": "Ngôn ngữ lập trình nào được tạo ra bởi Guido van Rossum?",
+        "A": "Java",
+        "B": "Python",
+        "C": "C++",
+        "D": "Ruby",
+        "result": "B"
+      }
+  ],
+  "quizSet2": [
+    {
+      "id": 1,
+      "title": "Hành tinh nào lớn nhất trong Hệ Mặt Trời?",
+      "A": "Sao Mộc",
+      "B": "Sao Thổ",
+      "C": "Trái Đất",
+      "D": "Sao Hải Vương",
+      "result": "A"
+    },
+    {
+      "id": 2,
+      "title": "Ai là tác giả của 'Tội ác và hình phạt'?",
+      "A": "Leo Tolstoy",
+      "B": "Fyodor Dostoevsky",
+      "C": "Anton Chekhov",
+      "D": "Vladimir Nabokov",
+      "result": "B"
+    },
+    {
+      "id": 3,
+      "title": "Đơn vị đo khối lượng là gì?",
+      "A": "Mét",
+      "B": "Kilogram",
+      "C": "Lít",
+      "D": "Giây",
+      "result": "B"
+    },
+    {
+      "id": 4,
+      "title": "Thủ đô của Pháp là gì?",
+      "A": "Lyon",
+      "B": "Marseille",
+      "C": "Paris",
+      "D": "Nice",
+      "result": "C"
+    },
+    {
+      "id": 5,
+      "title": "3 + 7 bằng bao nhiêu?",
+      "A": "9",
+      "B": "10",
+      "C": "11",
+      "D": "12",
+      "result": "B"
+    },
+    {
+      "id": 6,
+      "title": "Nguyên tố nào có ký hiệu 'Au'?",
+      "A": "Bạc",
+      "B": "Vàng",
+      "C": "Đồng",
+      "D": "Sắt",
+      "result": "B"
+    },
+    {
+      "id": 7,
+      "title": "Ai là người phát minh ra máy bay?",
+      "A": "Wright Brothers",
+      "B": "Leonardo da Vinci",
+      "C": "Thomas Edison",
+      "D": "Henry Ford",
+      "result": "A"
+    },
+    {
+      "id": 8,
+      "title": "Sông nào dài nhất Nam Mỹ?",
+      "A": "Sông Nile",
+      "B": "Sông Amazon",
+      "C": "Sông Mississippi",
+      "D": "Sông Paraná",
+      "result": "B"
+    },
+    {
+      "id": 9,
+      "title": "Thành phố nào là thủ đô của Hàn Quốc?",
+      "A": "Busan",
+      "B": "Seoul",
+      "C": "Incheon",
+      "D": "Daegu",
+      "result": "B"
+    },
+    {
+      "id": 10,
+      "title": "Đơn vị tiền tệ của Nhật Bản là gì?",
+      "A": "Won",
+      "B": "Yen",
+      "C": "Dollar",
+      "D": "Euro",
+      "result": "B"
+    },
+    {
+      "id": 11,
+      "title": "Ai là tác giả của 'Chúa tể những chiếc nhẫn'?",
+      "A": "J.K. Rowling",
+      "B": "J.R.R. Tolkien",
+      "C": "George R.R. Martin",
+      "D": "C.S. Lewis",
+      "result": "B"
+    },
+    {
+      "id": 12,
+      "title": "20 chia 5 bằng bao nhiêu?",
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6",
+      "result": "B"
+    },
+    {
+      "id": 13,
+      "title": "Quốc gia nào được gọi là 'Đất nước mặt trời mọc'?",
+      "A": "Trung Quốc",
+      "B": "Nhật Bản",
+      "C": "Hàn Quốc",
+      "D": "Thái Lan",
+      "result": "B"
+    },
+    {
+      "id": 14,
+      "title": "Loài động vật nào lớn nhất trên cạn?",
+      "A": "Voi châu Phi",
+      "B": "Hà mã",
+      "C": "Tê giác",
+      "D": "Hươu cao cổ",
+      "result": "A"
+    },
+    {
+      "id": 15,
+      "title": "Công thức tính chu vi hình tròn là gì?",
+      "A": "πr^2",
+      "B": "2πr",
+      "C": "r^2",
+      "D": "πd^2",
+      "result": "B"
+    },
+    {
+      "id": 16,
+      "title": "Ai là người sáng lập Apple?",
+      "A": "Bill Gates",
+      "B": "Steve Jobs",
+      "C": "Elon Musk",
+      "D": "Mark Zuckerberg",
+      "result": "B"
+    },
+    {
+      "id": 17,
+      "title": "Thành phố nào là thủ đô của Thái Lan?",
+      "A": "Bangkok",
+      "B": "Chiang Mai",
+      "C": "Phuket",
+      "D": "Pattaya",
+      "result": "A"
+    },
+    {
+      "id": 18,
+      "title": "Nguyên tố nào chiếm phần lớn trong cơ thể người?",
+      "A": "Carbon",
+      "B": "Oxy",
+      "C": "Hidro",
+      "D": "Nitơ",
+      "result": "B"
+    },
+    {
+      "id": 19,
+      "title": "4^2 bằng bao nhiêu?",
+      "A": "12",
+      "B": "14",
+      "C": "16",
+      "D": "18",
+      "result": "C"
+    },
+    {
+      "id": 20,
+      "title": "Ai là nhà khoa học phát hiện lực hấp dẫn?",
+      "A": "Albert Einstein",
+      "B": "Isaac Newton",
+      "C": "Galileo Galilei",
+      "D": "Nikola Tesla",
+      "result": "B"
+    },
+    {
+      "id": 21,
+      "title": "Thành phố nào là thủ đô của Đức?",
+      "A": "Munich",
+      "B": "Berlin",
+      "C": "Hamburg",
+      "D": "Frankfurt",
+      "result": "B"
+    },
+    {
+      "id": 22,
+      "title": "Loài nào là chim nhanh nhất thế giới?",
+      "A": "Chim ưng Peregrine",
+      "B": "Đại bàng",
+      "C": "Chim ruồi",
+      "D": "Chim hải âu",
+      "result": "A"
+    },
+    {
+      "id": 23,
+      "title": "Đơn vị đo thời gian là gì?",
+      "A": "Mét",
+      "B": "Kilogram",
+      "C": "Giây",
+      "D": "Lít",
+      "result": "C"
+    },
+    {
+      "id": 24,
+      "title": "Ai là tác giả của 'Nhật ký Anne Frank'?",
+      "A": "Anne Frank",
+      "B": "Jane Austen",
+      "C": "Emily Brontë",
+      "D": "Charlotte Brontë",
+      "result": "A"
+    },
+    {
+      "id": 25,
+      "title": "Thành phố nào là thủ đô của Ý?",
+      "A": "Milan",
+      "B": "Venice",
+      "C": "Rome",
+      "D": "Florence",
+      "result": "C"
+    },
+    {
+      "id": 26,
+      "title": "9 x 3 bằng bao nhiêu?",
+      "A": "24",
+      "B": "27",
+      "C": "30",
+      "D": "33",
+      "result": "B"
+    },
+    {
+      "id": 27,
+      "title": "Hành tinh nào có nhiều vệ tinh nhất?",
+      "A": "Sao Thổ",
+      "B": "Sao Mộc",
+      "C": "Sao Thiên Vương",
+      "D": "Sao Hải Vương",
+      "result": "B"
+    },
+    {
+      "id": 28,
+      "title": "Ai là người phát minh ra World Wide Web?",
+      "A": "Tim Berners-Lee",
+      "B": "Bill Gates",
+      "C": "Steve Jobs",
+      "D": "Larry Page",
+      "result": "A"
+    },
+    {
+      "id": 29,
+      "title": "Thành phố nào là thủ đô của Nga?",
+      "A": "Moscow",
+      "B": "Saint Petersburg",
+      "C": "Kazan",
+      "D": "Novosibirsk",
+      "result": "A"
+    },
+    {
+      "id": 30,
+      "title": "Loài hoa nào là biểu tượng của Hà Lan?",
+      "A": "Hoa hồng",
+      "B": "Hoa tulip",
+      "C": "Hoa cúc",
+      "D": "Hoa lan",
+      "result": "B"
+    },
+    {
+      "id": 31,
+      "title": "6 + 9 bằng bao nhiêu?",
+      "A": "13",
+      "B": "14",
+      "C": "15",
+      "D": "16",
+      "result": "C"
+    },
+    {
+      "id": 32,
+      "title": "Ai là nhà văn viết 'Trăm năm cô đơn'?",
+      "A": "Gabriel García Márquez",
+      "B": "Mario Vargas Llosa",
+      "C": "Isabel Allende",
+      "D": "Jorge Luis Borges",
+      "result": "A"
+    },
+    {
+      "id": 33,
+      "title": "Thành phố nào là thủ đô của Tây Ban Nha?",
+      "A": "Barcelona",
+      "B": "Madrid",
+      "C": "Valencia",
+      "D": "Seville",
+      "result": "B"
+    },
+    {
+      "id": 34,
+      "title": "Đơn vị đo điện áp là gì?",
+      "A": "Watt",
+      "B": "Ampere",
+      "C": "Volt",
+      "D": "Ohm",
+      "result": "C"
+    },
+    {
+      "id": 35,
+      "title": "Ai là người phát minh ra động cơ hơi nước?",
+      "A": "James Watt",
+      "B": "Thomas Edison",
+      "C": "Nikola Tesla",
+      "D": "George Stephenson",
+      "result": "A"
+    },
+    {
+      "id": 36,
+      "title": "Thành phố nào là thủ đô của Ai Cập?",
+      "A": "Alexandria",
+      "B": "Cairo",
+      "C": "Giza",
+      "D": "Luxor",
+      "result": "B"
+    },
+    {
+      "id": 37,
+      "title": "8 x 7 bằng bao nhiêu?",
+      "A": "54",
+      "B": "56",
+      "C": "58",
+      "D": "60",
+      "result": "B"
+    },
+    {
+      "id": 38,
+      "title": "Loài nào là động vật nhanh nhất trên cạn?",
+      "A": "Báo gêpa",
+      "B": "Sư tử",
+      "C": "Ngựa",
+      "D": "Chó săn",
+      "result": "A"
+    },
+    {
+      "id": 39,
+      "title": "Thành phố nào là thủ đô của Thụy Sĩ?",
+      "A": "Zurich",
+      "B": "Geneva",
+      "C": "Bern",
+      "D": "Basel",
+      "result": "C"
+    },
+    {
+      "id": 40,
+      "title": "Ai là tác giả của 'Người xa lạ'?",
+      "A": "Albert Camus",
+      "B": "Jean-Paul Sartre",
+      "C": "Franz Kafka",
+      "D": "Simone de Beauvoir",
+      "result": "A"
+    },
+    {
+      "id": 41,
+      "title": "Hành tinh nào nhỏ nhất trong Hệ Mặt Trời?",
+      "A": "Sao Thủy",
+      "B": "Sao Kim",
+      "C": "Sao Hỏa",
+      "D": "Trái Đất",
+      "result": "A"
+    },
+    {
+      "id": 42,
+      "title": "15 - 7 bằng bao nhiêu?",
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9",
+      "result": "C"
+    },
+    {
+      "id": 43,
+      "title": "Thành phố nào là thủ đô của Mexico?",
+      "A": "Guadalajara",
+      "B": "Mexico City",
+      "C": "Monterrey",
+      "D": "Cancún",
+      "result": "B"
+    },
+    {
+      "id": 44,
+      "title": "Ai là người phát minh ra radio?",
+      "A": "Guglielmo Marconi",
+      "B": "Thomas Edison",
+      "C": "Nikola Tesla",
+      "D": "Alexander Graham Bell",
+      "result": "A"
+    },
+    {
+      "id": 45,
+      "title": "Đơn vị đo năng lượng là gì?",
+      "A": "Joule",
+      "B": "Watt",
+      "C": "Volt",
+      "D": "Ampere",
+      "result": "A"
+    },
+    {
+      "id": 46,
+      "title": "Thành phố nào là thủ đô của Trung Quốc?",
+      "A": "Shanghai",
+      "B": "Beijing",
+      "C": "Guangzhou",
+      "D": "Shenzhen",
+      "result": "B"
+    },
+    {
+      "id": 47,
+      "title": "12 x 4 bằng bao nhiêu?",
+      "A": "44",
+      "B": "46",
+      "C": "48",
+      "D": "50",
+      "result": "C"
+    },
+    {
+      "id": 48,
+      "title": "Ai là tác giả của '1984'?",
+      "A": "George Orwell",
+      "B": "Aldous Huxley",
+      "C": "Ray Bradbury",
+      "D": "Philip K. Dick",
+      "result": "A"
+    },
+    {
+      "id": 49,
+      "title": "Thành phố nào là thủ đô của Canada?",
+      "A": "Toronto",
+      "B": "Vancouver",
+      "C": "Ottawa",
+      "D": "Montreal",
+      "result": "C"
+    },
+    {
+      "id": 50,
+      "title": "Loài nào là biểu tượng của New Zealand?",
+      "A": "Kiwi",
+      "B": "Kangaroo",
+      "C": "Koala",
+      "D": "Emu",
+      "result": "A"
+    }
+  ],
+  "quizSet3": [
+    {
+      "id": 1,
+      "title": "Ai là người phát minh ra xe hơi?",
+      "A": "Henry Ford",
+      "B": "Karl Benz",
+      "C": "Nikola Tesla",
+      "D": "George Stephenson",
+      "result": "B"
+    },
+    {
+      "id": 2,
+      "title": "Thành phố nào là thủ đô của Argentina?",
+      "A": "Buenos Aires",
+      "B": "Córdoba",
+      "C": "Rosario",
+      "D": "Mendoza",
+      "result": "A"
+    },
+    {
+      "id": 3,
+      "title": "6^2 bằng bao nhiêu?",
+      "A": "34",
+      "B": "36",
+      "C": "38",
+      "D": "40",
+      "result": "B"
+    },
+    {
+      "id": 4,
+      "title": "Nguyên tố nào có ký hiệu 'Fe'?",
+      "A": "Sắt",
+      "B": "Đồng",
+      "C": "Chì",
+      "D": "Kẽm",
+      "result": "A"
+    },
+    {
+      "id": 5,
+      "title": "Thành phố nào là thủ đô của Thổ Nhĩ Kỳ?",
+      "A": "Istanbul",
+      "B": "Ankara",
+      "C": "Izmir",
+      "D": "Antalya",
+      "result": "B"
+    },
+    {
+      "id": 6,
+      "title": "Ai là tác giả của 'Les Misérables'?",
+      "A": "Victor Hugo",
+      "B": "Alexandre Dumas",
+      "C": "Honoré de Balzac",
+      "D": "Gustave Flaubert",
+      "result": "A"
+    },
+    {
+      "id": 7,
+      "title": "Đơn vị đo áp suất là gì?",
+      "A": "Pascal",
+      "B": "Watt",
+      "C": "Joule",
+      "D": "Newton",
+      "result": "A"
+    },
+    {
+      "id": 8,
+      "title": "Thành phố nào là thủ đô của Indonesia?",
+      "A": "Jakarta",
+      "B": "Bali",
+      "C": "Surabaya",
+      "D": "Bandung",
+      "result": "A"
+    },
+    {
+      "id": 9,
+      "title": "25 - 9 bằng bao nhiêu?",
+      "A": "14",
+      "B": "15",
+      "C": "16",
+      "D": "17",
+      "result": "C"
+    },
+    {
+      "id": 10,
+      "title": "Loài nào là động vật có túi?",
+      "A": "Kangaroo",
+      "B": "Gấu",
+      "C": "Sư tử",
+      "D": "Hổ",
+      "result": "A"
+    },
+    {
+      "id": 11,
+      "title": "Thành phố nào là thủ đô của Na Uy?",
+      "A": "Oslo",
+      "B": "Bergen",
+      "C": "Trondheim",
+      "D": "Stavanger",
+      "result": "A"
+    },
+    {
+      "id": 12,
+      "title": "Ai là người phát minh ra penicillin?",
+      "A": "Alexander Fleming",
+      "B": "Louis Pasteur",
+      "C": "Joseph Lister",
+      "D": "Robert Koch",
+      "result": "A"
+    },
+    {
+      "id": 13,
+      "title": "Hành tinh nào có bầu khí quyển dày nhất?",
+      "A": "Sao Kim",
+      "B": "Sao Thổ",
+      "C": "Trái Đất",
+      "D": "Sao Mộc",
+      "result": "A"
+    },
+    {
+      "id": 14,
+      "title": "Thành phố nào là thủ đô của Phần Lan?",
+      "A": "Helsinki",
+      "B": "Tampere",
+      "C": "Turku",
+      "D": "Espoo",
+      "result": "A"
+    },
+    {
+      "id": 15,
+      "title": "10 x 5 bằng bao nhiêu?",
+      "A": "45",
+      "B": "50",
+      "C": "55",
+      "D": "60",
+      "result": "B"
+    },
+    {
+      "id": 16,
+      "title": "Ai là tác giả của 'Don Quixote'?",
+      "A": "Miguel de Cervantes",
+      "B": "Federico García Lorca",
+      "C": "Pablo Neruda",
+      "D": "Gabriel García Márquez",
+      "result": "A"
+    },
+    {
+      "id": 17,
+      "title": "Thành phố nào là thủ đô của Đan Mạch?",
+      "A": "Copenhagen",
+      "B": "Aarhus",
+      "C": "Odense",
+      "D": "Aalborg",
+      "result": "A"
+    },
+    {
+      "id": 18,
+      "title": "Nguyên tố nào có ký hiệu 'Na'?",
+      "A": "Natri",
+      "B": "Kali",
+      "C": "Canxi",
+      "D": "Magie",
+      "result": "A"
+    },
+    {
+      "id": 19,
+      "title": "Thành phố nào là thủ đô của Thụy Điển?",
+      "A": "Stockholm",
+      "B": "Gothenburg",
+      "C": "Malmö",
+      "D": "Uppsala",
+      "result": "A"
+    },
+    {
+      "id": 20,
+      "title": "Ai là người phát minh ra máy in?",
+      "A": "Johannes Gutenberg",
+      "B": "Thomas Edison",
+      "C": "Benjamin Franklin",
+      "D": "Leonardo da Vinci",
+      "result": "A"
+    },
+    {
+      "id": 21,
+      "title": "18 chia 3 bằng bao nhiêu?",
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8",
+      "result": "B"
+    },
+    {
+      "id": 22,
+      "title": "Thành phố nào là thủ đô của Bồ Đào Nha?",
+      "A": "Lisbon",
+      "B": "Porto",
+      "C": "Faro",
+      "D": "Coimbra",
+      "result": "A"
+    },
+    {
+      "id": 23,
+      "title": "Loài nào là động vật săn mồi lớn nhất?",
+      "A": "Sư tử",
+      "B": "Gấu trắng",
+      "C": "Hổ",
+      "D": "Cá sấu",
+      "result": "B"
+    },
+    {
+      "id": 24,
+      "title": "Ai là tác giả của 'Bố già'?",
+      "A": "Mario Puzo",
+      "B": "Francis Ford Coppola",
+      "C": "John Grisham",
+      "D": "Tom Clancy",
+      "result": "A"
+    },
+    {
+      "id": 25,
+      "title": "Thành phố nào là thủ đô của Ba Lan?",
+      "A": "Warsaw",
+      "B": "Kraków",
+      "C": "Gdańsk",
+      "D": "Wrocław",
+      "result": "A"
+    },
+    {
+      "id": 26,
+      "title": "7 + 13 bằng bao nhiêu?",
+      "A": "18",
+      "B": "19",
+      "C": "20",
+      "D": "21",
+      "result": "C"
+    },
+    {
+      "id": 27,
+      "title": "Nguyên tố nào có ký hiệu 'C'?",
+      "A": "Carbon",
+      "B": "Clo",
+      "C": "Canxi",
+      "D": "Coban",
+      "result": "A"
+    },
+    {
+      "id": 28,
+      "title": "Thành phố nào là thủ đô của Ireland?",
+      "A": "Dublin",
+      "B": "Cork",
+      "C": "Galway",
+      "D": "Limerick",
+      "result": "A"
+    },
+    {
+      "id": 29,
+      "title": "Ai là người phát minh ra máy tính?",
+      "A": "Charles Babbage",
+      "B": "Alan Turing",
+      "C": "John von Neumann",
+      "D": "Bill Gates",
+      "result": "A"
+    },
+    {
+      "id": 30,
+      "title": "Thành phố nào là thủ đô của Ukraine?",
+      "A": "Kyiv",
+      "B": "Lviv",
+      "C": "Odessa",
+      "D": "Kharkiv",
+      "result": "A"
+    },
+    {
+      "id": 31,
+      "title": "14 + 6 bằng bao nhiêu?",
+      "A": "18",
+      "B": "19",
+      "C": "20",
+      "D": "21",
+      "result": "C"
+    },
+    {
+      "id": 32,
+      "title": "Ai là tác giả của 'Kiêu hãnh và định kiến'?",
+      "A": "Jane Austen",
+      "B": "Emily Brontë",
+      "C": "Charlotte Brontë",
+      "D": "Mary Shelley",
+      "result": "A"
+    },
+    {
+      "id": 33,
+      "title": "Thành phố nào là thủ đô của Hy Lạp?",
+      "A": "Athens",
+      "B": "Thessaloniki",
+      "C": "Patras",
+      "D": "Heraklion",
+      "result": "A"
+    },
+    {
+      "id": 34,
+      "title": "Nguyên tố nào có ký hiệu 'K'?",
+      "A": "Kali",
+      "B": "Krypton",
+      "C": "Kẽm",
+      "D": "Kem",
+      "result": "A"
+    },
+    {
+      "id": 35,
+      "title": "Thành phố nào là thủ đô của Áo?",
+      "A": "Vienna",
+      "B": "Salzburg",
+      "C": "Graz",
+      "D": "Innsbruck",
+      "result": "A"
+    },
+    {
+      "id": 36,
+      "title": "9 chia 3 bằng bao nhiêu?",
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5",
+      "result": "B"
+    },
+    {
+      "id": 37,
+      "title": "Ai là người phát minh ra tia X?",
+      "A": "Wilhelm Röntgen",
+      "B": "Marie Curie",
+      "C": "Pierre Curie",
+      "D": "Ernest Rutherford",
+      "result": "A"
+    },
+    {
+      "id": 38,
+      "title": "Thành phố nào là thủ đô của Hungary?",
+      "A": "Budapest",
+      "B": "Debrecen",
+      "C": "Szeged",
+      "D": "Pécs",
+      "result": "A"
+    },
+    {
+      "id": 39,
+      "title": "Hành tinh nào có gió mạnh nhất?",
+      "A": "Sao Hải Vương",
+      "B": "Sao Thổ",
+      "C": "Sao Mộc",
+      "D": "Trái Đất",
+      "result": "A"
+    },
+    {
+      "id": 40,
+      "title": "Ai là tác giả của 'Cuốn theo chiều gió'?",
+      "A": "Margaret Mitchell",
+      "B": "Harper Lee",
+      "C": "Toni Morrison",
+      "D": "Edith Wharton",
+      "result": "A"
+    },
+    {
+      "id": 41,
+      "title": "Thành phố nào là thủ đô của Romania?",
+      "A": "Bucharest",
+      "B": "Cluj-Napoca",
+      "C": "Timișoara",
+      "D": "Iași",
+      "result": "A"
+    },
+    {
+      "id": 42,
+      "title": "16 - 8 bằng bao nhiêu?",
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9",
+      "result": "C"
+    },
+    {
+      "id": 43,
+      "title": "Nguyên tố nào có ký hiệu 'H'?",
+      "A": "Heli",
+      "B": "Hidro",
+      "C": "Hafni",
+      "D": "Hassi",
+      "result": "B"
+    },
+    {
+      "id": 44,
+      "title": "Thành phố nào là thủ đô của Bulgaria?",
+      "A": "Sofia",
+      "B": "Plovdiv",
+      "C": "Varna",
+      "D": "Burgas",
+      "result": "A"
+    },
+    {
+      "id": 45,
+      "title": "Ai là người phát minh ra bom nguyên tử?",
+      "A": "J. Robert Oppenheimer",
+      "B": "Albert Einstein",
+      "C": "Enrico Fermi",
+      "D": "Niels Bohr",
+      "result": "A"
+    },
+    {
+      "id": 46,
+      "title": "Thành phố nào là thủ đô của Chile?",
+      "A": "Santiago",
+      "B": "Valparaíso",
+      "C": "Concepción",
+      "D": "La Serena",
+      "result": "A"
+    },
+    {
+      "id": 47,
+      "title": "11 x 5 bằng bao nhiêu?",
+      "A": "50",
+      "B": "55",
+      "C": "60",
+      "D": "65",
+      "result": "B"
+    },
+    {
+      "id": 48,
+      "title": "Ai là tác giả của 'Bắt trẻ đồng xanh'?",
+      "A": "J.D. Salinger",
+      "B": "Ernest Hemingway",
+      "C": "F. Scott Fitzgerald",
+      "D": "John Steinbeck",
+      "result": "A"
+    },
+    {
+      "id": 49,
+      "title": "Thành phố nào là thủ đô của Peru?",
+      "A": "Lima",
+      "B": "Cusco",
+      "C": "Arequipa",
+      "D": "Trujillo",
+      "result": "A"
+    },
+    {
+      "id": 50,
+      "title": "Nguyên tố nào có ký hiệu 'Ag'?",
+      "A": "Vàng",
+      "B": "Bạc",
+      "C": "Đồng",
+      "D": "Chì",
+      "result": "B"
+    }
+  ],
+  "quizSet4": [
+    {
+      "id": 1,
+      "title": "Thành phố nào là thủ đô của Colombia?",
+      "A": "Bogotá",
+      "B": "Medellín",
+      "C": "Cali",
+      "D": "Cartagena",
+      "result": "A"
+    },
+    {
+      "id": 2,
+      "title": "Ai là tác giả của 'Moby-Dick'?",
+      "A": "Herman Melville",
+      "B": "Nathaniel Hawthorne",
+      "C": "Mark Twain",
+      "D": "Edgar Allan Poe",
+      "result": "A"
+    },
+    {
+      "id": 3,
+      "title": "13 + 7 bằng bao nhiêu?",
+      "A": "18",
+      "B": "19",
+      "C": "20",
+      "D": "21",
+      "result": "C"
+    },
+    {
+      "id": 4,
+      "title": "Nguyên tố nào có ký hiệu 'Pb'?",
+      "A": "Chì",
+      "B": "Thiếc",
+      "C": "Kẽm",
+      "D": "Thủy ngân",
+      "result": "A"
+    },
+    {
+      "id": 5,
+      "title": "Thành phố nào là thủ đô của Venezuela?",
+      "A": "Caracas",
+      "B": "Maracaibo",
+      "C": "Valencia",
+      "D": "Barquisimeto",
+      "result": "A"
+    },
+    {
+      "id": 6,
+      "title": "Ai là người phát minh ra tivi?",
+      "A": "Philo Farnsworth",
+      "B": "John Logie Baird",
+      "C": "Thomas Edison",
+      "D": "Nikola Tesla",
+      "result": "B"
+    },
+    {
+      "id": 7,
+      "title": "Thành phố nào là thủ đô của Nam Phi?",
+      "A": "Johannesburg",
+      "B": "Cape Town",
+      "C": "Pretoria",
+      "D": "Durban",
+      "result": "C"
+    },
+    {
+      "id": 8,
+      "title": "5^2 bằng bao nhiêu?",
+      "A": "20",
+      "B": "25",
+      "C": "30",
+      "D": "35",
+      "result": "B"
+    },
+    {
+      "id": 9,
+      "title": "Ai là tác giả của 'Tên tôi là Đỏ'?",
+      "A": "Orhan Pamuk",
+      "B": "Elif Shafak",
+      "C": "Ahmet Hamdi Tanpınar",
+      "D": "Yaşar Kemal",
+      "result": "A"
+    },
+    {
+      "id": 10,
+      "title": "Thành phố nào là thủ đô của Kenya?",
+      "A": "Nairobi",
+      "B": "Mombasa",
+      "C": "Kisumu",
+      "D": "Eldoret",
+      "result": "A"
+    },
+    {
+      "id": 11,
+      "title": "Nguyên tố nào có ký hiệu 'Cl'?",
+      "A": "Clo",
+      "B": "Canxi",
+      "C": "Crom",
+      "D": "Coban",
+      "result": "A"
+    },
+    {
+      "id": 12,
+      "title": "Thành phố nào là thủ đô của Nigeria?",
+      "A": "Lagos",
+      "B": "Abuja",
+      "C": "Kano",
+      "D": "Ibadan",
+      "result": "B"
+    },
+    {
+      "id": 13,
+      "title": "Ai là người phát minh ra internet?",
+      "A": "Vinton Cerf",
+      "B": "Tim Berners-Lee",
+      "C": "Bill Gates",
+      "D": "Steve Jobs",
+      "result": "A"
+    },
+    {
+      "id": 14,
+      "title": "Thành phố nào là thủ đô của Ghana?",
+      "A": "Accra",
+      "B": "Kumasi",
+      "C": "Tamale",
+      "D": "Sekondi",
+      "result": "A"
+    },
+    {
+      "id": 15,
+      "title": "14 chia 2 bằng bao nhiêu?",
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9",
+      "result": "B"
+    },
+    {
+      "id": 16,
+      "title": "Ai là tác giả của 'Hài kịch của những lỗi lầm'?",
+      "A": "William Shakespeare",
+      "B": "Christopher Marlowe",
+      "C": "Ben Jonson",
+      "D": "John Milton",
+      "result": "A"
+    },
+    {
+      "id": 17,
+      "title": "Thành phố nào là thủ đô của Morocco?",
+      "A": "Casablanca",
+      "B": "Rabat",
+      "C": "Marrakesh",
+      "D": "Fes",
+      "result": "B"
+    },
+    {
+      "id": 18,
+      "title": "Nguyên tố nào có ký hiệu 'Mg'?",
+      "A": "Magie",
+      "B": "Mangan",
+      "C": "Molypden",
+      "D": "Mercuri",
+      "result": "A"
+    },
+    {
+      "id": 19,
+      "title": "Thành phố nào là thủ đô của Algeria?",
+      "A": "Algiers",
+      "B": "Oran",
+      "C": "Constantine",
+      "D": "Annaba",
+      "result": "A"
+    },
+    {
+      "id": 20,
+      "title": "Ai là người phát minh ra máy ảnh?",
+      "A": "George Eastman",
+      "B": "Louis Daguerre",
+      "C": "Thomas Edison",
+      "D": "Nicéphore Niépce",
+      "result": "D"
+    },
+    {
+      "id": 21,
+      "title": "Thành phố nào là thủ đô của Tunisia?",
+      "A": "Tunis",
+      "B": "Sfax",
+      "C": "Sousse",
+      "D": "Kairouan",
+      "result": "A"
+    },
+    {
+      "id": 22,
+      "title": "8 + 12 bằng bao nhiêu?",
+      "A": "18",
+      "B": "19",
+      "C": "20",
+      "D": "21",
+      "result": "C"
+    },
+    {
+      "id": 23,
+      "title": "Ai là tác giả của 'Hồ trên núi'?",
+      "A": "Ernest Hemingway",
+      "B": "F. Scott Fitzgerald",
+      "C": "John Steinbeck",
+      "D": "William Faulkner",
+      "result": "C"
+    },
+    {
+      "id": 24,
+      "title": "Thành phố nào là thủ đô của Ethiopia?",
+      "A": "Addis Ababa",
+      "B": "Dire Dawa",
+      "C": "Bahir Dar",
+      "D": "Gondar",
+      "result": "A"
+    },
+    {
+      "id": 25,
+      "title": "Nguyên tố nào có ký hiệu 'S'?",
+      "A": "Lưu huỳnh",
+      "B": "Silic",
+      "C": "Sắt",
+      "D": "Selen",
+      "result": "A"
+    },
+    {
+      "id": 26,
+      "title": "Thành phố nào là thủ đô của Uganda?",
+      "A": "Kampala",
+      "B": "Gulu",
+      "C": "Jinja",
+      "D": "Mbale",
+      "result": "A"
+    },
+    {
+      "id": 27,
+      "title": "Ai là người phát minh ra đèn giao thông?",
+      "A": "Garrett Morgan",
+      "B": "Thomas Edison",
+      "C": "Nikola Tesla",
+      "D": "Henry Ford",
+      "result": "A"
+    },
+    {
+      "id": 28,
+      "title": "15 + 5 bằng bao nhiêu?",
+      "A": "18",
+      "B": "19",
+      "C": "20",
+      "D": "21",
+      "result": "C"
+    },
+    {
+      "id": 29,
+      "title": "Thành phố nào là thủ đô của Zimbabwe?",
+      "A": "Harare",
+      "B": "Bulawayo",
+      "C": "Gweru",
+      "D": "Mutare",
+      "result": "A"
+    },
+    {
+      "id": 30,
+      "title": "Ai là tác giả của 'Dưới bóng cây sồi'?",
+      "A": "Louisa May Alcott",
+      "B": "Jane Austen",
+      "C": "Emily Dickinson",
+      "D": "Charlotte Brontë",
+      "result": "A"
+    },
+    {
+      "id": 31,
+      "title": "Thành phố nào là thủ đô của Sudan?",
+      "A": "Khartoum",
+      "B": "Omdurman",
+      "C": "Port Sudan",
+      "D": "Nyala",
+      "result": "A"
+    },
+    {
+      "id": 32,
+      "title": "Nguyên tố nào có ký hiệu 'P'?",
+      "A": "Photpho",
+      "B": "Platin",
+      "C": "Palladi",
+      "D": "Poloni",
+      "result": "A"
+    },
+    {
+      "id": 33,
+      "title": "Thành phố nào là thủ đô của Libya?",
+      "A": "Tripoli",
+      "B": "Benghazi",
+      "C": "Misrata",
+      "D": "Sabha",
+      "result": "A"
+    },
+    {
+      "id": 34,
+      "title": "Ai là người phát minh ra lốp xe hơi?",
+      "A": "Charles Goodyear",
+      "B": "John Dunlop",
+      "C": "Henry Ford",
+      "D": "Karl Benz",
+      "result": "B"
+    },
+    {
+      "id": 35,
+      "title": "Thành phố nào là thủ đô của Angola?",
+      "A": "Luanda",
+      "B": "Huambo",
+      "C": "Lobito",
+      "D": "Benguela",
+      "result": "A"
+    },
+    {
+      "id": 36,
+      "title": "13 chia 13 bằng bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3",
+      "result": "B"
+    },
+    {
+      "id": 37,
+      "title": "Ai là tác giả của 'Tiếng gọi nơi hoang dã'?",
+      "A": "Jack London",
+      "B": "Ernest Hemingway",
+      "C": "Mark Twain",
+      "D": "John Steinbeck",
+      "result": "A"
+    },
+    {
+      "id": 38,
+      "title": "Thành phố nào là thủ đô của Somalia?",
+      "A": "Mogadishu",
+      "B": "Hargeisa",
+      "C": "Bosaso",
+      "D": "Kismayo",
+      "result": "A"
+    },
+    {
+      "id": 39,
+      "title": "Nguyên tố nào có ký hiệu 'N'?",
+      "A": "Nitơ",
+      "B": "Neon",
+      "C": "Natri",
+      "D": "Niken",
+      "result": "A"
+    },
+    {
+      "id": 40,
+      "title": "Thành phố nào là thủ đô của Madagascar?",
+      "A": "Antananarivo",
+      "B": "Toamasina",
+      "C": "Antsirabe",
+      "D": "Fianarantsoa",
+      "result": "A"
+    },
+    {
+      "id": 41,
+      "title": "Ai là người phát minh ra máy khâu?",
+      "A": "Elias Howe",
+      "B": "Isaac Singer",
+      "C": "Thomas Edison",
+      "D": "Nikola Tesla",
+      "result": "A"
+    },
+    {
+      "id": 42,
+      "title": "Thành phố nào là thủ đô của Cameroon?",
+      "A": "Yaoundé",
+      "B": "Douala",
+      "C": "Garoua",
+      "D": "Bamenda",
+      "result": "A"
+    },
+    {
+      "id": 43,
+      "title": "9 + 11 bằng bao nhiêu?",
+      "A": "18",
+      "B": "19",
+      "C": "20",
+      "D": "21",
+      "result": "C"
+    },
+    {
+      "id": 44,
+      "title": "Ai là tác giả của 'Anna Karenina'?",
+      "A": "Leo Tolstoy",
+      "B": "Fyodor Dostoevsky",
+      "C": "Anton Chekhov",
+      "D": "Ivan Turgenev",
+      "result": "A"
+    },
+    {
+      "id": 45,
+      "title": "Thành phố nào là thủ đô của Senegal?",
+      "A": "Dakar",
+      "B": "Thiès",
+      "C": "Saint-Louis",
+      "D": "Ziguinchor",
+      "result": "A"
+    },
+    {
+      "id": 46,
+      "title": "Nguyên tố nào có ký hiệu 'Ca'?",
+      "A": "Canxi",
+      "B": "Coban",
+      "C": "Clo",
+      "D": "Crom",
+      "result": "A"
+    },
+    {
+      "id": 47,
+      "title": "Thành phố nào là thủ đô của Mali?",
+      "A": "Bamako",
+      "B": "Timbuktu",
+      "C": "Sikasso",
+      "D": "Segou",
+      "result": "A"
+    },
+    {
+      "id": 48,
+      "title": "Ai là người phát minh ra kính viễn vọng?",
+      "A": "Galileo Galilei",
+      "B": "Isaac Newton",
+      "C": "Johannes Kepler",
+      "D": "Hans Lippershey",
+      "result": "D"
+    },
+    {
+      "id": 49,
+      "title": "Thành phố nào là thủ đô của Zambia?",
+      "A": "Lusaka",
+      "B": "Ndola",
+      "C": "Kitwe",
+      "D": "Livingstone",
+      "result": "A"
+    },
+    {
+      "id": 50,
+      "title": "15 x 3 bằng bao nhiêu?",
+      "A": "40",
+      "B": "45",
+      "C": "50",
+      "D": "55",
+      "result": "B"
+    }
+  ],
+  "quizSet5": [
+    {
+      "id": 1,
+      "title": "Thành phố nào là thủ đô của Botswana?",
+      "A": "Gaborone",
+      "B": "Francistown",
+      "C": "Maun",
+      "D": "Kasane",
+      "result": "A"
+    },
+    {
+      "id": 2,
+      "title": "Ai là tác giả của 'The Old Man and the Sea'?",
+      "A": "Ernest Hemingway",
+      "B": "F. Scott Fitzgerald",
+      "C": "John Steinbeck",
+      "D": "William Faulkner",
+      "result": "A"
+    },
+    {
+      "id": 3,
+      "title": "Nguyên tố nào có ký hiệu 'Al'?",
+      "A": "Nhôm",
+      "B": "Asen",
+      "C": "Antimon",
+      "D": "Argon",
+      "result": "A"
+    },
+    {
+      "id": 4,
+      "title": "Thành phố nào là thủ đô của Namibia?",
+      "A": "Windhoek",
+      "B": "Walvis Bay",
+      "C": "Swakopmund",
+      "D": "Rundu",
+      "result": "A"
+    },
+    {
+      "id": 5,
+      "title": "Ai là người phát minh ra máy hát?",
+      "A": "Thomas Edison",
+      "B": "Alexander Graham Bell",
+      "C": "Nikola Tesla",
+      "D": "Emile Berliner",
+      "result": "A"
+    },
+    {
+      "id": 6,
+      "title": "Thành phố nào là thủ đô của Mozambique?",
+      "A": "Maputo",
+      "B": "Beira",
+      "C": "Nampula",
+      "D": "Quelimane",
+      "result": "A"
+    },
+    {
+      "id": 7,
+      "title": "12 + 8 bằng bao nhiêu?",
+      "A": "18",
+      "B": "19",
+      "C": "20",
+      "D": "21",
+      "result": "C"
+    },
+    {
+      "id": 8,
+      "title": "Ai là tác giả của 'Brave New World'?",
+      "A": "Aldous Huxley",
+      "B": "George Orwell",
+      "C": "Ray Bradbury",
+      "D": "Philip K. Dick",
+      "result": "A"
+    },
+    {
+      "id": 9,
+      "title": "Thành phố nào là thủ đô của Malawi?",
+      "A": "Lilongwe",
+      "B": "Blantyre",
+      "C": "Mzuzu",
+      "D": "Zomba",
+      "result": "A"
+    },
+    {
+      "id": 10,
+      "title": "Nguyên tố nào có ký hiệu 'Si'?",
+      "A": "Silic",
+      "B": "Lưu huỳnh",
+      "C": "Sắt",
+      "D": "Selen",
+      "result": "A"
+    },
+    {
+      "id": 11,
+      "title": "Thành phố nào là thủ đô của Tanzania?",
+      "A": "Dodoma",
+      "B": "Dar es Salaam",
+      "C": "Mwanza",
+      "D": "Arusha",
+      "result": "A"
+    },
+    {
+      "id": 12,
+      "title": "Ai là người phát minh ra bóng bay hơi nước?",
+      "A": "Montgolfier Brothers",
+      "B": "Wright Brothers",
+      "C": "Leonardo da Vinci",
+      "D": "George Cayley",
+      "result": "A"
+    },
+    {
+      "id": 13,
+      "title": "Thành phố nào là thủ đô của Rwanda?",
+      "A": "Kigali",
+      "B": "Gisenyi",
+      "C": "Butare",
+      "D": "Ruhengeri",
+      "result": "A"
+    },
+    {
+      "id": 14,
+      "title": "16 chia 4 bằng bao nhiêu?",
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6",
+      "result": "B"
+    },
+    {
+      "id": 15,
+      "title": "Ai là tác giả của 'Fahrenheit 451'?",
+      "A": "Ray Bradbury",
+      "B": "George Orwell",
+      "C": "Aldous Huxley",
+      "D": "Isaac Asimov",
+      "result": "A"
+    },
+    {
+      "id": 16,
+      "title": "Thành phố nào là thủ đô của Burundi?",
+      "A": "Gitega",
+      "B": "Bujumbura",
+      "C": "Ngozi",
+      "D": "Rumonge",
+      "result": "A"
+    },
+    {
+      "id": 17,
+      "title": "Nguyên tố nào có ký hiệu 'He'?",
+      "A": "Hidro",
+      "B": "Heli",
+      "C": "Hafni",
+      "D": "Hassi",
+      "result": "B"
+    },
+    {
+      "id": 18,
+      "title": "Thành phố nào là thủ đô của Chad?",
+      "A": "N'Djamena",
+      "B": "Moundou",
+      "C": "Sarh",
+      "D": "Abéché",
+      "result": "A"
+    },
+    {
+      "id": 19,
+      "title": "Ai là người phát minh ra máy ATM?",
+      "A": "John Shepherd-Barron",
+      "B": "Donald Wetzel",
+      "C": "Luther Simjian",
+      "D": "James Goodfellow",
+      "result": "A"
+    },
+    {
+      "id": 20,
+      "title": "Thành phố nào là thủ đô của Niger?",
+      "A": "Niamey",
+      "B": "Zinder",
+      "C": "Maradi",
+      "D": "Agadez",
+      "result": "A"
+    },
+    {
+      "id": 21,
+      "title": "11 + 9 bằng bao nhiêu?",
+      "A": "18",
+      "B": "19",
+      "C": "20",
+      "D": "21",
+      "result": "C"
+    },
+    {
+      "id": 22,
+      "title": "Ai là tác giả của 'The Great Gatsby'?",
+      "A": "F. Scott Fitzgerald",
+      "B": "Ernest Hemingway",
+      "C": "John Steinbeck",
+      "D": "William Faulkner",
+      "result": "A"
+    },
+    {
+      "id": 23,
+      "title": "Thành phố nào là thủ đô của Benin?",
+      "A": "Porto-Novo",
+      "B": "Cotonou",
+      "C": "Parakou",
+      "D": "Abomey",
+      "result": "A"
+    },
+    {
+      "id": 24,
+      "title": "Nguyên tố nào có ký hiệu 'Li'?",
+      "A": "Liti",
+      "B": "Lưu huỳnh",
+      "C": "Lantan",
+      "D": "Lutetium",
+      "result": "A"
+    },
+    {
+      "id": 25,
+      "title": "Thành phố nào là thủ đô của Togo?",
+      "A": "Lomé",
+      "B": "Sokodé",
+      "C": "Kara",
+      "D": "Atakpamé",
+      "result": "A"
+    },
+    {
+      "id": 26,
+      "title": "Ai là người phát minh ra máy xúc?",
+      "A": "William Otis",
+      "B": "Henry Ford",
+      "C": "Karl Benz",
+      "D": "James Watt",
+      "result": "A"
+    },
+    {
+      "id": 27,
+      "title": "Thành phố nào là thủ đô của Gabon?",
+      "A": "Libreville",
+      "B": "Port-Gentil",
+      "C": "Franceville",
+      "D": "Oyem",
+      "result": "A"
+    },
+    {
+      "id": 28,
+      "title": "20 - 7 bằng bao nhiêu?",
+      "A": "12",
+      "B": "13",
+      "C": "14",
+      "D": "15",
+      "result": "B"
+    },
+    {
+      "id": 29,
+      "title": "Ai là tác giả của 'The Hobbit'?",
+      "A": "J.R.R. Tolkien",
+      "B": "C.S. Lewis",
+      "C": "George R.R. Martin",
+      "D": "J.K. Rowling",
+      "result": "A"
+    },
+    {
+      "id": 30,
+      "title": "Thành phố nào là thủ đô của Gambia?",
+      "A": "Banjul",
+      "B": "Serekunda",
+      "C": "Brikama",
+      "D": "Bakau",
+      "result": "A"
+    },
+    {
+      "id": 31,
+      "title": "Nguyên tố nào có ký hiệu 'B'?",
+      "A": "Bo",
+      "B": "Bari",
+      "C": "Beri",
+      "D": "Bismut",
+      "result": "A"
+    },
+    {
+      "id": 32,
+      "title": "Thành phố nào là thủ đô của Sierra Leone?",
+      "A": "Freetown",
+      "B": "Bo",
+      "C": "Kenema",
+      "D": "Makeni",
+      "result": "A"
+    },
+    {
+      "id": 33,
+      "title": "Ai là người phát minh ra la bàn?",
+      "A": "Người Trung Quốc cổ đại",
+      "B": "Galileo Galilei",
+      "C": "Isaac Newton",
+      "D": "Christopher Columbus",
+      "result": "A"
+    },
+    {
+      "id": 34,
+      "title": "Thành phố nào là thủ đô của Liberia?",
+      "A": "Monrovia",
+      "B": "Gbarnga",
+      "C": "Buchanan",
+      "D": "Harper",
+      "result": "A"
+    },
+    {
+      "id": 35,
+      "title": "13 x 2 bằng bao nhiêu?",
+      "A": "24",
+      "B": "26",
+      "C": "28",
+      "D": "30",
+      "result": "B"
+    },
+    {
+      "id": 36,
+      "title": "Ai là tác giả của 'Crime and Punishment'?",
+      "A": "Fyodor Dostoevsky",
+      "B": "Leo Tolstoy",
+      "C": "Anton Chekhov",
+      "D": "Ivan Turgenev",
+      "result": "A"
+    },
+    {
+      "id": 37,
+      "title": "Thành phố nào là thủ đô của Guinea?",
+      "A": "Conakry",
+      "B": "Nzérékoré",
+      "C": "Kankan",
+      "D": "Labé",
+      "result": "A"
+    },
+    {
+      "id": 38,
+      "title": "Nguyên tố nào có ký hiệu 'F'?",
+      "A": "Flo",
+      "B": "Franci",
+      "C": "Fermium",
+      "D": "Ferrum",
+      "result": "A"
+    },
+    {
+      "id": 39,
+      "title": "Thành phố nào là thủ đô của Côte d'Ivoire?",
+      "A": "Yamoussoukro",
+      "B": "Abidjan",
+      "C": "Bouaké",
+      "D": "Daloa",
+      "result": "A"
+    },
+    {
+      "id": 40,
+      "title": "Ai là người phát minh ra tàu hỏa?",
+      "A": "George Stephenson",
+      "B": "James Watt",
+      "C": "Henry Ford",
+      "D": "Karl Benz",
+      "result": "A"
+    },
+    {
+      "id": 41,
+      "title": "Thành phố nào là thủ đô của Burkina Faso?",
+      "A": "Ouagadougou",
+      "B": "Bobo-Dioulasso",
+      "C": "Koudougou",
+      "D": "Banfora",
+      "result": "A"
+    },
+    {
+      "id": 42,
+      "title": "17 - 9 bằng bao nhiêu?",
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9",
+      "result": "C"
+    },
+    {
+      "id": 43,
+      "title": "Ai là tác giả của 'To Kill a Mockingbird'?",
+      "A": "Harper Lee",
+      "B": "Toni Morrison",
+      "C": "Maya Angelou",
+      "D": "Zora Neale Hurston",
+      "result": "A"
+    },
+    {
+      "id": 44,
+      "title": "Thành phố nào là thủ đô của Mauritania?",
+      "A": "Nouakchott",
+      "B": "Nouadhibou",
+      "C": "Rosso",
+      "D": "Atar",
+      "result": "A"
+    },
+    {
+      "id": 45,
+      "title": "Nguyên tố nào có ký hiệu 'Kr'?",
+      "A": "Krypton",
+      "B": "Kali",
+      "C": "Kẽm",
+      "D": "Kem",
+      "result": "A"
+    },
+    {
+      "id": 46,
+      "title": "Thành phố nào là thủ đô của Lesotho?",
+      "A": "Maseru",
+      "B": "Leribe",
+      "C": "Mafeteng",
+      "D": "Quthing",
+      "result": "A"
+    },
+    {
+      "id": 47,
+      "title": "Ai là người phát minh ra máy cắt cỏ?",
+      "A": "Edwin Budding",
+      "B": "John Deere",
+      "C": "Henry Ford",
+      "D": "Thomas Edison",
+      "result": "A"
+    },
+    {
+      "id": 48,
+      "title": "Thành phố nào là thủ đô của Swaziland (Eswatini)?",
+      "A": "Mbabane",
+      "B": "Manzini",
+      "C": "Lobamba",
+      "D": "Siteki",
+      "result": "A"
+    },
+    {
+      "id": 49,
+      "title": "14 x 3 bằng bao nhiêu?",
+      "A": "40",
+      "B": "42",
+      "C": "44",
+      "D": "46",
+      "result": "B"
+    },
+    {
+      "id": 50,
+      "title": "Ai là tác giả của 'The Sun Also Rises'?",
+      "A": "Ernest Hemingway",
+      "B": "F. Scott Fitzgerald",
+      "C": "John Steinbeck",
+      "D": "William Faulkner",
+      "result": "A"
+    }
+  ],
+  "quizSet6": [
+      {
+        "id": 1,
+        "title": "Giải phương trình: x^2 - 5x + 6 = 0. Nghiệm nào sau đây là đúng?",
+        "A": "x = 1 hoặc x = 6",
+        "B": "x = 2 hoặc x = 3",
+        "C": "x = -2 hoặc x = -3",
+        "D": "x = 0 hoặc x = 5",
+        "result": "B"
+      },
+      {
+        "id": 2,
+        "title": "Hằng số vật lý nào liên quan đến vận tốc ánh sáng trong chân không (≈ 3×10^8 m/s)?",
+        "A": "Hằng số Planck",
+        "B": "Hằng số Boltzmann",
+        "C": "Hằng số c",
+        "D": "Hằng số Avogadro",
+        "result": "C"
+      },
+      {
+        "id": 3,
+        "title": "Ai là nhà toán học đã chứng minh Định lý cuối cùng của Fermat sau hơn 350 năm?",
+        "A": "Andrew Wiles",
+        "B": "Pierre de Fermat",
+        "C": "Leonhard Euler",
+        "D": "Carl Friedrich Gauss",
+        "result": "A"
+      },
+      {
+        "id": 4,
+        "title": "Hành tinh nào có áp suất khí quyển cao nhất trong Hệ Mặt Trời?",
+        "A": "Sao Kim",
+        "B": "Sao Thổ",
+        "C": "Sao Mộc",
+        "D": "Trái Đất",
+        "result": "A"
+      },
+      {
+        "id": 5,
+        "title": "Tác phẩm 'Ulysses' của James Joyce được lấy cảm hứng từ sử thi nào của Hy Lạp?",
+        "A": "Iliad",
+        "B": "Odyssey",
+        "C": "Aeneid",
+        "D": "Theogony",
+        "result": "B"
+      },
+      {
+        "id": 6,
+        "title": "Nguyên tố nào có số khối lớn nhất được tìm thấy tự nhiên trên Trái Đất?",
+        "A": "Urani (U)",
+        "B": "Plutoni (Pu)",
+        "C": "Thori (Th)",
+        "D": "Neptuni (Np)",
+        "result": "A"
+      },
+      {
+        "id": 7,
+        "title": "Tính tích phân ∫(2x + 3) dx từ 0 đến 2. Kết quả là bao nhiêu?",
+        "A": "8",
+        "B": "10",
+        "C": "12",
+        "D": "14",
+        "result": "B"
+      },
+      {
+        "id": 8,
+        "title": "Nhà khoa học nào phát triển lý thuyết về lỗ đen dựa trên thuyết tương đối rộng?",
+        "A": "Stephen Hawking",
+        "B": "Albert Einstein",
+        "C": "Roger Penrose",
+        "D": "John Wheeler",
+        "result": "A"
+      },
+      {
+        "id": 9,
+        "title": "Quốc gia nào có đường hầm dài nhất thế giới (Gotthard Base Tunnel)?",
+        "A": "Thụy Sĩ",
+        "B": "Nhật Bản",
+        "C": "Ý",
+        "D": "Pháp",
+        "result": "A"
+      },
+      {
+        "id": 10,
+        "title": "Tác phẩm nào của Franz Kafka mô tả một người đàn ông tỉnh dậy và thấy mình biến thành côn trùng?",
+        "A": "The Trial",
+        "B": "The Castle",
+        "C": "The Metamorphosis",
+        "D": "Amerika",
+        "result": "C"
+      },
+      {
+        "id": 11,
+        "title": "Hằng số toán học nào xấp xỉ bằng 2.71828?",
+        "A": "π (Pi)",
+        "B": "e (Euler)",
+        "C": "φ (Phi)",
+        "D": "γ (Gamma)",
+        "result": "B"
+      },
+      {
+        "id": 12,
+        "title": "Ai là nhà vật lý đã đề xuất nguyên lý bất định?",
+        "A": "Niels Bohr",
+        "B": "Werner Heisenberg",
+        "C": "Erwin Schrödinger",
+        "D": "Max Planck",
+        "result": "B"
+      },
+      {
+        "id": 13,
+        "title": "Sông nào có lưu vực lớn nhất thế giới?",
+        "A": "Sông Nile",
+        "B": "Sông Amazon",
+        "C": "Sông Mississippi",
+        "D": "Sông Dương Tử",
+        "result": "B"
+      },
+      {
+        "id": 14,
+        "title": "Nguyên tố hóa học nào có nhiệt độ nóng chảy cao nhất (3410°C)?",
+        "A": "Vonfram (W)",
+        "B": "Rheni (Re)",
+        "C": "Osmium (Os)",
+        "D": "Tantalum (Ta)",
+        "result": "A"
+      },
+      {
+        "id": 15,
+        "title": "Giải bất phương trình: 3x - 7 > 5. Giá trị nhỏ nhất của x là bao nhiêu?",
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6",
+        "result": "B"
+      },
+      {
+        "id": 16,
+        "title": "Ai là nhà văn đã viết 'One Hundred Years of Solitude' và nhận Nobel Văn học năm 1982?",
+        "A": "Gabriel García Márquez",
+        "B": "Mario Vargas Llosa",
+        "C": "Jorge Luis Borges",
+        "D": "Octavio Paz",
+        "result": "A"
+      },
+      {
+        "id": 17,
+        "title": "Hành tinh nào có mật độ thấp nhất trong Hệ Mặt Trời?",
+        "A": "Sao Thổ",
+        "B": "Sao Mộc",
+        "C": "Sao Thiên Vương",
+        "D": "Sao Hải Vương",
+        "result": "A"
+      },
+      {
+        "id": 18,
+        "title": "Tính đạo hàm của hàm f(x) = x^3 - 2x tại x = 1. Kết quả là bao nhiêu?",
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "result": "A"
+      },
+      {
+        "id": 19,
+        "title": "Quốc gia nào là nơi khởi nguồn của Cách mạng Công nghiệp?",
+        "A": "Pháp",
+        "B": "Anh",
+        "C": "Đức",
+        "D": "Mỹ",
+        "result": "B"
+      },
+      {
+        "id": 20,
+        "title": "Ai là nhà khoa học đã phát triển lý thuyết lượng tử ánh sáng?",
+        "A": "Albert Einstein",
+        "B": "Max Planck",
+        "C": "Niels Bohr",
+        "D": "Louis de Broglie",
+        "result": "B"
+      },
+      {
+        "id": 21,
+        "title": "Tìm nghiệm của phương trình log₂(x) = 3. Giá trị của x là bao nhiêu?",
+        "A": "6",
+        "B": "8",
+        "C": "9",
+        "D": "10",
+        "result": "B"
+      },
+      {
+        "id": 22,
+        "title": "Tác phẩm nào của Dostoevsky khám phá mối quan hệ giữa đức tin và lý trí?",
+        "A": "Crime and Punishment",
+        "B": "The Brothers Karamazov",
+        "C": "The Idiot",
+        "D": "Notes from Underground",
+        "result": "B"
+      },
+      {
+        "id": 23,
+        "title": "Ngọn núi nào cao thứ hai thế giới sau Everest?",
+        "A": "K2",
+        "B": "Kangchenjunga",
+        "C": "Lhotse",
+        "D": "Makalu",
+        "result": "A"
+      },
+      {
+        "id": 24,
+        "title": "Nguyên tố nào có bán kính nguyên tử lớn nhất trong bảng tuần hoàn?",
+        "A": "Franci (Fr)",
+        "B": "Xesi (Cs)",
+        "C": "Rubiđi (Rb)",
+        "D": "Kali (K)",
+        "result": "B"
+      },
+      {
+        "id": 25,
+        "title": "Tính giá trị của 3! + 4!. Kết quả là bao nhiêu?",
+        "A": "24",
+        "B": "30",
+        "C": "36",
+        "D": "42",
+        "result": "B"
+      },
+      {
+        "id": 26,
+        "title": "Ai là nhà vật lý đã phát triển phương trình sóng của cơ học lượng tử?",
+        "A": "Werner Heisenberg",
+        "B": "Erwin Schrödinger",
+        "C": "Paul Dirac",
+        "D": "Richard Feynman",
+        "result": "B"
+      },
+      {
+        "id": 27,
+        "title": "Hành tinh nào có thời gian tự quay quanh trục ngắn nhất?",
+        "A": "Sao Mộc",
+        "B": "Sao Thổ",
+        "C": "Trái Đất",
+        "D": "Sao Hỏa",
+        "result": "A"
+      },
+      {
+        "id": 28,
+        "title": "Tác phẩm nào của Shakespeare kể về một vị vua Đan Mạch bị sát hại bởi em trai?",
+        "A": "Macbeth",
+        "B": "Hamlet",
+        "C": "Othello",
+        "D": "King Lear",
+        "result": "B"
+      },
+      {
+        "id": 29,
+        "title": "Quốc gia nào có diện tích rừng Amazon lớn nhất?",
+        "A": "Brazil",
+        "B": "Peru",
+        "C": "Colombia",
+        "D": "Venezuela",
+        "result": "A"
+      },
+      {
+        "id": 30,
+        "title": "Nguyên tố nào được sử dụng trong lò phản ứng hạt nhân để làm chậm neutron?",
+        "A": "Urani",
+        "B": "Graphite",
+        "C": "Plutoni",
+        "D": "Thori",
+        "result": "B"
+      },
+      {
+        "id": 31,
+        "title": "Tính cos(π/3). Kết quả là bao nhiêu?",
+        "A": "0",
+        "B": "1/2",
+        "C": "√3/2",
+        "D": "1",
+        "result": "B"
+      },
+      {
+        "id": 32,
+        "title": "Ai là nhà khoa học đã phát hiện ra định luật bảo toàn năng lượng?",
+        "A": "James Joule",
+        "B": "Hermann von Helmholtz",
+        "C": "Michael Faraday",
+        "D": "Sadi Carnot",
+        "result": "A"
+      },
+      {
+        "id": 33,
+        "title": "Hành tinh lùn nào lớn nhất trong Hệ Mặt Trời?",
+        "A": "Pluto",
+        "B": "Eris",
+        "C": "Ceres",
+        "D": "Haumea",
+        "result": "B"
+      },
+      {
+        "id": 34,
+        "title": "Tác phẩm nào của Hemingway lấy bối cảnh Nội chiến Tây Ban Nha?",
+        "A": "The Sun Also Rises",
+        "B": "For Whom the Bell Tolls",
+        "C": "A Farewell to Arms",
+        "D": "The Old Man and the Sea",
+        "result": "B"
+      },
+      {
+        "id": 35,
+        "title": "Tính giá trị của √(16 + 9). Kết quả là bao nhiêu?",
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8",
+        "result": "A"
+      },
+      {
+        "id": 36,
+        "title": "Ai là nhà toán học đã phát triển hình học phi Euclid?",
+        "A": "Euclid",
+        "B": "Nikolai Lobachevsky",
+        "C": "Bernhard Riemann",
+        "D": "Carl Friedrich Gauss",
+        "result": "B"
+      },
+      {
+        "id": 37,
+        "title": "Quốc gia nào có số lượng núi lửa hoạt động nhiều nhất thế giới?",
+        "A": "Indonesia",
+        "B": "Nhật Bản",
+        "C": "Iceland",
+        "D": "Ý",
+        "result": "A"
+      },
+      {
+        "id": 38,
+        "title": "Nguyên tố nào có độ âm điện cao nhất trong bảng tuần hoàn?",
+        "A": "Oxy (O)",
+        "B": "Flo (F)",
+        "C": "Clo (Cl)",
+        "D": "Nitơ (N)",
+        "result": "B"
+      },
+      {
+        "id": 39,
+        "title": "Tính tích phân ∫(x^2) dx từ 0 đến 3. Kết quả là bao nhiêu?",
+        "A": "6",
+        "B": "9",
+        "C": "12",
+        "D": "15",
+        "result": "B"
+      },
+      {
+        "id": 40,
+        "title": "Ai là nhà khoa học đã phát hiện ra electron?",
+        "A": "J.J. Thomson",
+        "B": "Ernest Rutherford",
+        "C": "Robert Millikan",
+        "D": "James Chadwick",
+        "result": "A"
+      },
+      {
+        "id": 41,
+        "title": "Hành tinh nào có quỹ đạo elip nhất trong Hệ Mặt Trời?",
+        "A": "Sao Thủy",
+        "B": "Sao Kim",
+        "C": "Sao Hỏa",
+        "D": "Sao Mộc",
+        "result": "A"
+      },
+      {
+        "id": 42,
+        "title": "Tác phẩm nào của Orwell phê phán chủ nghĩa toàn trị?",
+        "A": "Animal Farm",
+        "B": "1984",
+        "C": "Homage to Catalonia",
+        "D": "Down and Out in Paris and London",
+        "result": "B"
+      },
+      {
+        "id": 43,
+        "title": "Tìm giá trị của sin(π/6). Kết quả là bao nhiêu?",
+        "A": "0",
+        "B": "1/2",
+        "C": "√2/2",
+        "D": "√3/2",
+        "result": "B"
+      },
+      {
+        "id": 44,
+        "title": "Quốc gia nào là nơi phát minh ra thuốc súng?",
+        "A": "Trung Quốc",
+        "B": "Ấn Độ",
+        "C": "Ba Tư",
+        "D": "Ả Rập",
+        "result": "A"
+      },
+      {
+        "id": 45,
+        "title": "Nguyên tố nào được sử dụng trong bóng đèn huỳnh quang?",
+        "A": "Argon (Ar)",
+        "B": "Neon (Ne)",
+        "C": "Thủy ngân (Hg)",
+        "D": "Xenon (Xe)",
+        "result": "C"
+      },
+      {
+        "id": 46,
+        "title": "Tính giá trị của 2^5 - 2^3. Kết quả là bao nhiêu?",
+        "A": "20",
+        "B": "24",
+        "C": "28",
+        "D": "32",
+        "result": "B"
+      },
+      {
+        "id": 47,
+        "title": "Ai là nhà văn đã viết 'The Stranger' và nhận Nobel Văn học năm 1957?",
+        "A": "Albert Camus",
+        "B": "Jean-Paul Sartre",
+        "C": "Simone de Beauvoir",
+        "D": "André Malraux",
+        "result": "A"
+      },
+      {
+        "id": 48,
+        "title": "Hành tinh nào có nhiệt độ bề mặt thấp nhất trong Hệ Mặt Trời?",
+        "A": "Sao Thiên Vương",
+        "B": "Sao Hải Vương",
+        "C": "Sao Thổ",
+        "D": "Pluto",
+        "result": "B"
+      },
+      {
+        "id": 49,
+        "title": "Tìm nghiệm của phương trình 2^x = 16. Giá trị của x là bao nhiêu?",
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6",
+        "result": "B"
+      },
+      {
+        "id": 50,
+        "title": "Ai là nhà khoa học đã phát triển thuyết tiến hóa bằng chọn lọc tự nhiên cùng với Darwin?",
+        "A": "Alfred Russel Wallace",
+        "B": "Thomas Huxley",
+        "C": "Gregor Mendel",
+        "D": "Jean-Baptiste Lamarck",
+        "result": "A"
+      }
+    ],
+  "quizSet7": [
+    {
+      "id": 1,
+      "title": "Tính giới hạn: lim (x→∞) (x^2 + 3x)/(2x^2 - 1). Kết quả là bao nhiêu?",
+      "A": "1/2",
+      "B": "1",
+      "C": "3/2",
+      "D": "∞",
+      "result": "A"
+    },
+    {
+      "id": 2,
+      "title": "Nguyên tố nào có chu kỳ bán rã ngắn nhất trong số các đồng vị tự nhiên?",
+      "A": "Urani-238",
+      "B": "Thori-232",
+      "C": "Franci-223",
+      "D": "Radi-226",
+      "result": "C"
+    },
+    {
+      "id": 3,
+      "title": "Ai là nhà toán học đã phát triển lý thuyết tập hợp hiện đại?",
+      "A": "Georg Cantor",
+      "B": "David Hilbert",
+      "C": "Kurt Gödel",
+      "D": "John von Neumann",
+      "result": "A"
+    },
+    {
+      "id": 4,
+      "title": "Hành tinh nào có lực hấp dẫn bề mặt lớn nhất trong Hệ Mặt Trời?",
+      "A": "Sao Mộc",
+      "B": "Trái Đất",
+      "C": "Sao Thổ",
+      "D": "Sao Kim",
+      "result": "A"
+    },
+    {
+      "id": 5,
+      "title": "Tác phẩm nào của Nietzsche giới thiệu khái niệm 'Siêu nhân' (Übermensch)?",
+      "A": "Thus Spoke Zarathustra",
+      "B": "Beyond Good and Evil",
+      "C": "The Birth of Tragedy",
+      "D": "Ecce Homo",
+      "result": "A"
+    },
+    {
+      "id": 6,
+      "title": "Nguyên tố nào được tổng hợp đầu tiên trong phòng thí nghiệm (không tồn tại tự nhiên)?",
+      "A": "Techneti (Tc)",
+      "B": "Plutoni (Pu)",
+      "C": "Neptuni (Np)",
+      "D": "Prometi (Pm)",
+      "result": "A"
+    },
+    {
+      "id": 7,
+      "title": "Tính đạo hàm bậc hai của f(x) = x^4 tại x = 1. Kết quả là bao nhiêu?",
+      "A": "12",
+      "B": "24",
+      "C": "36",
+      "D": "48",
+      "result": "B"
+    },
+    {
+      "id": 8,
+      "title": "Ai là nhà vật lý đã phát triển lý thuyết trường thống nhất?",
+      "A": "Albert Einstein",
+      "B": "Richard Feynman",
+      "C": "Murray Gell-Mann",
+      "D": "Steven Weinberg",
+      "result": "A"
+    },
+    {
+      "id": 9,
+      "title": "Quốc gia nào có đường bờ biển dài nhất thế giới?",
+      "A": "Canada",
+      "B": "Nga",
+      "C": "Indonesia",
+      "D": "Australia",
+      "result": "A"
+    },
+    {
+      "id": 10,
+      "title": "Tác phẩm nào của Virginia Woolf sử dụng kỹ thuật dòng ý thức một cách nổi bật?",
+      "A": "Mrs Dalloway",
+      "B": "To the Lighthouse",
+      "C": "Orlando",
+      "D": "The Waves",
+      "result": "A"
+    },
+    {
+      "id": 11,
+      "title": "Tìm nghiệm của phương trình tan(x) = 1 trong khoảng (0, 2π). Giá trị nào sau đây là đúng?",
+      "A": "π/6",
+      "B": "π/4",
+      "C": "π/3",
+      "D": "π/2",
+      "result": "B"
+    },
+    {
+      "id": 12,
+      "title": "Ai là nhà khoa học đã phát hiện ra neutron?",
+      "A": "Ernest Rutherford",
+      "B": "James Chadwick",
+      "C": "J.J. Thomson",
+      "D": "Niels Bohr",
+      "result": "B"
+    },
+    {
+      "id": 13,
+      "title": "Hồ nước ngọt nào sâu nhất thế giới?",
+      "A": "Hồ Superior",
+      "B": "Hồ Baikal",
+      "C": "Hồ Tanganyika",
+      "D": "Hồ Malawi",
+      "result": "B"
+    },
+    {
+      "id": 14,
+      "title": "Nguyên tố nào có năng lượng ion hóa cao nhất?",
+      "A": "Heli (He)",
+      "B": "Neon (Ne)",
+      "C": "Flo (F)",
+      "D": "Argon (Ar)",
+      "result": "A"
+    },
+    {
+      "id": 15,
+      "title": "Tính tích phân ∫(sin(x)) dx từ 0 đến π. Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "π",
+      "result": "C"
+    },
+    {
+      "id": 16,
+      "title": "Ai là nhà văn đã viết 'In Search of Lost Time' (7 tập)?",
+      "A": "Marcel Proust",
+      "B": "Gustave Flaubert",
+      "C": "Émile Zola",
+      "D": "Victor Hugo",
+      "result": "A"
+    },
+    {
+      "id": 17,
+      "title": "Hành tinh nào có số lượng vành đai lớn nhất trong Hệ Mặt Trời?",
+      "A": "Sao Thổ",
+      "B": "Sao Mộc",
+      "C": "Sao Thiên Vương",
+      "D": "Sao Hải Vương",
+      "result": "A"
+    },
+    {
+      "id": 18,
+      "title": "Tính giá trị của sinh(0). Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "e",
+      "D": "∞",
+      "result": "A"
+    },
+    {
+      "id": 19,
+      "title": "Quốc gia nào từng là trung tâm của Đế quốc Ottoman?",
+      "A": "Thổ Nhĩ Kỳ",
+      "B": "Ai Cập",
+      "C": "Iran",
+      "D": "Ả Rập Saudi",
+      "result": "A"
+    },
+    {
+      "id": 20,
+      "title": "Ai là nhà khoa học đã phát triển mô hình nguyên tử với các quỹ đạo lượng tử?",
+      "A": "Niels Bohr",
+      "B": "Ernest Rutherford",
+      "C": "J.J. Thomson",
+      "D": "Max Planck",
+      "result": "A"
+    },
+    {
+      "id": 21,
+      "title": "Tìm nghiệm của phương trình 3x^2 - 12 = 0. Nghiệm nào sau đây là đúng?",
+      "A": "x = ±2",
+      "B": "x = ±3",
+      "C": "x = ±4",
+      "D": "x = ±5",
+      "result": "A"
+    },
+    {
+      "id": 22,
+      "title": "Tác phẩm nào của Tolstoy mô tả chiến tranh Napoleon qua lăng kính gia đình Nga?",
+      "A": "War and Peace",
+      "B": "Anna Karenina",
+      "C": "Resurrection",
+      "D": "The Death of Ivan Ilyich",
+      "result": "A"
+    },
+    {
+      "id": 23,
+      "title": "Sa mạc nào lớn nhất thế giới (không tính Nam Cực)?",
+      "A": "Sahara",
+      "B": "Gobi",
+      "C": "Kalahari",
+      "D": "Arabia",
+      "result": "A"
+    },
+    {
+      "id": 24,
+      "title": "Nguyên tố nào có khối lượng nguyên tử lớn nhất trong số các nguyên tố tự nhiên?",
+      "A": "Urani (U)",
+      "B": "Plutoni (Pu)",
+      "C": "Thori (Th)",
+      "D": "Radi (Ra)",
+      "result": "A"
+    },
+    {
+      "id": 25,
+      "title": "Tính giá trị của 5! / 3!. Kết quả là bao nhiêu?",
+      "A": "20",
+      "B": "30",
+      "C": "40",
+      "D": "50",
+      "result": "A"
+    },
+    {
+      "id": 26,
+      "title": "Ai là nhà vật lý đã phát triển lý thuyết dây cơ bản?",
+      "A": "Edward Witten",
+      "B": "Brian Greene",
+      "C": "Leonard Susskind",
+      "D": "Michio Kaku",
+      "result": "A"
+    },
+    {
+      "id": 27,
+      "title": "Hành tinh nào có số lượng vệ tinh tự nhiên lớn nhất (tính đến nay)?",
+      "A": "Sao Mộc",
+      "B": "Sao Thổ",
+      "C": "Sao Thiên Vương",
+      "D": "Sao Hải Vương",
+      "result": "B"
+    },
+    {
+      "id": 28,
+      "title": "Tác phẩm nào của Kafka kể về một người đàn ông bị xét xử mà không biết tội?",
+      "A": "The Trial",
+      "B": "The Castle",
+      "C": "The Metamorphosis",
+      "D": "In the Penal Colony",
+      "result": "A"
+    },
+    {
+      "id": 29,
+      "title": "Quốc gia nào có dân số đông thứ hai thế giới?",
+      "A": "Trung Quốc",
+      "B": "Ấn Độ",
+      "C": "Mỹ",
+      "D": "Indonesia",
+      "result": "B"
+    },
+    {
+      "id": 30,
+      "title": "Nguyên tố nào được sử dụng trong pin lithium-ion?",
+      "A": "Liti (Li)",
+      "B": "Natri (Na)",
+      "C": "Kali (K)",
+      "D": "Magie (Mg)",
+      "result": "A"
+    },
+    {
+      "id": 31,
+      "title": "Tính giá trị của arctan(1). Kết quả là bao nhiêu?",
+      "A": "π/6",
+      "B": "π/4",
+      "C": "π/3",
+      "D": "π/2",
+      "result": "B"
+    },
+    {
+      "id": 32,
+      "title": "Ai là nhà khoa học đã phát hiện ra định luật vạn vật hấp dẫn?",
+      "A": "Isaac Newton",
+      "B": "Galileo Galilei",
+      "C": "Johannes Kepler",
+      "D": "Robert Hooke",
+      "result": "A"
+    },
+    {
+      "id": 33,
+      "title": "Hành tinh nào có bầu khí quyển chứa nhiều CO2 nhất?",
+      "A": "Sao Kim",
+      "B": "Sao Hỏa",
+      "C": "Trái Đất",
+      "D": "Sao Mộc",
+      "result": "A"
+    },
+    {
+      "id": 34,
+      "title": "Tác phẩm nào của Austen kể về năm chị em tìm kiếm tình yêu và địa vị?",
+      "A": "Pride and Prejudice",
+      "B": "Sense and Sensibility",
+      "C": "Emma",
+      "D": "Persuasion",
+      "result": "B"
+    },
+    {
+      "id": 35,
+      "title": "Tính giá trị của log₃(27). Kết quả là bao nhiêu?",
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5",
+      "result": "B"
+    },
+    {
+      "id": 36,
+      "title": "Ai là nhà toán học đã phát triển lý thuyết số nguyên tố?",
+      "A": "Euclid",
+      "B": "Pierre de Fermat",
+      "C": "Bernhard Riemann",
+      "D": "Leonhard Euler",
+      "result": "C"
+    },
+    {
+      "id": 37,
+      "title": "Quốc gia nào có trữ lượng dầu mỏ lớn nhất thế giới?",
+      "A": "Ả Rập Saudi",
+      "B": "Venezuela",
+      "C": "Nga",
+      "D": "Iran",
+      "result": "B"
+    },
+    {
+      "id": 38,
+      "title": "Nguyên tố nào có nhiệt độ sôi thấp nhất?",
+      "A": "Hidro (H)",
+      "B": "Heli (He)",
+      "C": "Nitơ (N)",
+      "D": "Oxy (O)",
+      "result": "B"
+    },
+    {
+      "id": 39,
+      "title": "Tính tích phân ∫(1/x) dx từ 1 đến e. Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "e",
+      "result": "B"
+    },
+    {
+      "id": 40,
+      "title": "Ai là nhà khoa học đã phát hiện ra proton?",
+      "A": "Ernest Rutherford",
+      "B": "J.J. Thomson",
+      "C": "James Chadwick",
+      "D": "Niels Bohr",
+      "result": "A"
+    },
+    {
+      "id": 41,
+      "title": "Hành tinh nào có khoảng cách xa nhất từ Mặt Trời?",
+      "A": "Sao Hải Vương",
+      "B": "Sao Thiên Vương",
+      "C": "Pluto",
+      "D": "Eris",
+      "result": "A"
+    },
+    {
+      "id": 42,
+      "title": "Tác phẩm nào của Sartre khám phá khái niệm tự do tuyệt đối?",
+      "A": "Being and Nothingness",
+      "B": "Nausea",
+      "C": "The Flies",
+      "D": "No Exit",
+      "result": "A"
+    },
+    {
+      "id": 43,
+      "title": "Tính giá trị của cosh(0). Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "e",
+      "D": "∞",
+      "result": "B"
+    },
+    {
+      "id": 44,
+      "title": "Quốc gia nào là nơi diễn ra Thế vận hội Olympic đầu tiên (776 TCN)?",
+      "A": "Hy Lạp",
+      "B": "Rome",
+      "C": "Ai Cập",
+      "D": "Ba Tư",
+      "result": "A"
+    },
+    {
+      "id": 45,
+      "title": "Nguyên tố nào được sử dụng trong đồng hồ nguyên tử?",
+      "A": "Xesi (Cs)",
+      "B": "Rubiđi (Rb)",
+      "C": "Stronti (Sr)",
+      "D": "Thủy ngân (Hg)",
+      "result": "A"
+    },
+    {
+      "id": 46,
+      "title": "Tính giá trị của 4^3 - 3^3. Kết quả là bao nhiêu?",
+      "A": "35",
+      "B": "37",
+      "C": "39",
+      "D": "41",
+      "result": "B"
+    },
+    {
+      "id": 47,
+      "title": "Ai là nhà văn đã viết 'The Sound and the Fury'?",
+      "A": "William Faulkner",
+      "B": "Ernest Hemingway",
+      "C": "F. Scott Fitzgerald",
+      "D": "John Steinbeck",
+      "result": "A"
+    },
+    {
+      "id": 48,
+      "title": "Hành tinh nào có độ nghiêng trục lớn nhất?",
+      "A": "Sao Thiên Vương",
+      "B": "Sao Hải Vương",
+      "C": "Trái Đất",
+      "D": "Sao Hỏa",
+      "result": "A"
+    },
+    {
+      "id": 49,
+      "title": "Tìm nghiệm của phương trình e^x = 1. Giá trị của x là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "e",
+      "D": "∞",
+      "result": "A"
+    },
+    {
+      "id": 50,
+      "title": "Ai là nhà khoa học đã phát triển định luật hành tinh (quỹ đạo elip)?",
+      "A": "Johannes Kepler",
+      "B": "Galileo Galilei",
+      "C": "Isaac Newton",
+      "D": "Tycho Brahe",
+      "result": "A"
+    }
+  ],
+  "quizSet8": [
+    {
+      "id": 1,
+      "title": "Tính giới hạn: lim (x→0) (sin(x)/x). Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "∞",
+      "D": "-1",
+      "result": "B"
+    },
+    {
+      "id": 2,
+      "title": "Nguyên tố nào có số proton là 1?",
+      "A": "Hidro (H)",
+      "B": "Heli (He)",
+      "C": "Liti (Li)",
+      "D": "Berili (Be)",
+      "result": "A"
+    },
+    {
+      "id": 3,
+      "title": "Ai là nhà toán học đã chứng minh định lý cuối cùng của Fermat?",
+      "A": "Andrew Wiles",
+      "B": "Pierre de Fermat",
+      "C": "Leonhard Euler",
+      "D": "Carl Gauss",
+      "result": "A"
+    },
+    {
+      "id": 4,
+      "title": "Hành tinh nào có ngày ngắn nhất trong Hệ Mặt Trời?",
+      "A": "Sao Mộc",
+      "B": "Sao Thổ",
+      "C": "Trái Đất",
+      "D": "Sao Kim",
+      "result": "A"
+    },
+    {
+      "id": 5,
+      "title": "Tác phẩm nào của Dostoevsky kể về một người đàn ông bị giằng xé giữa tội lỗi và chuộc tội?",
+      "A": "Crime and Punishment",
+      "B": "The Brothers Karamazov",
+      "C": "The Idiot",
+      "D": "Notes from Underground",
+      "result": "A"
+    },
+    {
+      "id": 6,
+      "title": "Nguyên tố nào có ký hiệu hóa học là 'Fe'?",
+      "A": "Sắt",
+      "B": "Đồng",
+      "C": "Chì",
+      "D": "Kẽm",
+      "result": "A"
+    },
+    {
+      "id": 7,
+      "title": "Tính đạo hàm của f(x) = ln(x) tại x = 1. Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "e",
+      "D": "∞",
+      "result": "B"
+    },
+    {
+      "id": 8,
+      "title": "Ai là nhà vật lý đã phát hiện ra hiệu ứng quang điện?",
+      "A": "Albert Einstein",
+      "B": "Max Planck",
+      "C": "Heinrich Hertz",
+      "D": "Niels Bohr",
+      "result": "A"
+    },
+    {
+      "id": 9,
+      "title": "Quốc gia nào có diện tích lớn nhất thế giới?",
+      "A": "Nga",
+      "B": "Canada",
+      "C": "Trung Quốc",
+      "D": "Mỹ",
+      "result": "A"
+    },
+    {
+      "id": 10,
+      "title": "Tác phẩm nào của Hemingway kể về một ông già đánh cá ở Cuba?",
+      "A": "The Old Man and the Sea",
+      "B": "For Whom the Bell Tolls",
+      "C": "A Farewell to Arms",
+      "D": "The Sun Also Rises",
+      "result": "A"
+    },
+    {
+      "id": 11,
+      "title": "Tìm nghiệm của phương trình cos(x) = 0 trong khoảng (0, π). Giá trị nào sau đây là đúng?",
+      "A": "π/6",
+      "B": "π/4",
+      "C": "π/3",
+      "D": "π/2",
+      "result": "D"
+    },
+    {
+      "id": 12,
+      "title": "Ai là nhà khoa học đã phát hiện ra electron?",
+      "A": "J.J. Thomson",
+      "B": "Ernest Rutherford",
+      "C": "James Chadwick",
+      "D": "Niels Bohr",
+      "result": "A"
+    },
+    {
+      "id": 13,
+      "title": "Sông nào dài nhất thế giới?",
+      "A": "Sông Nile",
+      "B": "Sông Amazon",
+      "C": "Sông Dương Tử",
+      "D": "Sông Mississippi",
+      "result": "A"
+    },
+    {
+      "id": 14,
+      "title": "Nguyên tố nào có số neutron trung bình lớn nhất trong tự nhiên?",
+      "A": "Urani (U)",
+      "B": "Thori (Th)",
+      "C": "Plutoni (Pu)",
+      "D": "Radi (Ra)",
+      "result": "A"
+    },
+    {
+      "id": 15,
+      "title": "Tính tích phân ∫(x^2) dx từ 0 đến 1. Kết quả là bao nhiêu?",
+      "A": "1/3",
+      "B": "1/2",
+      "C": "1",
+      "D": "2",
+      "result": "A"
+    },
+    {
+      "id": 16,
+      "title": "Ai là nhà văn đã viết 'One Hundred Years of Solitude'?",
+      "A": "Gabriel García Márquez",
+      "B": "Jorge Luis Borges",
+      "C": "Mario Vargas Llosa",
+      "D": "Isabel Allende",
+      "result": "A"
+    },
+    {
+      "id": 17,
+      "title": "Hành tinh nào có nhiệt độ bề mặt cao nhất?",
+      "A": "Sao Kim",
+      "B": "Sao Hỏa",
+      "C": "Trái Đất",
+      "D": "Sao Mộc",
+      "result": "A"
+    },
+    {
+      "id": 18,
+      "title": "Tính giá trị của tan(π/4). Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "√2",
+      "D": "∞",
+      "result": "B"
+    },
+    {
+      "id": 19,
+      "title": "Quốc gia nào là trung tâm của Đế quốc La Mã?",
+      "A": "Ý",
+      "B": "Hy Lạp",
+      "C": "Tây Ban Nha",
+      "D": "Thổ Nhĩ Kỳ",
+      "result": "A"
+    },
+    {
+      "id": 20,
+      "title": "Ai là nhà khoa học đã phát triển thuyết lượng tử ban đầu?",
+      "A": "Max Planck",
+      "B": "Albert Einstein",
+      "C": "Werner Heisenberg",
+      "D": "Erwin Schrödinger",
+      "result": "A"
+    },
+    {
+      "id": 21,
+      "title": "Tìm nghiệm của phương trình x^2 - 4x + 4 = 0. Nghiệm nào sau đây là đúng?",
+      "A": "x = 2",
+      "B": "x = 3",
+      "C": "x = 4",
+      "D": "x = 5",
+      "result": "A"
+    },
+    {
+      "id": 22,
+      "title": "Tác phẩm nào của Dickens kể về một cậu bé mồ côi ở London?",
+      "A": "Oliver Twist",
+      "B": "David Copperfield",
+      "C": "Great Expectations",
+      "D": "A Tale of Two Cities",
+      "result": "A"
+    },
+    {
+      "id": 23,
+      "title": "Núi nào cao nhất thế giới?",
+      "A": "Everest",
+      "B": "K2",
+      "C": "Kangchenjunga",
+      "D": "Lhotse",
+      "result": "A"
+    },
+    {
+      "id": 24,
+      "title": "Nguyên tố nào là kim loại kiềm nhẹ nhất?",
+      "A": "Liti (Li)",
+      "B": "Natri (Na)",
+      "C": "Kali (K)",
+      "D": "Rubiđi (Rb)",
+      "result": "A"
+    },
+    {
+      "id": 25,
+      "title": "Tính giá trị của 2^5. Kết quả là bao nhiêu?",
+      "A": "16",
+      "B": "32",
+      "C": "64",
+      "D": "128",
+      "result": "B"
+    },
+    {
+      "id": 26,
+      "title": "Ai là nhà vật lý đã phát triển thuyết tương đối hẹp?",
+      "A": "Albert Einstein",
+      "B": "Isaac Newton",
+      "C": "Galileo Galilei",
+      "D": "Stephen Hawking",
+      "result": "A"
+    },
+    {
+      "id": 27,
+      "title": "Hành tinh nào có đường kính lớn nhất?",
+      "A": "Sao Mộc",
+      "B": "Sao Thổ",
+      "C": "Trái Đất",
+      "D": "Sao Kim",
+      "result": "A"
+    },
+    {
+      "id": 28,
+      "title": "Tác phẩm nào của Orwell phê phán chế độ toàn trị?",
+      "A": "1984",
+      "B": "Animal Farm",
+      "C": "Homage to Catalonia",
+      "D": "Down and Out in Paris and London",
+      "result": "A"
+    },
+    {
+      "id": 29,
+      "title": "Quốc gia nào có dân số đông nhất thế giới?",
+      "A": "Trung Quốc",
+      "B": "Ấn Độ",
+      "C": "Mỹ",
+      "D": "Indonesia",
+      "result": "B"
+    },
+    {
+      "id": 30,
+      "title": "Nguyên tố nào là chất khí trơ nặng nhất?",
+      "A": "Radon (Rn)",
+      "B": "Xenon (Xe)",
+      "C": "Krypton (Kr)",
+      "D": "Argon (Ar)",
+      "result": "A"
+    },
+    {
+      "id": 31,
+      "title": "Tính giá trị của arcsin(1/2). Kết quả là bao nhiêu?",
+      "A": "π/6",
+      "B": "π/4",
+      "C": "π/3",
+      "D": "π/2",
+      "result": "A"
+    },
+    {
+      "id": 32,
+      "title": "Ai là nhà khoa học đã phát hiện ra định luật cảm ứng điện từ?",
+      "A": "Michael Faraday",
+      "B": "James Maxwell",
+      "C": "Nikola Tesla",
+      "D": "Thomas Edison",
+      "result": "A"
+    },
+    {
+      "id": 33,
+      "title": "Hành tinh nào có áp suất khí quyển lớn nhất?",
+      "A": "Sao Kim",
+      "B": "Sao Hỏa",
+      "C": "Trái Đất",
+      "D": "Sao Mộc",
+      "result": "A"
+    },
+    {
+      "id": 34,
+      "title": "Tác phẩm nào của Brontë kể về một cô giáo trong ngôi nhà kỳ bí?",
+      "A": "Jane Eyre",
+      "B": "Wuthering Heights",
+      "C": "The Tenant of Wildfell Hall",
+      "D": "Agnes Grey",
+      "result": "A"
+    },
+    {
+      "id": 35,
+      "title": "Tính giá trị của log₂(8). Kết quả là bao nhiêu?",
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5",
+      "result": "B"
+    },
+    {
+      "id": 36,
+      "title": "Ai là nhà toán học đã phát triển hình học phẳng?",
+      "A": "Euclid",
+      "B": "René Descartes",
+      "C": "Pythagoras",
+      "D": "Archimedes",
+      "result": "A"
+    },
+    {
+      "id": 37,
+      "title": "Quốc gia nào có trữ lượng khí tự nhiên lớn nhất?",
+      "A": "Nga",
+      "B": "Iran",
+      "C": "Qatar",
+      "D": "Mỹ",
+      "result": "A"
+    },
+    {
+      "id": 38,
+      "title": "Nguyên tố nào có nhiệt độ nóng chảy cao nhất?",
+      "A": "Wolfram (W)",
+      "B": "Sắt (Fe)",
+      "C": "Vàng (Au)",
+      "D": "Bạch kim (Pt)",
+      "result": "A"
+    },
+    {
+      "id": 39,
+      "title": "Tính tích phân ∫(e^x) dx từ 0 đến 1. Kết quả là bao nhiêu?",
+      "A": "e - 1",
+      "B": "e",
+      "C": "1",
+      "D": "0",
+      "result": "A"
+    },
+    {
+      "id": 40,
+      "title": "Ai là nhà khoa học đã phát hiện ra thuyết tiến hóa qua chọn lọc tự nhiên?",
+      "A": "Charles Darwin",
+      "B": "Gregor Mendel",
+      "C": "Alfred Wallace",
+      "D": "Jean-Baptiste Lamarck",
+      "result": "A"
+    },
+    {
+      "id": 41,
+      "title": "Hành tinh nào có khối lượng lớn nhất?",
+      "A": "Sao Mộc",
+      "B": "Sao Thổ",
+      "C": "Trái Đất",
+      "D": "Sao Kim",
+      "result": "A"
+    },
+    {
+      "id": 42,
+      "title": "Tác phẩm nào của Camus khám phá sự phi lý của cuộc sống?",
+      "A": "The Stranger",
+      "B": "The Plague",
+      "C": "The Myth of Sisyphus",
+      "D": "The Fall",
+      "result": "A"
+    },
+    {
+      "id": 43,
+      "title": "Tính giá trị của sinh(ln(2)). Kết quả là bao nhiêu?",
+      "A": "3/4",
+      "B": "1/2",
+      "C": "1",
+      "D": "2",
+      "result": "A"
+    },
+    {
+      "id": 44,
+      "title": "Quốc gia nào phát minh ra la bàn?",
+      "A": "Trung Quốc",
+      "B": "Ý",
+      "C": "Hy Lạp",
+      "D": "Ai Cập",
+      "result": "A"
+    },
+    {
+      "id": 45,
+      "title": "Nguyên tố nào được sử dụng trong bóng đèn huỳnh quang?",
+      "A": "Thủy ngân (Hg)",
+      "B": "Neon (Ne)",
+      "C": "Argon (Ar)",
+      "D": "Krypton (Kr)",
+      "result": "A"
+    },
+    {
+      "id": 46,
+      "title": "Tính giá trị của 3^4 - 2^4. Kết quả là bao nhiêu?",
+      "A": "65",
+      "B": "67",
+      "C": "69",
+      "D": "71",
+      "result": "A"
+    },
+    {
+      "id": 47,
+      "title": "Ai là nhà văn đã viết 'Moby-Dick'?",
+      "A": "Herman Melville",
+      "B": "Nathaniel Hawthorne",
+      "C": "Mark Twain",
+      "D": "Edgar Allan Poe",
+      "result": "A"
+    },
+    {
+      "id": 48,
+      "title": "Hành tinh nào có mật độ thấp nhất?",
+      "A": "Sao Thổ",
+      "B": "Sao Mộc",
+      "C": "Sao Thiên Vương",
+      "D": "Sao Hải Vương",
+      "result": "A"
+    },
+    {
+      "id": 49,
+      "title": "Tìm nghiệm của phương trình ln(x) = 0. Giá trị của x là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "e",
+      "D": "∞",
+      "result": "B"
+    },
+    {
+      "id": 50,
+      "title": "Ai là nhà khoa học đã phát triển định luật bảo toàn năng lượng?",
+      "A": "James Joule",
+      "B": "Hermann von Helmholtz",
+      "C": "Sadi Carnot",
+      "D": "Rudolf Clausius",
+      "result": "A"
+    }
+  ],
+  "quizSet9": [
+    {
+      "id": 1,
+      "title": "Tính giới hạn: lim (x→∞) (ln(x)/x). Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "∞",
+      "D": "-∞",
+      "result": "A"
+    },
+    {
+      "id": 2,
+      "title": "Nguyên tố nào có số khối là 4 trong đồng vị phổ biến nhất?",
+      "A": "Heli (He)",
+      "B": "Hidro (H)",
+      "C": "Liti (Li)",
+      "D": "Berili (Be)",
+      "result": "A"
+    },
+    {
+      "id": 3,
+      "title": "Ai là nhà toán học đã phát triển hệ tọa độ Descartes?",
+      "A": "René Descartes",
+      "B": "Pierre de Fermat",
+      "C": "Blaise Pascal",
+      "D": "Isaac Newton",
+      "result": "A"
+    },
+    {
+      "id": 4,
+      "title": "Hành tinh nào có năm dài nhất trong Hệ Mặt Trời?",
+      "A": "Sao Hải Vương",
+      "B": "Sao Thiên Vương",
+      "C": "Sao Thổ",
+      "D": "Sao Mộc",
+      "result": "A"
+    },
+    {
+      "id": 5,
+      "title": "Tác phẩm nào của Shakespeare kể về một vị vua Đan Mạch bị ám sát?",
+      "A": "Hamlet",
+      "B": "Macbeth",
+      "C": "Othello",
+      "D": "King Lear",
+      "result": "A"
+    },
+    {
+      "id": 6,
+      "title": "Nguyên tố nào có ký hiệu hóa học là 'Au'?",
+      "A": "Vàng",
+      "B": "Bạc",
+      "C": "Đồng",
+      "D": "Sắt",
+      "result": "A"
+    },
+    {
+      "id": 7,
+      "title": "Tính đạo hàm của f(x) = e^x tại x = 0. Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "e",
+      "D": "∞",
+      "result": "B"
+    },
+    {
+      "id": 8,
+      "title": "Ai là nhà vật lý đã phát triển phương trình sóng lượng tử?",
+      "A": "Erwin Schrödinger",
+      "B": "Werner Heisenberg",
+      "C": "Paul Dirac",
+      "D": "Max Born",
+      "result": "A"
+    },
+    {
+      "id": 9,
+      "title": "Quốc gia nào có số đảo lớn nhất thế giới?",
+      "A": "Indonesia",
+      "B": "Philippines",
+      "C": "Nhật Bản",
+      "D": "Anh",
+      "result": "A"
+    },
+    {
+      "id": 10,
+      "title": "Tác phẩm nào của Jane Austen kể về một cô gái thích làm mai mối?",
+      "A": "Emma",
+      "B": "Pride and Prejudice",
+      "C": "Sense and Sensibility",
+      "D": "Mansfield Park",
+      "result": "A"
+    },
+    {
+      "id": 11,
+      "title": "Tìm nghiệm của phương trình sin(x) = 1 trong khoảng (0, 2π). Giá trị nào sau đây là đúng?",
+      "A": "π/6",
+      "B": "π/4",
+      "C": "π/2",
+      "D": "π",
+      "result": "C"
+    },
+    {
+      "id": 12,
+      "title": "Ai là nhà khoa học đã phát hiện ra định luật Ohm?",
+      "A": "Georg Ohm",
+      "B": "André-Marie Ampère",
+      "C": "Alessandro Volta",
+      "D": "Michael Faraday",
+      "result": "A"
+    },
+    {
+      "id": 13,
+      "title": "Đại dương nào sâu nhất thế giới?",
+      "A": "Thái Bình Dương",
+      "B": "Đại Tây Dương",
+      "C": "Ấn Độ Dương",
+      "D": "Bắc Băng Dương",
+      "result": "A"
+    },
+    {
+      "id": 14,
+      "title": "Nguyên tố nào có độ âm điện cao nhất?",
+      "A": "Flo (F)",
+      "B": "Oxy (O)",
+      "C": "Clo (Cl)",
+      "D": "Nitơ (N)",
+      "result": "A"
+    },
+    {
+      "id": 15,
+      "title": "Tính tích phân ∫(cos(x)) dx từ 0 đến π/2. Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "π",
+      "result": "B"
+    },
+    {
+      "id": 16,
+      "title": "Ai là nhà văn đã viết 'The Great Gatsby'?",
+      "A": "F. Scott Fitzgerald",
+      "B": "Ernest Hemingway",
+      "C": "John Steinbeck",
+      "D": "William Faulkner",
+      "result": "A"
+    },
+    {
+      "id": 17,
+      "title": "Hành tinh nào có bề mặt chủ yếu là đá?",
+      "A": "Trái Đất",
+      "B": "Sao Mộc",
+      "C": "Sao Thổ",
+      "D": "Sao Hải Vương",
+      "result": "A"
+    },
+    {
+      "id": 18,
+      "title": "Tính giá trị của cot(π/4). Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "√2",
+      "D": "∞",
+      "result": "B"
+    },
+    {
+      "id": 19,
+      "title": "Quốc gia nào là trung tâm của Đế quốc Mông Cổ?",
+      "A": "Mông Cổ",
+      "B": "Trung Quốc",
+      "C": "Nga",
+      "D": "Kazakhstan",
+      "result": "A"
+    },
+    {
+      "id": 20,
+      "title": "Ai là nhà khoa học đã phát triển bảng tuần hoàn hiện đại?",
+      "A": "Dmitri Mendeleev",
+      "B": "John Dalton",
+      "C": "Antoine Lavoisier",
+      "D": "Henry Moseley",
+      "result": "A"
+    },
+    {
+      "id": 21,
+      "title": "Tìm nghiệm của phương trình x^2 + 2x - 3 = 0. Nghiệm nào sau đây là đúng?",
+      "A": "x = 1, -3",
+      "B": "x = 2, -1",
+      "C": "x = 3, -1",
+      "D": "x = 4, -2",
+      "result": "A"
+    },
+    {
+      "id": 22,
+      "title": "Tác phẩm nào của Hugo kể về tình yêu và cách mạng ở Paris?",
+      "A": "Les Misérables",
+      "B": "The Hunchback of Notre-Dame",
+      "C": "The Toilers of the Sea",
+      "D": "Ninety-Three",
+      "result": "A"
+    },
+    {
+      "id": 23,
+      "title": "Hồ nước ngọt nào lớn nhất thế giới về diện tích?",
+      "A": "Hồ Superior",
+      "B": "Hồ Victoria",
+      "C": "Hồ Huron",
+      "D": "Hồ Michigan",
+      "result": "A"
+    },
+    {
+      "id": 24,
+      "title": "Nguyên tố nào là kim loại lỏng ở nhiệt độ phòng?",
+      "A": "Thủy ngân (Hg)",
+      "B": "Xesi (Cs)",
+      "C": "Franci (Fr)",
+      "D": "Gali (Ga)",
+      "result": "A"
+    },
+    {
+      "id": 25,
+      "title": "Tính giá trị của 10!. Kết quả là bao nhiêu?",
+      "A": "3,628,800",
+      "B": "362,880",
+      "C": "36,288",
+      "D": "3,628",
+      "result": "A"
+    },
+    {
+      "id": 26,
+      "title": "Ai là nhà vật lý đã phát triển thuyết Big Bang?",
+      "A": "Georges Lemaître",
+      "B": "Edwin Hubble",
+      "C": "Stephen Hawking",
+      "D": "Albert Einstein",
+      "result": "A"
+    },
+    {
+      "id": 27,
+      "title": "Hành tinh nào có bầu khí quyển mỏng nhất?",
+      "A": "Sao Hỏa",
+      "B": "Sao Kim",
+      "C": "Trái Đất",
+      "D": "Sao Mộc",
+      "result": "A"
+    },
+    {
+      "id": 28,
+      "title": "Tác phẩm nào của Tolkien kể về cuộc hành trình của chiếc nhẫn?",
+      "A": "The Lord of the Rings",
+      "B": "The Hobbit",
+      "C": "The Silmarillion",
+      "D": "The Children of Húrin",
+      "result": "A"
+    },
+    {
+      "id": 29,
+      "title": "Quốc gia nào có mật độ dân số cao nhất thế giới?",
+      "A": "Monaco",
+      "B": "Singapore",
+      "C": "Bangladesh",
+      "D": "Malta",
+      "result": "A"
+    },
+    {
+      "id": 30,
+      "title": "Nguyên tố nào được sử dụng trong lò phản ứng hạt nhân?",
+      "A": "Urani (U)",
+      "B": "Plutoni (Pu)",
+      "C": "Thori (Th)",
+      "D": "Xesi (Cs)",
+      "result": "A"
+    },
+    {
+      "id": 31,
+      "title": "Tính giá trị của arccos(0). Kết quả là bao nhiêu?",
+      "A": "π/6",
+      "B": "π/4",
+      "C": "π/2",
+      "D": "π",
+      "result": "C"
+    },
+    {
+      "id": 32,
+      "title": "Ai là nhà khoa học đã phát hiện ra thuyết tương đối rộng?",
+      "A": "Albert Einstein",
+      "B": "Isaac Newton",
+      "C": "Stephen Hawking",
+      "D": "Max Planck",
+      "result": "A"
+    },
+    {
+      "id": 33,
+      "title": "Hành tinh nào có nhiệt độ bề mặt thấp nhất?",
+      "A": "Sao Hải Vương",
+      "B": "Sao Thiên Vương",
+      "C": "Sao Thổ",
+      "D": "Sao Mộc",
+      "result": "A"
+    },
+    {
+      "id": 34,
+      "title": "Tác phẩm nào của Dostoevsky kể về một gia đình Nga đối mặt với đạo đức và tôn giáo?",
+      "A": "The Brothers Karamazov",
+      "B": "Crime and Punishment",
+      "C": "The Idiot",
+      "D": "Demons",
+      "result": "A"
+    },
+    {
+      "id": 35,
+      "title": "Tính giá trị của log₁₀(100). Kết quả là bao nhiêu?",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "result": "B"
+    },
+    {
+      "id": 36,
+      "title": "Ai là nhà toán học đã phát triển định lý Pythagoras?",
+      "A": "Pythagoras",
+      "B": "Euclid",
+      "C": "Archimedes",
+      "D": "Thales",
+      "result": "A"
+    },
+    {
+      "id": 37,
+      "title": "Quốc gia nào có sản lượng cà phê lớn nhất thế giới?",
+      "A": "Brazil",
+      "B": "Việt Nam",
+      "C": "Colombia",
+      "D": "Ethiopia",
+      "result": "A"
+    },
+    {
+      "id": 38,
+      "title": "Nguyên tố nào có bán kính nguyên tử lớn nhất?",
+      "A": "Xesi (Cs)",
+      "B": "Franci (Fr)",
+      "C": "Rubiđi (Rb)",
+      "D": "Kali (K)",
+      "result": "B"
+    },
+    {
+      "id": 39,
+      "title": "Tính tích phân ∫(x) dx từ 0 đến 2. Kết quả là bao nhiêu?",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "result": "B"
+    },
+    {
+      "id": 40,
+      "title": "Ai là nhà khoa học đã phát hiện ra định luật di truyền?",
+      "A": "Gregor Mendel",
+      "B": "Charles Darwin",
+      "C": "Thomas Morgan",
+      "D": "Francis Crick",
+      "result": "A"
+    },
+    {
+      "id": 41,
+      "title": "Hành tinh nào có tốc độ quay nhanh nhất?",
+      "A": "Sao Mộc",
+      "B": "Sao Thổ",
+      "C": "Trái Đất",
+      "D": "Sao Kim",
+      "result": "A"
+    },
+    {
+      "id": 42,
+      "title": "Tác phẩm nào của Kafka kể về một người biến thành côn trùng?",
+      "A": "The Metamorphosis",
+      "B": "The Trial",
+      "C": "The Castle",
+      "D": "Amerika",
+      "result": "A"
+    },
+    {
+      "id": 43,
+      "title": "Tính giá trị của tanh(0). Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "e",
+      "D": "∞",
+      "result": "A"
+    },
+    {
+      "id": 44,
+      "title": "Quốc gia nào phát minh ra giấy?",
+      "A": "Trung Quốc",
+      "B": "Ai Cập",
+      "C": "Ấn Độ",
+      "D": "Hy Lạp",
+      "result": "A"
+    },
+    {
+      "id": 45,
+      "title": "Nguyên tố nào được sử dụng trong đèn neon?",
+      "A": "Neon (Ne)",
+      "B": "Argon (Ar)",
+      "C": "Krypton (Kr)",
+      "D": "Xenon (Xe)",
+      "result": "A"
+    },
+    {
+      "id": 46,
+      "title": "Tính giá trị của 5^2 + 3^2. Kết quả là bao nhiêu?",
+      "A": "34",
+      "B": "36",
+      "C": "38",
+      "D": "40",
+      "result": "A"
+    },
+    {
+      "id": 47,
+      "title": "Ai là nhà văn đã viết 'To Kill a Mockingbird'?",
+      "A": "Harper Lee",
+      "B": "Toni Morrison",
+      "C": "Maya Angelou",
+      "D": "Flannery O'Connor",
+      "result": "A"
+    },
+    {
+      "id": 48,
+      "title": "Hành tinh nào có tỷ lệ nước bề mặt lớn nhất?",
+      "A": "Trái Đất",
+      "B": "Sao Kim",
+      "C": "Sao Hỏa",
+      "D": "Sao Mộc",
+      "result": "A"
+    },
+    {
+      "id": 49,
+      "title": "Tìm nghiệm của phương trình e^x = e. Giá trị của x là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "e",
+      "result": "B"
+    },
+    {
+      "id": 50,
+      "title": "Ai là nhà khoa học đã phát triển định luật nhiệt động lực học thứ nhất?",
+      "A": "Rudolf Clausius",
+      "B": "Sadi Carnot",
+      "C": "James Joule",
+      "D": "William Thomson",
+      "result": "C"
+    }
+  ],
+  "quizSet10": [
+    {
+      "id": 1,
+      "title": "Tính giới hạn: lim (x→0) (1 - cos(x))/x^2. Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1/2",
+      "C": "1",
+      "D": "∞",
+      "result": "B"
+    },
+    {
+      "id": 2,
+      "title": "Nguyên tố nào có số proton là 8?",
+      "A": "Oxy (O)",
+      "B": "Nitơ (N)",
+      "C": "Cacbon (C)",
+      "D": "Flo (F)",
+      "result": "A"
+    },
+    {
+      "id": 3,
+      "title": "Ai là nhà toán học đã phát triển lý thuyết xác suất hiện đại?",
+      "A": "Blaise Pascal",
+      "B": "Pierre de Fermat",
+      "C": "Andrey Kolmogorov",
+      "D": "Carl Gauss",
+      "result": "C"
+    },
+    {
+      "id": 4,
+      "title": "Hành tinh nào có nhiệt độ trung bình thấp nhất?",
+      "A": "Sao Hải Vương",
+      "B": "Sao Thiên Vương",
+      "C": "Sao Thổ",
+      "D": "Sao Mộc",
+      "result": "A"
+    },
+    {
+      "id": 5,
+      "title": "Tác phẩm nào của Homer kể về cuộc chiến thành Troy?",
+      "A": "Iliad",
+      "B": "Odyssey",
+      "C": "Aeneid",
+      "D": "Argonautica",
+      "result": "A"
+    },
+    {
+      "id": 6,
+      "title": "Nguyên tố nào có ký hiệu hóa học là 'Ag'?",
+      "A": "Bạc",
+      "B": "Vàng",
+      "C": "Đồng",
+      "D": "Thiếc",
+      "result": "A"
+    },
+    {
+      "id": 7,
+      "title": "Tính đạo hàm của f(x) = x^3 tại x = 2. Kết quả là bao nhiêu?",
+      "A": "6",
+      "B": "12",
+      "C": "18",
+      "D": "24",
+      "result": "B"
+    },
+    {
+      "id": 8,
+      "title": "Ai là nhà vật lý đã phát triển lý thuyết trường điện từ?",
+      "A": "James Maxwell",
+      "B": "Michael Faraday",
+      "C": "Heinrich Hertz",
+      "D": "Nikola Tesla",
+      "result": "A"
+    },
+    {
+      "id": 9,
+      "title": "Quốc gia nào có số hồ nước tự nhiên lớn nhất thế giới?",
+      "A": "Canada",
+      "B": "Phần Lan",
+      "C": "Nga",
+      "D": "Mỹ",
+      "result": "A"
+    },
+    {
+      "id": 10,
+      "title": "Tác phẩm nào của Mark Twain kể về cuộc phiêu lưu trên sông Mississippi?",
+      "A": "Adventures of Huckleberry Finn",
+      "B": "The Adventures of Tom Sawyer",
+      "C": "Life on the Mississippi",
+      "D": "A Connecticut Yankee in King Arthur's Court",
+      "result": "A"
+    },
+    {
+      "id": 11,
+      "title": "Tìm nghiệm của phương trình cos(x) = -1 trong khoảng (0, 2π). Giá trị nào sau đây là đúng?",
+      "A": "π/2",
+      "B": "π",
+      "C": "3π/2",
+      "D": "2π",
+      "result": "B"
+    },
+    {
+      "id": 12,
+      "title": "Ai là nhà khoa học đã phát hiện ra định luật Archimedes?",
+      "A": "Archimedes",
+      "B": "Galileo Galilei",
+      "C": "Isaac Newton",
+      "D": "Blaise Pascal",
+      "result": "A"
+    },
+    {
+      "id": 13,
+      "title": "Đỉnh núi nào cao nhất châu Phi?",
+      "A": "Kilimanjaro",
+      "B": "Kenya",
+      "C": "Elgon",
+      "D": "Rwenzori",
+      "result": "A"
+    },
+    {
+      "id": 14,
+      "title": "Nguyên tố nào có số electron lớp ngoài cùng là 2?",
+      "A": "Heli (He)",
+      "B": "Hidro (H)",
+      "C": "Liti (Li)",
+      "D": "Berili (Be)",
+      "result": "A"
+    },
+    {
+      "id": 15,
+      "title": "Tính tích phân ∫(x) dx từ 1 đến 3. Kết quả là bao nhiêu?",
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "8",
+      "result": "B"
+    },
+    {
+      "id": 16,
+      "title": "Ai là nhà văn đã viết 'Don Quixote'?",
+      "A": "Miguel de Cervantes",
+      "B": "Federico García Lorca",
+      "C": "Lope de Vega",
+      "D": "Calderón de la Barca",
+      "result": "A"
+    },
+    {
+      "id": 17,
+      "title": "Hành tinh nào có độ dẹt lớn nhất?",
+      "A": "Sao Thổ",
+      "B": "Sao Mộc",
+      "C": "Sao Thiên Vương",
+      "D": "Sao Hải Vương",
+      "result": "A"
+    },
+    {
+      "id": 18,
+      "title": "Tính giá trị của sec(0). Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "∞",
+      "D": "-1",
+      "result": "B"
+    },
+    {
+      "id": 19,
+      "title": "Quốc gia nào từng là trung tâm của Đế quốc Azteca?",
+      "A": "Mexico",
+      "B": "Peru",
+      "C": "Guatemala",
+      "D": "Colombia",
+      "result": "A"
+    },
+    {
+      "id": 20,
+      "title": "Ai là nhà khoa học đã phát hiện ra thuyết động lực học phân tử?",
+      "A": "Ludwig Boltzmann",
+      "B": "James Maxwell",
+      "C": "Daniel Bernoulli",
+      "D": "Rudolf Clausius",
+      "result": "A"
+    },
+    {
+      "id": 21,
+      "title": "Tìm nghiệm của phương trình 2x^2 - 8 = 0. Nghiệm nào sau đây là đúng?",
+      "A": "x = ±2",
+      "B": "x = ±3",
+      "C": "x = ±4",
+      "D": "x = ±5",
+      "result": "A"
+    },
+    {
+      "id": 22,
+      "title": "Tác phẩm nào của Steinbeck kể về cuộc sống của người lao động trong Đại suy thoái?",
+      "A": "The Grapes of Wrath",
+      "B": "Of Mice and Men",
+      "C": "East of Eden",
+      "D": "Cannery Row",
+      "result": "A"
+    },
+    {
+      "id": 23,
+      "title": "Sông nào dài nhất Nam Mỹ?",
+      "A": "Sông Amazon",
+      "B": "Sông Paraná",
+      "C": "Sông Orinoco",
+      "D": "Sông Madeira",
+      "result": "A"
+    },
+    {
+      "id": 24,
+      "title": "Nguyên tố nào có tính phóng xạ tự nhiên mạnh nhất?",
+      "A": "Urani (U)",
+      "B": "Radi (Ra)",
+      "C": "Poloni (Po)",
+      "D": "Thori (Th)",
+      "result": "B"
+    },
+    {
+      "id": 25,
+      "title": "Tính giá trị của 6! / 4!. Kết quả là bao nhiêu?",
+      "A": "20",
+      "B": "30",
+      "C": "40",
+      "D": "50",
+      "result": "B"
+    },
+    {
+      "id": 26,
+      "title": "Ai là nhà vật lý đã phát triển lý thuyết hố đen quay?",
+      "A": "Roy Kerr",
+      "B": "Stephen Hawking",
+      "C": "Roger Penrose",
+      "D": "John Wheeler",
+      "result": "A"
+    },
+    {
+      "id": 27,
+      "title": "Hành tinh nào có tỷ lệ khí metan cao nhất trong khí quyển?",
+      "A": "Sao Thiên Vương",
+      "B": "Sao Hải Vương",
+      "C": "Sao Thổ",
+      "D": "Sao Mộc",
+      "result": "A"
+    },
+    {
+      "id": 28,
+      "title": "Tác phẩm nào của Austen kể về một cô gái kiêu hãnh và một quý ông định kiến?",
+      "A": "Pride and Prejudice",
+      "B": "Emma",
+      "C": "Sense and Sensibility",
+      "D": "Persuasion",
+      "result": "A"
+    },
+    {
+      "id": 29,
+      "title": "Quốc gia nào có số lượng núi lửa hoạt động nhiều nhất?",
+      "A": "Indonesia",
+      "B": "Nhật Bản",
+      "C": "Iceland",
+      "D": "Ý",
+      "result": "A"
+    },
+    {
+      "id": 30,
+      "title": "Nguyên tố nào được sử dụng trong bóng đèn hơi natri?",
+      "A": "Natri (Na)",
+      "B": "Kali (K)",
+      "C": "Liti (Li)",
+      "D": "Xesi (Cs)",
+      "result": "A"
+    },
+    {
+      "id": 31,
+      "title": "Tính giá trị của arcsin(1). Kết quả là bao nhiêu?",
+      "A": "π/6",
+      "B": "π/4",
+      "C": "π/3",
+      "D": "π/2",
+      "result": "D"
+    },
+    {
+      "id": 32,
+      "title": "Ai là nhà khoa học đã phát hiện ra định luật phản xạ ánh sáng?",
+      "A": "Ibn al-Haytham",
+      "B": "Isaac Newton",
+      "C": "Christiaan Huygens",
+      "D": "Thomas Young",
+      "result": "A"
+    },
+    {
+      "id": 33,
+      "title": "Hành tinh nào có thời gian quay quanh Mặt Trời ngắn nhất?",
+      "A": "Sao Thủy",
+      "B": "Sao Kim",
+      "C": "Trái Đất",
+      "D": "Sao Hỏa",
+      "result": "A"
+    },
+    {
+      "id": 34,
+      "title": "Tác phẩm nào của Hemingway kể về cuộc nội chiến Tây Ban Nha?",
+      "A": "For Whom the Bell Tolls",
+      "B": "The Old Man and the Sea",
+      "C": "A Farewell to Arms",
+      "D": "The Sun Also Rises",
+      "result": "A"
+    },
+    {
+      "id": 35,
+      "title": "Tính giá trị của log₅(25). Kết quả là bao nhiêu?",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "result": "B"
+    },
+    {
+      "id": 36,
+      "title": "Ai là nhà toán học đã phát triển lý thuyết trò chơi?",
+      "A": "John von Neumann",
+      "B": "John Nash",
+      "C": "Alan Turing",
+      "D": "Kurt Gödel",
+      "result": "A"
+    },
+    {
+      "id": 37,
+      "title": "Quốc gia nào có sản lượng lúa gạo lớn nhất thế giới?",
+      "A": "Trung Quốc",
+      "B": "Ấn Độ",
+      "C": "Việt Nam",
+      "D": "Thái Lan",
+      "result": "A"
+    },
+    {
+      "id": 38,
+      "title": "Nguyên tố nào có số proton lớn nhất trong bảng tuần hoàn?",
+      "A": "Oganesson (Og)",
+      "B": "Urani (U)",
+      "C": "Plutoni (Pu)",
+      "D": "Lawrenci (Lr)",
+      "result": "A"
+    },
+    {
+      "id": 39,
+      "title": "Tính tích phân ∫(sin(x)) dx từ 0 đến π/2. Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "π",
+      "result": "B"
+    },
+    {
+      "id": 40,
+      "title": "Ai là nhà khoa học đã phát hiện ra nguyên lý bất định?",
+      "A": "Werner Heisenberg",
+      "B": "Erwin Schrödinger",
+      "C": "Paul Dirac",
+      "D": "Niels Bohr",
+      "result": "A"
+    },
+    {
+      "id": 41,
+      "title": "Hành tinh nào có số lượng vệ tinh tự nhiên ít nhất?",
+      "A": "Sao Thủy",
+      "B": "Sao Kim",
+      "C": "Sao Hỏa",
+      "D": "Trái Đất",
+      "result": "A"
+    },
+    {
+      "id": 42,
+      "title": "Tác phẩm nào của Orwell kể về một trang trại nổi loạn?",
+      "A": "Animal Farm",
+      "B": "1984",
+      "C": "Homage to Catalonia",
+      "D": "Down and Out in Paris and London",
+      "result": "A"
+    },
+    {
+      "id": 43,
+      "title": "Tính giá trị của csc(π/2). Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "∞",
+      "D": "-1",
+      "result": "B"
+    },
+    {
+      "id": 44,
+      "title": "Quốc gia nào phát minh ra thuốc súng?",
+      "A": "Trung Quốc",
+      "B": "Ấn Độ",
+      "C": "Ba Tư",
+      "D": "Hy Lạp",
+      "result": "A"
+    },
+    {
+      "id": 45,
+      "title": "Nguyên tố nào được sử dụng trong máy dò khói?",
+      "A": "Americi (Am)",
+      "B": "Urani (U)",
+      "C": "Plutoni (Pu)",
+      "D": "Radi (Ra)",
+      "result": "A"
+    },
+    {
+      "id": 46,
+      "title": "Tính giá trị của 7^2 - 5^2. Kết quả là bao nhiêu?",
+      "A": "22",
+      "B": "24",
+      "C": "26",
+      "D": "28",
+      "result": "B"
+    },
+    {
+      "id": 47,
+      "title": "Ai là nhà văn đã viết 'The Catcher in the Rye'?",
+      "A": "J.D. Salinger",
+      "B": "Ernest Hemingway",
+      "C": "F. Scott Fitzgerald",
+      "D": "John Steinbeck",
+      "result": "A"
+    },
+    {
+      "id": 48,
+      "title": "Hành tinh nào có độ nghiêng trục nhỏ nhất?",
+      "A": "Sao Thủy",
+      "B": "Sao Kim",
+      "C": "Trái Đất",
+      "D": "Sao Hỏa",
+      "result": "A"
+    },
+    {
+      "id": 49,
+      "title": "Tìm nghiệm của phương trình 2^x = 8. Giá trị của x là bao nhiêu?",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "result": "C"
+    },
+    {
+      "id": 50,
+      "title": "Ai là nhà khoa học đã phát triển định luật bảo toàn khối lượng?",
+      "A": "Antoine Lavoisier",
+      "B": "John Dalton",
+      "C": "Joseph Priestley",
+      "D": "Henry Cavendish",
+      "result": "A"
+    }
+  ],
+  "quizSet11": [
+    {
+      "id": 1,
+      "title": "Tính giới hạn: lim (x→∞) (x^3 + 2x)/(x^3 - 1). Kết quả là bao nhiêu?",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "∞",
+      "result": "A"
+    },
+    {
+      "id": 2,
+      "title": "Nguyên tố nào có số neutron bằng 0 trong đồng vị phổ biến nhất?",
+      "A": "Hidro-1",
+      "B": "Heli-4",
+      "C": "Liti-7",
+      "D": "Berili-9",
+      "result": "A"
+    },
+    {
+      "id": 3,
+      "title": "Ai là nhà toán học đã phát triển định lý số dư Trung Hoa?",
+      "A": "Tôn Tử",
+      "B": "Euclid",
+      "C": "Diophantus",
+      "D": "Aryabhata",
+      "result": "A"
+    },
+    {
+      "id": 4,
+      "title": "Hành tinh nào có áp suất bề mặt thấp nhất?",
+      "A": "Sao Thủy",
+      "B": "Sao Kim",
+      "C": "Sao Hỏa",
+      "D": "Trái Đất",
+      "result": "A"
+    },
+    {
+      "id": 5,
+      "title": "Tác phẩm nào của Dickens kể về hai thành phố trong Cách mạng Pháp?",
+      "A": "A Tale of Two Cities",
+      "B": "Great Expectations",
+      "C": "Oliver Twist",
+      "D": "David Copperfield",
+      "result": "A"
+    },
+    {
+      "id": 6,
+      "title": "Nguyên tố nào có ký hiệu hóa học là 'Pb'?",
+      "A": "Chì",
+      "B": "Thiếc",
+      "C": "Kẽm",
+      "D": "Đồng",
+      "result": "A"
+    },
+    {
+      "id": 7,
+      "title": "Tính đạo hàm bậc hai của f(x) = x^3 tại x = 1. Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "6",
+      "C": "12",
+      "D": "18",
+      "result": "B"
+    },
+    {
+      "id": 8,
+      "title": "Ai là nhà vật lý đã phát triển lý thuyết siêu đối xứng?",
+      "A": "Edward Witten",
+      "B": "Murray Gell-Mann",
+      "C": "Steven Weinberg",
+      "D": "Sheldon Glashow",
+      "result": "A"
+    },
+    {
+      "id": 9,
+      "title": "Quốc gia nào có số lượng sông lớn nhất thế giới?",
+      "A": "Brazil",
+      "B": "Nga",
+      "C": "Canada",
+      "D": "Trung Quốc",
+      "result": "A"
+    },
+    {
+      "id": 10,
+      "title": "Tác phẩm nào của Faulkner kể về một gia đình miền Nam nước Mỹ?",
+      "A": "The Sound and the Fury",
+      "B": "As I Lay Dying",
+      "C": "Light in August",
+      "D": "Absalom, Absalom!",
+      "result": "A"
+    },
+    {
+      "id": 11,
+      "title": "Tìm nghiệm của phương trình tan(x) = 0 trong khoảng (0, π). Giá trị nào sau đây là đúng?",
+      "A": "0",
+      "B": "π/4",
+      "C": "π/2",
+      "D": "π",
+      "result": "D"
+    },
+    {
+      "id": 12,
+      "title": "Ai là nhà khoa học đã phát hiện ra hiệu ứng Doppler?",
+      "A": "Christian Doppler",
+      "B": "Edwin Hubble",
+      "C": "Heinrich Hertz",
+      "D": "Albert Einstein",
+      "result": "A"
+    },
+    {
+      "id": 13,
+      "title": "Sa mạc nào lớn nhất châu Á?",
+      "A": "Gobi",
+      "B": "Thar",
+      "C": "Karakum",
+      "D": "Taklamakan",
+      "result": "A"
+    },
+    {
+      "id": 14,
+      "title": "Nguyên tố nào có năng lượng ion hóa thấp nhất?",
+      "A": "Franci (Fr)",
+      "B": "Xesi (Cs)",
+      "C": "Rubiđi (Rb)",
+      "D": "Kali (K)",
+      "result": "A"
+    },
+    {
+      "id": 15,
+      "title": "Tính tích phân ∫(x^3) dx từ 0 đến 2. Kết quả là bao nhiêu?",
+      "A": "2",
+      "B": "4",
+      "C": "8",
+      "D": "16",
+      "result": "C"
+    },
+    {
+      "id": 16,
+      "title": "Ai là nhà văn đã viết 'Crime and Punishment'?",
+      "A": "Fyodor Dostoevsky",
+      "B": "Leo Tolstoy",
+      "C": "Anton Chekhov",
+      "D": "Ivan Turgenev",
+      "result": "A"
+    },
+    {
+      "id": 17,
+      "title": "Hành tinh nào có tỷ lệ khí hydro cao nhất trong khí quyển?",
+      "A": "Sao Mộc",
+      "B": "Sao Thổ",
+      "C": "Sao Thiên Vương",
+      "D": "Sao Hải Vương",
+      "result": "A"
+    },
+    {
+      "id": 18,
+      "title": "Tính giá trị của sinh(1). Kết quả gần đúng là bao nhiêu?",
+      "A": "1.18",
+      "B": "1.54",
+      "C": "2.18",
+      "D": "2.72",
+      "result": "A"
+    },
+    {
+      "id": 19,
+      "title": "Quốc gia nào từng là trung tâm của Đế quốc Inca?",
+      "A": "Peru",
+      "B": "Bolivia",
+      "C": "Ecuador",
+      "D": "Chile",
+      "result": "A"
+    },
+    {
+      "id": 20,
+      "title": "Ai là nhà khoa học đã phát hiện ra sóng hấp dẫn?",
+      "A": "Albert Einstein",
+      "B": "Kip Thorne",
+      "C": "Barry Barish",
+      "D": "Rainer Weiss",
+      "result": "A"
+    },
+    {
+      "id": 21,
+      "title": "Tìm nghiệm của phương trình x^2 - 6x + 9 = 0. Nghiệm nào sau đây là đúng?",
+      "A": "x = 3",
+      "B": "x = 4",
+      "C": "x = 5",
+      "D": "x = 6",
+      "result": "A"
+    },
+    {
+      "id": 22,
+      "title": "Tác phẩm nào của Woolf kể về một ngày trong đời của một người phụ nữ London?",
+      "A": "Mrs Dalloway",
+      "B": "To the Lighthouse",
+      "C": "The Waves",
+      "D": "Orlando",
+      "result": "A"
+    },
+    {
+      "id": 23,
+      "title": "Hồ nào lớn nhất châu Phi?",
+      "A": "Hồ Victoria",
+      "B": "Hồ Tanganyika",
+      "C": "Hồ Malawi",
+      "D": "Hồ Chad",
+      "result": "A"
+    },
+    {
+      "id": 24,
+      "title": "Nguyên tố nào là phi kim phổ biến nhất trong vỏ Trái Đất?",
+      "A": "Oxy (O)",
+      "B": "Silic (Si)",
+      "C": "Nitơ (N)",
+      "D": "Lưu huỳnh (S)",
+      "result": "A"
+    },
+    {
+      "id": 25,
+      "title": "Tính giá trị của 8! / 6!. Kết quả là bao nhiêu?",
+      "A": "46",
+      "B": "56",
+      "C": "66",
+      "D": "76",
+      "result": "B"
+    },
+    {
+      "id": 26,
+      "title": "Ai là nhà vật lý đã phát triển lý thuyết hạt quark?",
+      "A": "Murray Gell-Mann",
+      "B": "Richard Feynman",
+      "C": "George Zweig",
+      "D": "Sheldon Glashow",
+      "result": "A"
+    },
+    {
+      "id": 27,
+      "title": "Hành tinh nào có tỷ lệ khí heli cao nhất trong khí quyển?",
+      "A": "Sao Mộc",
+      "B": "Sao Thổ",
+      "C": "Sao Thiên Vương",
+      "D": "Sao Hải Vương",
+      "result": "B"
+    },
+    {
+      "id": 28,
+      "title": "Tác phẩm nào của Tolstoy kể về một người phụ nữ ngoại tình?",
+      "A": "Anna Karenina",
+      "B": "War and Peace",
+      "C": "Resurrection",
+      "D": "The Kreutzer Sonata",
+      "result": "A"
+    },
+    {
+      "id": 29,
+      "title": "Quốc gia nào có số lượng rừng mưa nhiệt đới lớn nhất?",
+      "A": "Brazil",
+      "B": "Indonesia",
+      "C": "Congo",
+      "D": "Peru",
+      "result": "A"
+    },
+    {
+      "id": 30,
+      "title": "Nguyên tố nào được sử dụng trong chụp X-quang?",
+      "A": "Bari (Ba)",
+      "B": "Iốt (I)",
+      "C": "Chì (Pb)",
+      "D": "Xesi (Cs)",
+      "result": "A"
+    },
+    {
+      "id": 31,
+      "title": "Tính giá trị của arctan(√3). Kết quả là bao nhiêu?",
+      "A": "π/6",
+      "B": "π/4",
+      "C": "π/3",
+      "D": "π/2",
+      "result": "C"
+    },
+    {
+      "id": 32,
+      "title": "Ai là nhà khoa học đã phát hiện ra hiệu ứng nhà kính?",
+      "A": "Joseph Fourier",
+      "B": "John Tyndall",
+      "C": "Svante Arrhenius",
+      "D": "James Hansen",
+      "result": "A"
+    },
+    {
+      "id": 33,
+      "title": "Hành tinh nào có bầu khí quyển chứa nhiều nitơ nhất?",
+      "A": "Trái Đất",
+      "B": "Sao Kim",
+      "C": "Sao Hỏa",
+      "D": "Sao Mộc",
+      "result": "A"
+    },
+    {
+      "id": 34,
+      "title": "Tác phẩm nào của Brontë kể về tình yêu trên đồng cỏ hoang?",
+      "A": "Wuthering Heights",
+      "B": "Jane Eyre",
+      "C": "The Tenant of Wildfell Hall",
+      "D": "Agnes Grey",
+      "result": "A"
+    },
+    {
+      "id": 35,
+      "title": "Tính giá trị của log₄(16). Kết quả là bao nhiêu?",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "result": "B"
+    },
+    {
+      "id": 36,
+      "title": "Ai là nhà toán học đã phát triển lý thuyết nhóm?",
+      "A": "Évariste Galois",
+      "B": "Niels Abel",
+      "C": "Carl Gauss",
+      "D": "Leonhard Euler",
+      "result": "A"
+    },
+    {
+      "id": 37,
+      "title": "Quốc gia nào có sản lượng vàng lớn nhất thế giới?",
+      "A": "Trung Quốc",
+      "B": "Úc",
+      "C": "Nam Phi",
+      "D": "Nga",
+      "result": "A"
+    },
+    {
+      "id": 38,
+      "title": "Nguyên tố nào có chu kỳ bán rã dài nhất trong tự nhiên?",
+      "A": "Urani-238",
+      "B": "Thori-232",
+      "C": "Kali-40",
+      "D": "Radi-226",
+      "result": "A"
+    },
+    {
+      "id": 39,
+      "title": "Tính tích phân ∫(cos(x)) dx từ 0 đến π. Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "-1",
+      "result": "A"
+    },
+    {
+      "id": 40,
+      "title": "Ai là nhà khoa học đã phát hiện ra hiệu ứng Zeeman?",
+      "A": "Pieter Zeeman",
+      "B": "Hendrik Lorentz",
+      "C": "Albert Einstein",
+      "D": "Max Planck",
+      "result": "A"
+    },
+    {
+      "id": 41,
+      "title": "Hành tinh nào có bán kính nhỏ nhất?",
+      "A": "Sao Thủy",
+      "B": "Sao Kim",
+      "C": "Sao Hỏa",
+      "D": "Trái Đất",
+      "result": "A"
+    },
+    {
+      "id": 42,
+      "title": "Tác phẩm nào của Sartre kể về sự tự do trong tù?",
+      "A": "No Exit",
+      "B": "Nausea",
+      "C": "The Flies",
+      "D": "Being and Nothingness",
+      "result": "A"
+    },
+    {
+      "id": 43,
+      "title": "Tính giá trị của cosh(ln(2)). Kết quả là bao nhiêu?",
+      "A": "5/4",
+      "B": "3/2",
+      "C": "2",
+      "D": "5/2",
+      "result": "A"
+    },
+    {
+      "id": 44,
+      "title": "Quốc gia nào phát minh ra đồng hồ nước?",
+      "A": "Ai Cập",
+      "B": "Trung Quốc",
+      "C": "Hy Lạp",
+      "D": "Rome",
+      "result": "A"
+    },
+    {
+      "id": 45,
+      "title": "Nguyên tố nào được sử dụng trong laser hồng ngọc?",
+      "A": "Crom (Cr)",
+      "B": "Nhôm (Al)",
+      "C": "Sắt (Fe)",
+      "D": "Niken (Ni)",
+      "result": "A"
+    },
+    {
+      "id": 46,
+      "title": "Tính giá trị của 6^2 + 4^2. Kết quả là bao nhiêu?",
+      "A": "50",
+      "B": "52",
+      "C": "54",
+      "D": "56",
+      "result": "B"
+    },
+    {
+      "id": 47,
+      "title": "Ai là nhà văn đã viết 'The Sun Also Rises'?",
+      "A": "Ernest Hemingway",
+      "B": "F. Scott Fitzgerald",
+      "C": "John Steinbeck",
+      "D": "William Faulkner",
+      "result": "A"
+    },
+    {
+      "id": 48,
+      "title": "Hành tinh nào có tỷ lệ khí CO2 thấp nhất trong khí quyển?",
+      "A": "Sao Mộc",
+      "B": "Sao Thổ",
+      "C": "Sao Thiên Vương",
+      "D": "Sao Hải Vương",
+      "result": "A"
+    },
+    {
+      "id": 49,
+      "title": "Tìm nghiệm của phương trình 3^x = 9. Giá trị của x là bao nhiêu?",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "result": "B"
+    },
+    {
+      "id": 50,
+      "title": "Ai là nhà khoa học đã phát triển lý thuyết entropy?",
+      "A": "Rudolf Clausius",
+      "B": "Ludwig Boltzmann",
+      "C": "Sadi Carnot",
+      "D": "James Maxwell",
+      "result": "A"
+    }
+  ],
+  "quizSet12": [
+    {
+      "id": 1,
+      "title": "Tính giới hạn: lim (x→0) (x/sin(x)). Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "∞",
+      "D": "-1",
+      "result": "B"
+    },
+    {
+      "id": 2,
+      "title": "Nguyên tố nào có số proton là 6?",
+      "A": "Cacbon (C)",
+      "B": "Nitơ (N)",
+      "C": "Oxy (O)",
+      "D": "Boron (B)",
+      "result": "A"
+    },
+    {
+      "id": 3,
+      "title": "Ai là nhà toán học đã phát triển lý thuyết tích phân?",
+      "A": "Isaac Newton",
+      "B": "Gottfried Leibniz",
+      "C": "Bernhard Riemann",
+      "D": "Leonhard Euler",
+      "result": "A"
+    },
+    {
+      "id": 4,
+      "title": "Hành tinh nào có số ngày trong năm ít nhất?",
+      "A": "Sao Thủy",
+      "B": "Sao Kim",
+      "C": "Trái Đất",
+      "D": "Sao Hỏa",
+      "result": "A"
+    },
+    {
+      "id": 5,
+      "title": "Tác phẩm nào của Shakespeare kể về một vị vua Scotland?",
+      "A": "Macbeth",
+      "B": "Hamlet",
+      "C": "Othello",
+      "D": "King Lear",
+      "result": "A"
+    },
+    {
+      "id": 6,
+      "title": "Nguyên tố nào có ký hiệu hóa học là 'Cu'?",
+      "A": "Đồng",
+      "B": "Sắt",
+      "C": "Vàng",
+      "D": "Bạc",
+      "result": "A"
+    },
+    {
+      "id": 7,
+      "title": "Tính đạo hàm của f(x) = sin(x) tại x = 0. Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "-1",
+      "D": "∞",
+      "result": "B"
+    },
+    {
+      "id": 8,
+      "title": "Ai là nhà vật lý đã phát triển lý thuyết lượng tử ánh sáng?",
+      "A": "Max Planck",
+      "B": "Albert Einstein",
+      "C": "Niels Bohr",
+      "D": "Werner Heisenberg",
+      "result": "A"
+    },
+    {
+      "id": 9,
+      "title": "Quốc gia nào có số lượng đảo lớn nhất châu Âu?",
+      "A": "Na Uy",
+      "B": "Thụy Điển",
+      "C": "Hy Lạp",
+      "D": "Anh",
+      "result": "A"
+    },
+    {
+      "id": 10,
+      "title": "Tác phẩm nào của Tolstoy kể về chiến tranh và hòa bình?",
+      "A": "War and Peace",
+      "B": "Anna Karenina",
+      "C": "Resurrection",
+      "D": "The Death of Ivan Ilyich",
+      "result": "A"
+    },
+    {
+      "id": 11,
+      "title": "Tìm nghiệm của phương trình sin(x) = 0 trong khoảng (0, π). Giá trị nào sau đây là đúng?",
+      "A": "0",
+      "B": "π/2",
+      "C": "π",
+      "D": "π/4",
+      "result": "C"
+    },
+    {
+      "id": 12,
+      "title": "Ai là nhà khoa học đã phát hiện ra định luật Pascal?",
+      "A": "Blaise Pascal",
+      "B": "Daniel Bernoulli",
+      "C": "Archimedes",
+      "D": "Isaac Newton",
+      "result": "A"
+    },
+    {
+      "id": 13,
+      "title": "Sông nào dài nhất châu Âu?",
+      "A": "Sông Volga",
+      "B": "Sông Danube",
+      "C": "Sông Rhein",
+      "D": "Sông Elbe",
+      "result": "A"
+    },
+    {
+      "id": 14,
+      "title": "Nguyên tố nào có khối lượng nguyên tử nhỏ nhất?",
+      "A": "Hidro (H)",
+      "B": "Heli (He)",
+      "C": "Liti (Li)",
+      "D": "Berili (Be)",
+      "result": "A"
+    },
+    {
+      "id": 15,
+      "title": "Tính tích phân ∫(e^x) dx từ 0 đến 2. Kết quả gần đúng là bao nhiêu?",
+      "A": "e^2 - 1",
+      "B": "e^2",
+      "C": "2e",
+      "D": "e",
+      "result": "A"
+    },
+    {
+      "id": 16,
+      "title": "Ai là nhà văn đã viết 'The Stranger'?",
+      "A": "Albert Camus",
+      "B": "Jean-Paul Sartre",
+      "C": "Simone de Beauvoir",
+      "D": "Franz Kafka",
+      "result": "A"
+    },
+    {
+      "id": 17,
+      "title": "Hành tinh nào có tỷ lệ khí oxy cao nhất trong khí quyển?",
+      "A": "Trái Đất",
+      "B": "Sao Kim",
+      "C": "Sao Hỏa",
+      "D": "Sao Mộc",
+      "result": "A"
+    },
+    {
+      "id": 18,
+      "title": "Tính giá trị của cos(π/3). Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1/2",
+      "C": "√3/2",
+      "D": "1",
+      "result": "B"
+    },
+    {
+      "id": 19,
+      "title": "Quốc gia nào từng là trung tâm của Đế quốc Anh?",
+      "A": "Anh",
+      "B": "Ấn Độ",
+      "C": "Úc",
+      "D": "Canada",
+      "result": "A"
+    },
+    {
+      "id": 20,
+      "title": "Ai là nhà khoa học đã phát hiện ra nguyên lý đòn bẩy?",
+      "A": "Archimedes",
+      "B": "Galileo Galilei",
+      "C": "Isaac Newton",
+      "D": "Blaise Pascal",
+      "result": "A"
+    },
+    {
+      "id": 21,
+      "title": "Tìm nghiệm của phương trình x^2 - 2x - 3 = 0. Nghiệm nào sau đây là đúng?",
+      "A": "x = 3, -1",
+      "B": "x = 2, -1",
+      "C": "x = 1, -3",
+      "D": "x = 4, -2",
+      "result": "A"
+    },
+    {
+      "id": 22,
+      "title": "Tác phẩm nào của Hugo kể về một người lưng gù ở nhà thờ Đức Bà?",
+      "A": "The Hunchback of Notre-Dame",
+      "B": "Les Misérables",
+      "C": "The Toilers of the Sea",
+      "D": "Ninety-Three",
+      "result": "A"
+    },
+    {
+      "id": 23,
+      "title": "Núi nào cao nhất Nam Mỹ?",
+      "A": "Aconcagua",
+      "B": "Huascarán",
+      "C": "Cerro Bonete",
+      "D": "Ojos del Salado",
+      "result": "A"
+    },
+    {
+      "id": 24,
+      "title": "Nguyên tố nào có tính dẫn điện tốt nhất?",
+      "A": "Đồng (Cu)",
+      "B": "Bạc (Ag)",
+      "C": "Vàng (Au)",
+      "D": "Nhôm (Al)",
+      "result": "B"
+    },
+    {
+      "id": 25,
+      "title": "Tính giá trị của 7!. Kết quả là bao nhiêu?",
+      "A": "5,040",
+      "B": "720",
+      "C": "120",
+      "D": "40,320",
+      "result": "A"
+    },
+    {
+      "id": 26,
+      "title": "Ai là nhà vật lý đã phát triển lý thuyết vũ trụ giãn nở?",
+      "A": "Edwin Hubble",
+      "B": "Georges Lemaître",
+      "C": "Albert Einstein",
+      "D": "Stephen Hawking",
+      "result": "A"
+    },
+    {
+      "id": 27,
+      "title": "Hành tinh nào có tỷ lệ khí argon cao nhất trong khí quyển?",
+      "A": "Trái Đất",
+      "B": "Sao Kim",
+      "C": "Sao Hỏa",
+      "D": "Sao Mộc",
+      "result": "A"
+    },
+    {
+      "id": 28,
+      "title": "Tác phẩm nào của Kafka kể về một người đàn ông bị xét xử vô lý?",
+      "A": "The Trial",
+      "B": "The Castle",
+      "C": "The Metamorphosis",
+      "D": "In the Penal Colony",
+      "result": "A"
+    },
+    {
+      "id": 29,
+      "title": "Quốc gia nào có số lượng sa mạc lớn nhất?",
+      "A": "Úc",
+      "B": "Ả Rập Saudi",
+      "C": "Ai Cập",
+      "D": "Namibia",
+      "result": "A"
+    },
+    {
+      "id": 30,
+      "title": "Nguyên tố nào được sử dụng trong pin năng lượng mặt trời?",
+      "A": "Silic (Si)",
+      "B": "Gali (Ga)",
+      "C": "Asen (As)",
+      "D": "Đứcmani (Ge)",
+      "result": "A"
+    },
+    {
+      "id": 31,
+      "title": "Tính giá trị của arccos(1/2). Kết quả là bao nhiêu?",
+      "A": "π/6",
+      "B": "π/4",
+      "C": "π/3",
+      "D": "π/2",
+      "result": "C"
+    },
+    {
+      "id": 32,
+      "title": "Ai là nhà khoa học đã phát hiện ra định luật Coulomb?",
+      "A": "Charles-Augustin de Coulomb",
+      "B": "Michael Faraday",
+      "C": "James Maxwell",
+      "D": "André-Marie Ampère",
+      "result": "A"
+    },
+    {
+      "id": 33,
+      "title": "Hành tinh nào có tỷ lệ khí lưu huỳnh dioxit cao nhất?",
+      "A": "Sao Kim",
+      "B": "Sao Hỏa",
+      "C": "Trái Đất",
+      "D": "Sao Mộc",
+      "result": "A"
+    },
+    {
+      "id": 34,
+      "title": "Tác phẩm nào của Austen kể về một cô gái nhạy cảm và lý trí?",
+      "A": "Sense and Sensibility",
+      "B": "Pride and Prejudice",
+      "C": "Emma",
+      "D": "Persuasion",
+      "result": "A"
+    },
+    {
+      "id": 35,
+      "title": "Tính giá trị của log₃(81). Kết quả là bao nhiêu?",
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5",
+      "result": "C"
+    },
+    {
+      "id": 36,
+      "title": "Ai là nhà toán học đã phát triển lý thuyết logic toán học?",
+      "A": "Kurt Gödel",
+      "B": "Alan Turing",
+      "C": "Alfred Tarski",
+      "D": "George Boole",
+      "result": "A"
+    },
+    {
+      "id": 37,
+      "title": "Quốc gia nào có sản lượng than lớn nhất thế giới?",
+      "A": "Trung Quốc",
+      "B": "Mỹ",
+      "C": "Ấn Độ",
+      "D": "Úc",
+      "result": "A"
+    },
+    {
+      "id": 38,
+      "title": "Nguyên tố nào có tính dẫn nhiệt tốt nhất?",
+      "A": "Đồng (Cu)",
+      "B": "Bạc (Ag)",
+      "C": "Vàng (Au)",
+      "D": "Nhôm (Al)",
+      "result": "B"
+    },
+    {
+      "id": 39,
+      "title": "Tính tích phân ∫(x^2) dx từ 0 đến 3. Kết quả là bao nhiêu?",
+      "A": "9",
+      "B": "18",
+      "C": "27",
+      "D": "36",
+      "result": "A"
+    },
+    {
+      "id": 40,
+      "title": "Ai là nhà khoa học đã phát hiện ra định luật Kepler?",
+      "A": "Johannes Kepler",
+      "B": "Tycho Brahe",
+      "C": "Isaac Newton",
+      "D": "Galileo Galilei",
+      "result": "A"
+    },
+    {
+      "id": 41,
+      "title": "Hành tinh nào có khoảng cách gần nhất đến Mặt Trời?",
+      "A": "Sao Thủy",
+      "B": "Sao Kim",
+      "C": "Trái Đất",
+      "D": "Sao Hỏa",
+      "result": "A"
+    },
+    {
+      "id": 42,
+      "title": "Tác phẩm nào của Camus kể về một đại dịch?",
+      "A": "The Plague",
+      "B": "The Stranger",
+      "C": "The Myth of Sisyphus",
+      "D": "The Fall",
+      "result": "A"
+    },
+    {
+      "id": 43,
+      "title": "Tính giá trị của tan(π/3). Kết quả là bao nhiêu?",
+      "A": "√3",
+      "B": "1",
+      "C": "0",
+      "D": "∞",
+      "result": "A"
+    },
+    {
+      "id": 44,
+      "title": "Quốc gia nào phát minh ra số 0?",
+      "A": "Ấn Độ",
+      "B": "Trung Quốc",
+      "C": "Hy Lạp",
+      "D": "Ai Cập",
+      "result": "A"
+    },
+    {
+      "id": 45,
+      "title": "Nguyên tố nào được sử dụng trong đồng hồ phát quang?",
+      "A": "Radi (Ra)",
+      "B": "Urani (U)",
+      "C": "Plutoni (Pu)",
+      "D": "Prometi (Pm)",
+      "result": "A"
+    },
+    {
+      "id": 46,
+      "title": "Tính giá trị của 8^2 - 6^2. Kết quả là bao nhiêu?",
+      "A": "28",
+      "B": "30",
+      "C": "32",
+      "D": "34",
+      "result": "A"
+    },
+    {
+      "id": 47,
+      "title": "Ai là nhà văn đã viết 'Great Expectations'?",
+      "A": "Charles Dickens",
+      "B": "Jane Austen",
+      "C": "George Eliot",
+      "D": "Thomas Hardy",
+      "result": "A"
+    },
+    {
+      "id": 48,
+      "title": "Hành tinh nào có tỷ lệ khí nitơ thấp nhất trong khí quyển?",
+      "A": "Sao Kim",
+      "B": "Trái Đất",
+      "C": "Sao Hỏa",
+      "D": "Sao Mộc",
+      "result": "A"
+    },
+    {
+      "id": 49,
+      "title": "Tìm nghiệm của phương trình 4^x = 16. Giá trị của x là bao nhiêu?",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "result": "B"
+    },
+    {
+      "id": 50,
+      "title": "Ai là nhà khoa học đã phát hiện ra định luật Boyle?",
+      "A": "Robert Boyle",
+      "B": "Joseph Gay-Lussac",
+      "C": "Jacques Charles",
+      "D": "Amedeo Avogadro",
+      "result": "A"
+    }
+  ],
+  "quizSet13": [
+    {
+      "id": 1,
+      "title": "Tính giới hạn: lim (x→∞) (e^x)/(x^2). Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "∞",
+      "D": "-∞",
+      "result": "C"
+    },
+    {
+      "id": 2,
+      "title": "Nguyên tố nào có số proton là 26?",
+      "A": "Sắt (Fe)",
+      "B": "Đồng (Cu)",
+      "C": "Kẽm (Zn)",
+      "D": "Niken (Ni)",
+      "result": "A"
+    },
+    {
+      "id": 3,
+      "title": "Ai là nhà toán học đã phát triển lý thuyết hình học không gian?",
+      "A": "René Descartes",
+      "B": "Euclid",
+      "C": "Leonhard Euler",
+      "D": "Carl Gauss",
+      "result": "A"
+    },
+    {
+      "id": 4,
+      "title": "Hành tinh nào có tỷ lệ khí CO2 cao nhất trong khí quyển?",
+      "A": "Sao Kim",
+      "B": "Sao Hỏa",
+      "C": "Trái Đất",
+      "D": "Sao Mộc",
+      "result": "A"
+    },
+    {
+      "id": 5,
+      "title": "Tác phẩm nào của Dostoevsky kể về một người đàn ông ngây thơ?",
+      "A": "The Idiot",
+      "B": "Crime and Punishment",
+      "C": "The Brothers Karamazov",
+      "D": "Notes from Underground",
+      "result": "A"
+    },
+    {
+      "id": 6,
+      "title": "Nguyên tố nào có ký hiệu hóa học là 'Sn'?",
+      "A": "Thiếc",
+      "B": "Chì",
+      "C": "Kẽm",
+      "D": "Đồng",
+      "result": "A"
+    },
+    {
+      "id": 7,
+      "title": "Tính đạo hàm của f(x) = cos(x) tại x = π/2. Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "-1",
+      "D": "∞",
+      "result": "A"
+    },
+    {
+      "id": 8,
+      "title": "Ai là nhà vật lý đã phát triển lý thuyết trường lượng tử?",
+      "A": "Paul Dirac",
+      "B": "Richard Feynman",
+      "C": "Julian Schwinger",
+      "D": "Sin-Itiro Tomonaga",
+      "result": "A"
+    },
+    {
+      "id": 9,
+      "title": "Quốc gia nào có số lượng núi cao nhất thế giới?",
+      "A": "Nepal",
+      "B": "Ấn Độ",
+      "C": "Trung Quốc",
+      "D": "Pakistan",
+      "result": "A"
+    },
+    {
+      "id": 10,
+      "title": "Tác phẩm nào của Fitzgerald kể về giấc mơ Mỹ?",
+      "A": "The Great Gatsby",
+      "B": "Tender Is the Night",
+      "C": "This Side of Paradise",
+      "D": "The Beautiful and Damned",
+      "result": "A"
+    },
+    {
+      "id": 11,
+      "title": "Tìm nghiệm của phương trình cos(x) = 1/2 trong khoảng (0, π). Giá trị nào sau đây là đúng?",
+      "A": "π/6",
+      "B": "π/4",
+      "C": "π/3",
+      "D": "π/2",
+      "result": "C"
+    },
+    {
+      "id": 12,
+      "title": "Ai là nhà khoa học đã phát hiện ra định luật Bernoulli?",
+      "A": "Daniel Bernoulli",
+      "B": "Blaise Pascal",
+      "C": "Leonhard Euler",
+      "D": "Isaac Newton",
+      "result": "A"
+    },
+    {
+      "id": 13,
+      "title": "Hồ nào lớn nhất Nam Mỹ?",
+      "A": "Hồ Titicaca",
+      "B": "Hồ Maracaibo",
+      "C": "Hồ General Carrera",
+      "D": "Hồ Argentino",
+      "result": "A"
+    },
+    {
+      "id": 14,
+      "title": "Nguyên tố nào có số neutron trung bình lớn nhất trong tự nhiên?",
+      "A": "Urani (U)",
+      "B": "Thori (Th)",
+      "C": "Plutoni (Pu)",
+      "D": "Radi (Ra)",
+      "result": "A"
+    },
+    {
+      "id": 15,
+      "title": "Tính tích phân ∫(ln(x)) dx từ 1 đến e. Kết quả là bao nhiêu?",
+      "A": "1",
+      "B": "e",
+      "C": "e - 1",
+      "D": "0",
+      "result": "A"
+    },
+    {
+      "id": 16,
+      "title": "Ai là nhà văn đã viết '1984'?",
+      "A": "George Orwell",
+      "B": "Aldous Huxley",
+      "C": "Ray Bradbury",
+      "D": "Philip K. Dick",
+      "result": "A"
+    },
+    {
+      "id": 17,
+      "title": "Hành tinh nào có tỷ lệ khí metan thấp nhất trong khí quyển?",
+      "A": "Trái Đất",
+      "B": "Sao Thiên Vương",
+      "C": "Sao Hải Vương",
+      "D": "Sao Thổ",
+      "result": "A"
+    },
+    {
+      "id": 18,
+      "title": "Tính giá trị của sin(π/6). Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1/2",
+      "C": "√3/2",
+      "D": "1",
+      "result": "B"
+    },
+    {
+      "id": 19,
+      "title": "Quốc gia nào từng là trung tâm của Đế quốc Tây Ban Nha?",
+      "A": "Tây Ban Nha",
+      "B": "Mexico",
+      "C": "Peru",
+      "D": "Philippines",
+      "result": "A"
+    },
+    {
+      "id": 20,
+      "title": "Ai là nhà khoa học đã phát hiện ra hiệu ứng Coriolis?",
+      "A": "Gaspard-Gustave Coriolis",
+      "B": "Isaac Newton",
+      "C": "Leonhard Euler",
+      "D": "Joseph-Louis Lagrange",
+      "result": "A"
+    },
+    {
+      "id": 21,
+      "title": "Tìm nghiệm của phương trình x^2 + 4x + 4 = 0. Nghiệm nào sau đây là đúng?",
+      "A": "x = -2",
+      "B": "x = -3",
+      "C": "x = -4",
+      "D": "x = -5",
+      "result": "A"
+    },
+    {
+      "id": 22,
+      "title": "Tác phẩm nào của Melville kể về một con cá voi trắng?",
+      "A": "Moby-Dick",
+      "B": "Typee",
+      "C": "Omoo",
+      "D": "Billy Budd",
+      "result": "A"
+    },
+    {
+      "id": 23,
+      "title": "Sông nào dài nhất châu Á?",
+      "A": "Sông Dương Tử",
+      "B": "Sông Hoàng Hà",
+      "C": "Sông Mekong",
+      "D": "Sông Hằng",
+      "result": "A"
+    },
+    {
+      "id": 24,
+      "title": "Nguyên tố nào có tính phóng xạ tự nhiên thấp nhất?",
+      "A": "Kali (K)",
+      "B": "Urani (U)",
+      "C": "Thori (Th)",
+      "D": "Radi (Ra)",
+      "result": "A"
+    },
+    {
+      "id": 25,
+      "title": "Tính giá trị của 9! / 7!. Kết quả là bao nhiêu?",
+      "A": "72",
+      "B": "82",
+      "C": "92",
+      "D": "102",
+      "result": "A"
+    },
+    {
+      "id": 26,
+      "title": "Ai là nhà vật lý đã phát triển lý thuyết lỗ đen phát xạ?",
+      "A": "Stephen Hawking",
+      "B": "Roger Penrose",
+      "C": "John Wheeler",
+      "D": "Kip Thorne",
+      "result": "A"
+    },
+    {
+      "id": 27,
+      "title": "Hành tinh nào có tỷ lệ khí nitơ cao thứ hai trong khí quyển?",
+      "A": "Sao Hỏa",
+      "B": "Sao Kim",
+      "C": "Trái Đất",
+      "D": "Sao Mộc",
+      "result": "A"
+    },
+    {
+      "id": 28,
+      "title": "Tác phẩm nào của Steinbeck kể về hai người bạn trong Đại suy thoái?",
+      "A": "Of Mice and Men",
+      "B": "The Grapes of Wrath",
+      "C": "East of Eden",
+      "D": "Cannery Row",
+      "result": "A"
+    },
+    {
+      "id": 29,
+      "title": "Quốc gia nào có số lượng hồ nước mặn lớn nhất?",
+      "A": "Mỹ",
+      "B": "Canada",
+      "C": "Úc",
+      "D": "Nga",
+      "result": "A"
+    },
+    {
+      "id": 30,
+      "title": "Nguyên tố nào được sử dụng trong đèn LED?",
+      "A": "Gali (Ga)",
+      "B": "Silic (Si)",
+      "C": "Asen (As)",
+      "D": "Indi (In)",
+      "result": "A"
+    },
+    {
+      "id": 31,
+      "title": "Tính giá trị của arcsin(√3/2). Kết quả là bao nhiêu?",
+      "A": "π/6",
+      "B": "π/4",
+      "C": "π/3",
+      "D": "π/2",
+      "result": "C"
+    },
+    {
+      "id": 32,
+      "title": "Ai là nhà khoa học đã phát hiện ra hiệu ứng Compton?",
+      "A": "Arthur Compton",
+      "B": "Albert Einstein",
+      "C": "Niels Bohr",
+      "D": "Max Planck",
+      "result": "A"
+    },
+    {
+      "id": 33,
+      "title": "Hành tinh nào có tỷ lệ khí hydro thấp nhất trong khí quyển?",
+      "A": "Trái Đất",
+      "B": "Sao Mộc",
+      "C": "Sao Thổ",
+      "D": "Sao Thiên Vương",
+      "result": "A"
+    },
+    {
+      "id": 34,
+      "title": "Tác phẩm nào của Woolf kể về một ngọn hải đăng?",
+      "A": "To the Lighthouse",
+      "B": "Mrs Dalloway",
+      "C": "The Waves",
+      "D": "Orlando",
+      "result": "A"
+    },
+    {
+      "id": 35,
+      "title": "Tính giá trị của log₂(32). Kết quả là bao nhiêu?",
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6",
+      "result": "C"
+    },
+    {
+      "id": 36,
+      "title": "Ai là nhà toán học đã phát triển lý thuyết bất toàn?",
+      "A": "Kurt Gödel",
+      "B": "Alan Turing",
+      "C": "John von Neumann",
+      "D": "Alfred Tarski",
+      "result": "A"
+    },
+    {
+      "id": 37,
+      "title": "Quốc gia nào có sản lượng dầu mỏ lớn thứ hai thế giới?",
+      "A": "Ả Rập Saudi",
+      "B": "Nga",
+      "C": "Mỹ",
+      "D": "Iran",
+      "result": "A"
+    },
+    {
+      "id": 38,
+      "title": "Nguyên tố nào có nhiệt độ nóng chảy thấp nhất?",
+      "A": "Thủy ngân (Hg)",
+      "B": "Xesi (Cs)",
+      "C": "Franci (Fr)",
+      "D": "Gali (Ga)",
+      "result": "A"
+    },
+    {
+      "id": 39,
+      "title": "Tính tích phân ∫(x^3) dx từ 0 đến 1. Kết quả là bao nhiêu?",
+      "A": "1/4",
+      "B": "1/3",
+      "C": "1/2",
+      "D": "1",
+      "result": "A"
+    },
+    {
+      "id": 40,
+      "title": "Ai là nhà khoa học đã phát hiện ra định luật Hubble?",
+      "A": "Edwin Hubble",
+      "B": "Georges Lemaître",
+      "C": "Albert Einstein",
+      "D": "Harlow Shapley",
+      "result": "A"
+    },
+    {
+      "id": 41,
+      "title": "Hành tinh nào có tỷ lệ khí oxy thấp nhất trong khí quyển?",
+      "A": "Sao Kim",
+      "B": "Trái Đất",
+      "C": "Sao Hỏa",
+      "D": "Sao Mộc",
+      "result": "A"
+    },
+    {
+      "id": 42,
+      "title": "Tác phẩm nào của Hemingway kể về một người lính trong Thế chiến I?",
+      "A": "A Farewell to Arms",
+      "B": "The Old Man and the Sea",
+      "C": "For Whom the Bell Tolls",
+      "D": "The Sun Also Rises",
+      "result": "A"
+    },
+    {
+      "id": 43,
+      "title": "Tính giá trị của cot(π/6). Kết quả là bao nhiêu?",
+      "A": "√3",
+      "B": "1",
+      "C": "0",
+      "D": "∞",
+      "result": "A"
+    },
+    {
+      "id": 44,
+      "title": "Quốc gia nào phát minh ra kính thiên văn?",
+      "A": "Hà Lan",
+      "B": "Ý",
+      "C": "Anh",
+      "D": "Pháp",
+      "result": "A"
+    },
+    {
+      "id": 45,
+      "title": "Nguyên tố nào được sử dụng trong thuốc kháng sinh?",
+      "A": "Lưu huỳnh (S)",
+      "B": "Oxy (O)",
+      "C": "Nitơ (N)",
+      "D": "Clo (Cl)",
+      "result": "A"
+    },
+    {
+      "id": 46,
+      "title": "Tính giá trị của 9^2 - 7^2. Kết quả là bao nhiêu?",
+      "A": "30",
+      "B": "32",
+      "C": "34",
+      "D": "36",
+      "result": "B"
+    },
+    {
+      "id": 47,
+      "title": "Ai là nhà văn đã viết 'Jane Eyre'?",
+      "A": "Charlotte Brontë",
+      "B": "Emily Brontë",
+      "C": "Anne Brontë",
+      "D": "Jane Austen",
+      "result": "A"
+    },
+    {
+      "id": 48,
+      "title": "Hành tinh nào có tỷ lệ khí heli thấp nhất trong khí quyển?",
+      "A": "Trái Đất",
+      "B": "Sao Mộc",
+      "C": "Sao Thổ",
+      "D": "Sao Thiên Vương",
+      "result": "A"
+    },
+    {
+      "id": 49,
+      "title": "Tìm nghiệm của phương trình 5^x = 25. Giá trị của x là bao nhiêu?",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "result": "B"
+    },
+    {
+      "id": 50,
+      "title": "Ai là nhà khoa học đã phát hiện ra định luật Gay-Lussac?",
+      "A": "Joseph Gay-Lussac",
+      "B": "Robert Boyle",
+      "C": "Jacques Charles",
+      "D": "Amedeo Avogadro",
+      "result": "A"
+    }
+  ],
+  "quizSet14": [
+    {
+      "id": 1,
+      "title": "Tính giới hạn: lim (x→0) sin(x)/x. Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "∞",
+      "D": "-1",
+      "result": "B"
+    },
+    {
+      "id": 2,
+      "title": "Nguyên tố nào có số proton là 47?",
+      "A": "Vàng (Au)",
+      "B": "Bạc (Ag)",
+      "C": "Nhôm (Al)",
+      "D": "Chì (Pb)",
+      "result": "B"
+    },
+    {
+      "id": 3,
+      "title": "Ai là nhà toán học đã phát minh ra hệ tọa độ Descartes?",
+      "A": "René Descartes",
+      "B": "Pierre de Fermat",
+      "C": "Isaac Newton",
+      "D": "Gottfried Leibniz",
+      "result": "A"
+    },
+    {
+      "id": 4,
+      "title": "Hành tinh nào có thời gian tự quay ngắn nhất?",
+      "A": "Sao Mộc",
+      "B": "Sao Thổ",
+      "C": "Trái Đất",
+      "D": "Sao Hỏa",
+      "result": "A"
+    },
+    {
+      "id": 5,
+      "title": "Tác phẩm nào của Shakespeare kể về một vị vua Đan Mạch?",
+      "A": "Hamlet",
+      "B": "Macbeth",
+      "C": "Othello",
+      "D": "King Lear",
+      "result": "A"
+    },
+    {
+      "id": 6,
+      "title": "Nguyên tố nào có ký hiệu hóa học là 'Hg'?",
+      "A": "Thủy ngân",
+      "B": "Chì",
+      "C": "Kẽm",
+      "D": "Vàng",
+      "result": "A"
+    },
+    {
+      "id": 7,
+      "title": "Tính đạo hàm của f(x) = x^3 tại x = 2. Kết quả là bao nhiêu?",
+      "A": "6",
+      "B": "12",
+      "C": "18",
+      "D": "24",
+      "result": "B"
+    },
+    {
+      "id": 8,
+      "title": "Ai là nhà vật lý đã phát triển lý thuyết tương đối hẹp?",
+      "A": "Albert Einstein",
+      "B": "Max Planck",
+      "C": "Niels Bohr",
+      "D": "Werner Heisenberg",
+      "result": "A"
+    },
+    {
+      "id": 9,
+      "title": "Quốc gia nào có diện tích lớn nhất châu Phi?",
+      "A": "Algeria",
+      "B": "Congo",
+      "C": "Nam Phi",
+      "D": "Sudan",
+      "result": "A"
+    },
+    {
+      "id": 10,
+      "title": "Tác phẩm nào của Austen kể về chị em nhà Bennet?",
+      "A": "Pride and Prejudice",
+      "B": "Sense and Sensibility",
+      "C": "Emma",
+      "D": "Persuasion",
+      "result": "A"
+    },
+    {
+      "id": 11,
+      "title": "Tìm nghiệm của phương trình sin(x) = 0 trong khoảng (0, π). Giá trị nào sau đây là đúng?",
+      "A": "π/6",
+      "B": "π/4",
+      "C": "π/2",
+      "D": "π/3",
+      "result": "C"
+    },
+    {
+      "id": 12,
+      "title": "Ai là nhà khoa học đã phát hiện ra định luật vạn vật hấp dẫn?",
+      "A": "Isaac Newton",
+      "B": "Galileo Galilei",
+      "C": "Johannes Kepler",
+      "D": "Albert Einstein",
+      "result": "A"
+    },
+    {
+      "id": 13,
+      "title": "Hồ nào lớn nhất Bắc Mỹ?",
+      "A": "Hồ Superior",
+      "B": "Hồ Michigan",
+      "C": "Hồ Huron",
+      "D": "Hồ Ontario",
+      "result": "A"
+    },
+    {
+      "id": 14,
+      "title": "Nguyên tố nào có khối lượng nguyên tử lớn nhất trong tự nhiên?",
+      "A": "Urani (U)",
+      "B": "Plutoni (Pu)",
+      "C": "Thori (Th)",
+      "D": "Radi (Ra)",
+      "result": "A"
+    },
+    {
+      "id": 15,
+      "title": "Tính tích phân ∫(e^x) dx từ 0 đến 1. Kết quả là bao nhiêu?",
+      "A": "e - 1",
+      "B": "e",
+      "C": "1",
+      "D": "0",
+      "result": "A"
+    },
+    {
+      "id": 16,
+      "title": "Ai là nhà văn đã viết 'Brave New World'?",
+      "A": "Aldous Huxley",
+      "B": "George Orwell",
+      "C": "Ray Bradbury",
+      "D": "H.G. Wells",
+      "result": "A"
+    },
+    {
+      "id": 17,
+      "title": "Hành tinh nào có nhiệt độ bề mặt cao nhất?",
+      "A": "Sao Kim",
+      "B": "Sao Hỏa",
+      "C": "Trái Đất",
+      "D": "Sao Thủy",
+      "result": "A"
+    },
+    {
+      "id": 18,
+      "title": "Tính giá trị của cos(π/3). Kết quả là bao nhiêu?",
+      "A": "1/2",
+      "B": "√3/2",
+      "C": "0",
+      "D": "1",
+      "result": "A"
+    },
+    {
+      "id": 19,
+      "title": "Quốc gia nào từng là trung tâm của Đế quốc La Mã?",
+      "A": "Ý",
+      "B": "Hy Lạp",
+      "C": "Thổ Nhĩ Kỳ",
+      "D": "Ai Cập",
+      "result": "A"
+    },
+    {
+      "id": 20,
+      "title": "Ai là nhà khoa học đã phát hiện ra định luật Ohm?",
+      "A": "Georg Simon Ohm",
+      "B": "Michael Faraday",
+      "C": "James Maxwell",
+      "D": "Alessandro Volta",
+      "result": "A"
+    },
+    {
+      "id": 21,
+      "title": "Tìm nghiệm của phương trình x^2 - 5x + 6 = 0. Nghiệm nào sau đây là đúng?",
+      "A": "x = 2",
+      "B": "x = 4",
+      "C": "x = 5",
+      "D": "x = 6",
+      "result": "A"
+    },
+    {
+      "id": 22,
+      "title": "Tác phẩm nào của Tolkien kể về chiếc nhẫn quyền lực?",
+      "A": "The Lord of the Rings",
+      "B": "The Hobbit",
+      "C": "The Silmarillion",
+      "D": "The Children of Húrin",
+      "result": "A"
+    },
+    {
+      "id": 23,
+      "title": "Sông nào dài nhất thế giới?",
+      "A": "Sông Nile",
+      "B": "Sông Amazon",
+      "C": "Sông Mississippi",
+      "D": "Sông Dương Tử",
+      "result": "A"
+    },
+    {
+      "id": 24,
+      "title": "Nguyên tố nào có số electron lớp ngoài cùng là 8?",
+      "A": "Neon (Ne)",
+      "B": "Oxy (O)",
+      "C": "Nitơ (N)",
+      "D": "Clo (Cl)",
+      "result": "A"
+    },
+    {
+      "id": 25,
+      "title": "Tính giá trị của 5! / 3!. Kết quả là bao nhiêu?",
+      "A": "10",
+      "B": "20",
+      "C": "30",
+      "D": "40",
+      "result": "B"
+    },
+    {
+      "id": 26,
+      "title": "Ai là nhà vật lý đã phát triển nguyên lý bất định?",
+      "A": "Werner Heisenberg",
+      "B": "Erwin Schrödinger",
+      "C": "Niels Bohr",
+      "D": "Max Planck",
+      "result": "A"
+    },
+    {
+      "id": 27,
+      "title": "Hành tinh nào có đường kính lớn nhất?",
+      "A": "Sao Mộc",
+      "B": "Sao Thổ",
+      "C": "Sao Thiên Vương",
+      "D": "Sao Hải Vương",
+      "result": "A"
+    },
+    {
+      "id": 28,
+      "title": "Tác phẩm nào của Kafka kể về một người biến thành côn trùng?",
+      "A": "The Metamorphosis",
+      "B": "The Trial",
+      "C": "The Castle",
+      "D": "Amerika",
+      "result": "A"
+    },
+    {
+      "id": 29,
+      "title": "Quốc gia nào có dân số đông nhất thế giới?",
+      "A": "Trung Quốc",
+      "B": "Ấn Độ",
+      "C": "Mỹ",
+      "D": "Indonesia",
+      "result": "A"
+    },
+    {
+      "id": 30,
+      "title": "Nguyên tố nào được sử dụng trong pin lithium-ion?",
+      "A": "Lithium (Li)",
+      "B": "Niken (Ni)",
+      "C": "Coban (Co)",
+      "D": "Mangan (Mn)",
+      "result": "A"
+    },
+    {
+      "id": 31,
+      "title": "Tính giá trị của arctan(1). Kết quả là bao nhiêu?",
+      "A": "π/6",
+      "B": "π/4",
+      "C": "π/3",
+      "D": "π/2",
+      "result": "B"
+    },
+    {
+      "id": 32,
+      "title": "Ai là nhà khoa học đã phát hiện ra hiệu ứng quang điện?",
+      "A": "Albert Einstein",
+      "B": "Max Planck",
+      "C": "Heinrich Hertz",
+      "D": "Thomas Edison",
+      "result": "A"
+    },
+    {
+      "id": 33,
+      "title": "Hành tinh nào có số lượng vệ tinh tự nhiên lớn nhất?",
+      "A": "Sao Thổ",
+      "B": "Sao Mộc",
+      "C": "Sao Thiên Vương",
+      "D": "Sao Hải Vương",
+      "result": "A"
+    },
+    {
+      "id": 34,
+      "title": "Tác phẩm nào của Camus kể về một người chống lại sự phi lý?",
+      "A": "The Stranger",
+      "B": "The Plague",
+      "C": "The Fall",
+      "D": "The Myth of Sisyphus",
+      "result": "A"
+    },
+    {
+      "id": 35,
+      "title": "Tính giá trị của log₅(125). Kết quả là bao nhiêu?",
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5",
+      "result": "B"
+    },
+    {
+      "id": 36,
+      "title": "Ai là nhà toán học đã phát triển lý thuyết số học?",
+      "A": "Carl Gauss",
+      "B": "Leonhard Euler",
+      "C": "Pierre de Fermat",
+      "D": "Bernhard Riemann",
+      "result": "A"
+    },
+    {
+      "id": 37,
+      "title": "Quốc gia nào có sản lượng cà phê lớn nhất thế giới?",
+      "A": "Brazil",
+      "B": "Việt Nam",
+      "C": "Colombia",
+      "D": "Ethiopia",
+      "result": "A"
+    },
+    {
+      "id": 38,
+      "title": "Nguyên tố nào có nhiệt độ sôi thấp nhất?",
+      "A": "Heli (He)",
+      "B": "Hydro (H)",
+      "C": "Neon (Ne)",
+      "D": "Oxy (O)",
+      "result": "A"
+    },
+    {
+      "id": 39,
+      "title": "Tính tích phân ∫(2x) dx từ 0 đến 3. Kết quả là bao nhiêu?",
+      "A": "6",
+      "B": "9",
+      "C": "12",
+      "D": "15",
+      "result": "B"
+    },
+    {
+      "id": 40,
+      "title": "Ai là nhà khoa học đã phát hiện ra thuyết tiến hóa?",
+      "A": "Charles Darwin",
+      "B": "Gregor Mendel",
+      "C": "Alfred Wallace",
+      "D": "Jean-Baptiste Lamarck",
+      "result": "A"
+    },
+    {
+      "id": 41,
+      "title": "Hành tinh nào có khối lượng lớn nhất?",
+      "A": "Sao Mộc",
+      "B": "Sao Thổ",
+      "C": "Sao Thiên Vương",
+      "D": "Trái Đất",
+      "result": "A"
+    },
+    {
+      "id": 42,
+      "title": "Tác phẩm nào của Dickens kể về một cậu bé mồ côi?",
+      "A": "Oliver Twist",
+      "B": "Great Expectations",
+      "C": "David Copperfield",
+      "D": "A Tale of Two Cities",
+      "result": "A"
+    },
+    {
+      "id": 43,
+      "title": "Tính giá trị của tan(π/4). Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "√2",
+      "D": "√3",
+      "result": "B"
+    },
+    {
+      "id": 44,
+      "title": "Quốc gia nào phát minh ra la bàn?",
+      "A": "Trung Quốc",
+      "B": "Ý",
+      "C": "Hy Lạp",
+      "D": "Ấn Độ",
+      "result": "A"
+    },
+    {
+      "id": 45,
+      "title": "Nguyên tố nào được sử dụng trong bóng đèn huỳnh quang?",
+      "A": "Argon (Ar)",
+      "B": "Neon (Ne)",
+      "C": "Krypton (Kr)",
+      "D": "Xenon (Xe)",
+      "result": "A"
+    },
+    {
+      "id": 46,
+      "title": "Tính giá trị của 8^2 - 6^2. Kết quả là bao nhiêu?",
+      "A": "26",
+      "B": "28",
+      "C": "30",
+      "D": "32",
+      "result": "B"
+    },
+    {
+      "id": 47,
+      "title": "Ai là nhà văn đã viết 'Wuthering Heights'?",
+      "A": "Emily Brontë",
+      "B": "Charlotte Brontë",
+      "C": "Anne Brontë",
+      "D": "Jane Austen",
+      "result": "A"
+    },
+    {
+      "id": 48,
+      "title": "Hành tinh nào có áp suất khí quyển cao nhất?",
+      "A": "Sao Kim",
+      "B": "Trái Đất",
+      "C": "Sao Hỏa",
+      "D": "Sao Thủy",
+      "result": "A"
+    },
+    {
+      "id": 49,
+      "title": "Tìm nghiệm của phương trình 3^x = 9. Giá trị của x là bao nhiêu?",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "result": "B"
+    },
+    {
+      "id": 50,
+      "title": "Ai là nhà khoa học đã phát hiện ra định luật Avogadro?",
+      "A": "Amedeo Avogadro",
+      "B": "Joseph Gay-Lussac",
+      "C": "Robert Boyle",
+      "D": "Jacques Charles",
+      "result": "A"
+    }
+  ],
+  "quizSet15": [
+    {
+      "id": 1,
+      "title": "Tính giới hạn: lim (x→∞) (x^3)/(e^x). Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "∞",
+      "D": "-∞",
+      "result": "A"
+    },
+    {
+      "id": 2,
+      "title": "Nguyên tố nào có số proton là 79?",
+      "A": "Vàng (Au)",
+      "B": "Bạc (Ag)",
+      "C": "Bạch kim (Pt)",
+      "D": "Thủy ngân (Hg)",
+      "result": "A"
+    },
+    {
+      "id": 3,
+      "title": "Ai là nhà toán học đã phát triển tích phân?",
+      "A": "Isaac Newton",
+      "B": "Gottfried Leibniz",
+      "C": "Leonhard Euler",
+      "D": "Cả A và B",
+      "result": "D"
+    },
+    {
+      "id": 4,
+      "title": "Hành tinh nào có độ nghiêng trục lớn nhất?",
+      "A": "Sao Thiên Vương",
+      "B": "Sao Hải Vương",
+      "C": "Trái Đất",
+      "D": "Sao Hỏa",
+      "result": "A"
+    },
+    {
+      "id": 5,
+      "title": "Tác phẩm nào của Victor Hugo kể về một người tù khổ sai?",
+      "A": "Les Misérables",
+      "B": "The Hunchback of Notre-Dame",
+      "C": "The Toilers of the Sea",
+      "D": "The Man Who Laughs",
+      "result": "A"
+    },
+    {
+      "id": 6,
+      "title": "Nguyên tố nào có ký hiệu hóa học là 'Pb'?",
+      "A": "Chì",
+      "B": "Thiếc",
+      "C": "Đồng",
+      "D": "Sắt",
+      "result": "A"
+    },
+    {
+      "id": 7,
+      "title": "Tính đạo hàm của f(x) = ln(x) tại x = 1. Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "∞",
+      "result": "B"
+    },
+    {
+      "id": 8,
+      "title": "Ai là nhà vật lý đã phát triển lý thuyết điện từ?",
+      "A": "James Maxwell",
+      "B": "Michael Faraday",
+      "C": "Heinrich Hertz",
+      "D": "Nikola Tesla",
+      "result": "A"
+    },
+    {
+      "id": 9,
+      "title": "Quốc gia nào có đường bờ biển dài nhất thế giới?",
+      "A": "Canada",
+      "B": "Úc",
+      "C": "Nga",
+      "D": "Indonesia",
+      "result": "A"
+    },
+    {
+      "id": 10,
+      "title": "Tác phẩm nào của Orwell kể về một trang trại?",
+      "A": "Animal Farm",
+      "B": "1984",
+      "C": "Homage to Catalonia",
+      "D": "Down and Out in Paris and London",
+      "result": "A"
+    },
+    {
+      "id": 11,
+      "title": "Tìm nghiệm của phương trình tan(x) = 1 trong khoảng (0, π). Giá trị nào sau đây là đúng?",
+      "A": "π/6",
+      "B": "π/4",
+      "C": "π/3",
+      "D": "π/2",
+      "result": "B"
+    },
+    {
+      "id": 12,
+      "title": "Ai là nhà khoa học đã phát hiện ra thuyết tương đối rộng?",
+      "A": "Albert Einstein",
+      "B": "Stephen Hawking",
+      "C": "Roger Penrose",
+      "D": "Karl Schwarzschild",
+      "result": "A"
+    },
+    {
+      "id": 13,
+      "title": "Hồ nào lớn nhất châu Phi?",
+      "A": "Hồ Victoria",
+      "B": "Hồ Tanganyika",
+      "C": "Hồ Malawi",
+      "D": "Hồ Chad",
+      "result": "A"
+    },
+    {
+      "id": 14,
+      "title": "Nguyên tố nào có chu kỳ bán rã dài nhất?",
+      "A": "Urani-238 (U-238)",
+      "B": "Thori-232 (Th-232)",
+      "C": "Plutoni-239 (Pu-239)",
+      "D": "Radi-226 (Ra-226)",
+      "result": "A"
+    },
+    {
+      "id": 15,
+      "title": "Tính tích phân ∫(x^2) dx từ 0 đến 2. Kết quả là bao nhiêu?",
+      "A": "4/3",
+      "B": "8/3",
+      "C": "12/3",
+      "D": "16/3",
+      "result": "B"
+    },
+    {
+      "id": 16,
+      "title": "Ai là nhà văn đã viết 'Fahrenheit 451'?",
+      "A": "Ray Bradbury",
+      "B": "George Orwell",
+      "C": "Aldous Huxley",
+      "D": "Philip K. Dick",
+      "result": "A"
+    },
+    {
+      "id": 17,
+      "title": "Hành tinh nào có mật độ thấp nhất?",
+      "A": "Sao Thổ",
+      "B": "Sao Mộc",
+      "C": "Sao Thiên Vương",
+      "D": "Sao Hải Vương",
+      "result": "A"
+    },
+    {
+      "id": 18,
+      "title": "Tính giá trị của sin(π/4). Kết quả là bao nhiêu?",
+      "A": "1/2",
+      "B": "√2/2",
+      "C": "√3/2",
+      "D": "1",
+      "result": "B"
+    },
+    {
+      "id": 19,
+      "title": "Quốc gia nào từng là trung tâm của Đế quốc Ottoman?",
+      "A": "Thổ Nhĩ Kỳ",
+      "B": "Iran",
+      "C": "Ai Cập",
+      "D": "Ả Rập Saudi",
+      "result": "A"
+    },
+    {
+      "id": 20,
+      "title": "Ai là nhà khoa học đã phát hiện ra định luật Archimedes?",
+      "A": "Archimedes",
+      "B": "Galileo Galilei",
+      "C": "Blaise Pascal",
+      "D": "Isaac Newton",
+      "result": "A"
+    },
+    {
+      "id": 21,
+      "title": "Tìm nghiệm của phương trình x^2 - 2x - 3 = 0. Nghiệm nào sau đây là đúng?",
+      "A": "x = -1",
+      "B": "x = 2",
+      "C": "x = 3",
+      "D": "x = 4",
+      "result": "C"
+    },
+    {
+      "id": 22,
+      "title": "Tác phẩm nào của Rowling kể về một cậu bé phù thủy?",
+      "A": "Harry Potter",
+      "B": "The Casual Vacancy",
+      "C": "The Cuckoo's Calling",
+      "D": "Fantastic Beasts",
+      "result": "A"
+    },
+    {
+      "id": 23,
+      "title": "Sông nào dài nhất Nam Mỹ?",
+      "A": "Sông Amazon",
+      "B": "Sông Paraná",
+      "C": "Sông Uruguay",
+      "D": "Sông São Francisco",
+      "result": "A"
+    },
+    {
+      "id": 24,
+      "title": "Nguyên tố nào có điện tích hạt nhân lớn nhất trong tự nhiên?",
+      "A": "Urani (U)",
+      "B": "Thori (Th)",
+      "C": "Plutoni (Pu)",
+      "D": "Neptuni (Np)",
+      "result": "A"
+    },
+    {
+      "id": 25,
+      "title": "Tính giá trị của 10! / 8!. Kết quả là bao nhiêu?",
+      "A": "80",
+      "B": "90",
+      "C": "100",
+      "D": "110",
+      "result": "B"
+    },
+    {
+      "id": 26,
+      "title": "Ai là nhà vật lý đã phát triển mô hình nguyên tử hiện đại?",
+      "A": "Niels Bohr",
+      "B": "Erwin Schrödinger",
+      "C": "Werner Heisenberg",
+      "D": "John Dalton",
+      "result": "A"
+    },
+    {
+      "id": 27,
+      "title": "Hành tinh nào có khoảng cách gần Mặt Trời nhất?",
+      "A": "Sao Thủy",
+      "B": "Sao Kim",
+      "C": "Trái Đất",
+      "D": "Sao Hỏa",
+      "result": "A"
+    },
+    {
+      "id": 28,
+      "title": "Tác phẩm nào của Hemingway kể về một người đánh cá già?",
+      "A": "The Old Man and the Sea",
+      "B": "A Farewell to Arms",
+      "C": "For Whom the Bell Tolls",
+      "D": "The Sun Also Rises",
+      "result": "A"
+    },
+    {
+      "id": 29,
+      "title": "Quốc gia nào có số lượng đảo lớn nhất thế giới?",
+      "A": "Indonesia",
+      "B": "Philippines",
+      "C": "Nhật Bản",
+      "D": "New Zealand",
+      "result": "A"
+    },
+    {
+      "id": 30,
+      "title": "Nguyên tố nào được sử dụng trong lò phản ứng hạt nhân?",
+      "A": "Urani (U)",
+      "B": "Plutoni (Pu)",
+      "C": "Thori (Th)",
+      "D": "Cả A và B",
+      "result": "D"
+    },
+    {
+      "id": 31,
+      "title": "Tính giá trị của arccos(1/2). Kết quả là bao nhiêu?",
+      "A": "π/6",
+      "B": "π/4",
+      "C": "π/3",
+      "D": "π/2",
+      "result": "C"
+    },
+    {
+      "id": 32,
+      "title": "Ai là nhà khoa học đã phát hiện ra nguyên lý Pascal?",
+      "A": "Blaise Pascal",
+      "B": "Daniel Bernoulli",
+      "C": "Isaac Newton",
+      "D": "Archimedes",
+      "result": "A"
+    },
+    {
+      "id": 33,
+      "title": "Hành tinh nào có thời gian công quay dài nhất?",
+      "A": "Sao Kim",
+      "B": "Sao Thủy",
+      "C": "Trái Đất",
+      "D": "Sao Hỏa",
+      "result": "A"
+    },
+    {
+      "id": 34,
+      "title": "Tác phẩm nào của Brontë kể về một cô gia sư?",
+      "A": "Jane Eyre",
+      "B": "Wuthering Heights",
+      "C": "The Tenant of Wildfell Hall",
+      "D": "Shirley",
+      "result": "A"
+    },
+    {
+      "id": 35,
+      "title": "Tính giá trị của log₃(81). Kết quả là bao nhiêu?",
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5",
+      "result": "C"
+    },
+    {
+      "id": 36,
+      "title": "Ai là nhà toán học đã phát triển hình học giải tích?",
+      "A": "René Descartes",
+      "B": "Pierre de Fermat",
+      "C": "Leonhard Euler",
+      "D": "Carl Gauss",
+      "result": "A"
+    },
+    {
+      "id": 37,
+      "title": "Quốc gia nào có sản lượng vàng lớn nhất thế giới?",
+      "A": "Trung Quốc",
+      "B": "Úc",
+      "C": "Nam Phi",
+      "D": "Nga",
+      "result": "A"
+    },
+    {
+      "id": 38,
+      "title": "Nguyên tố nào có khối lượng nguyên tử nhỏ nhất?",
+      "A": "Hydro (H)",
+      "B": "Heli (He)",
+      "C": "Lithium (Li)",
+      "D": "Beri (Be)",
+      "result": "A"
+    },
+    {
+      "id": 39,
+      "title": "Tính tích phân ∫(1/x) dx từ 1 đến e. Kết quả là bao nhiêu?",
+      "A": "0",
+      "B": "1",
+      "C": "e",
+      "D": "e - 1",
+      "result": "B"
+    },
+    {
+      "id": 40,
+      "title": "Ai là nhà khoa học đã phát hiện ra định luật Kepler?",
+      "A": "Johannes Kepler",
+      "B": "Galileo Galilei",
+      "C": "Isaac Newton",
+      "D": "Tycho Brahe",
+      "result": "A"
+    },
+    {
+      "id": 41,
+      "title": "Hành tinh nào có tỷ lệ khí CO2 thấp nhất trong khí quyển?",
+      "A": "Sao Mộc",
+      "B": "Sao Kim",
+      "C": "Trái Đất",
+      "D": "Sao Hỏa",
+      "result": "A"
+    },
+    {
+      "id": 42,
+      "title": "Tác phẩm nào của Dostoevsky kể về một vụ giết người?",
+      "A": "Crime and Punishment",
+      "B": "The Idiot",
+      "C": "The Brothers Karamazov",
+      "D": "Demons",
+      "result": "A"
+    },
+    {
+      "id": 43,
+      "title": "Tính giá trị của cot(π/3). Kết quả là bao nhiêu?",
+      "A": "√3",
+      "B": "1/√3",
+      "C": "1",
+      "D": "0",
+      "result": "B"
+    },
+    {
+      "id": 44,
+      "title": "Quốc gia nào phát minh ra thuốc súng?",
+      "A": "Trung Quốc",
+      "B": "Ấn Độ",
+      "C": "Hy Lạp",
+      "D": "Ả Rập",
+      "result": "A"
+    },
+    {
+      "id": 45,
+      "title": "Nguyên tố nào được sử dụng trong nhiệt kế?",
+      "A": "Thủy ngân (Hg)",
+      "B": "Cồn (Alcohol)",
+      "C": "Gali (Ga)",
+      "D": "Cả A và B",
+      "result": "D"
+    },
+    {
+      "id": 46,
+      "title": "Tính giá trị của 10^2 - 8^2. Kết quả là bao nhiêu?",
+      "A": "34",
+      "B": "36",
+      "C": "38",
+      "D": "40",
+      "result": "B"
+    },
+    {
+      "id": 47,
+      "title": "Ai là nhà văn đã viết 'Pride and Prejudice'?",
+      "A": "Jane Austen",
+      "B": "Charlotte Brontë",
+      "C": "Emily Brontë",
+      "D": "Mary Shelley",
+      "result": "A"
+    },
+    {
+      "id": 48,
+      "title": "Hành tinh nào có vận tốc quay nhanh nhất?",
+      "A": "Sao Mộc",
+      "B": "Sao Thổ",
+      "C": "Trái Đất",
+      "D": "Sao Hỏa",
+      "result": "A"
+    },
+    {
+      "id": 49,
+      "title": "Tìm nghiệm của phương trình 2^x = 8. Giá trị của x là bao nhiêu?",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "result": "C"
+    },
+    {
+      "id": 50,
+      "title": "Ai là nhà khoa học đã phát hiện ra định luật Boyle?",
+      "A": "Robert Boyle",
+      "B": "Joseph Gay-Lussac",
+      "C": "Jacques Charles",
+      "D": "Amedeo Avogadro",
+      "result": "A"
+    }
+  ]
+}

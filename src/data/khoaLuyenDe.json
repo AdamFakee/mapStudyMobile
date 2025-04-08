@@ -1,0 +1,73 @@
+{
+    "course": {
+        "thumbnail": "https://mapstudy.sgp1.digitaloceanspaces.com/course/mogb10z00fg2/khoa-i---luyen-thi-thpt-mon-vat-ly-nam-2025-1709626124012.jpg",
+        "title": "KHÓA E - TỔNG ÔN TRỌNG ĐIỂM MÔN TOÁN",
+        "exam_list": [
+            {
+                "id": 1,
+                "title": "Đề phát triển minh họa",
+                "subject": "Môn Tiếng Anh",
+                "exam_number": "Đề Số 1"
+            },
+            {
+                "id": 2,
+                "title": "Đề phát triển minh họa",
+                "subject": "Môn Tiếng Anh",
+                "exam_number": "Đề Số 2"
+            },
+            {
+                "id": 3,
+                "title": "Đề phát triển minh họa",
+                "subject": "Môn Tiếng Anh",
+                "exam_number": "Đề Số 3"
+            },
+            {
+                "id": 4,
+                "title": "Đề phát triển minh họa",
+                "subject": "Môn Tiếng Anh",
+                "exam_number": "Đề Số 4"
+            },
+            {
+                "id": 5,
+                "title": "Đề phát triển minh họa",
+                "subject": "Môn Tiếng Anh",
+                "exam_number": "Đề Số 5"
+            },
+            {
+                "id": 6,
+                "title": "Đề phát triển minh họa",
+                "subject": "Môn Tiếng Anh",
+                "exam_number": "Đề Số 6"
+            },
+            {
+                "id": 7,
+                "title": "Đề phát triển minh họa",
+                "subject": "Môn Tiếng Anh",
+                "exam_number": "Đề Số 7"
+            },
+            {
+                "id": 8,
+                "title": "Đề phát triển minh họa",
+                "subject": "Môn Tiếng Anh",
+                "exam_number": "Đề Số 8"
+            },
+            {
+                "id": 9,
+                "title": "Đề phát triển minh họa",
+                "subject": "Môn Tiếng Anh",
+                "exam_number": "Đề Số 9"
+            },
+            {
+                "id": 10,
+                "title": "Đề phát triển minh họa",
+                "subject": "Môn Tiếng Anh",
+                "exam_number": "Đề Số 10"
+            }
+        ]
+    },
+    "teacher": {
+        "thumbnail": "https://mapstudy.sgp1.digitaloceanspaces.com/teacher/64b229b5d0a652b97e5ab22d/thay-vu-ngoc-anh-1719903957239.png",
+        "name": "thầy đặng tiến nghĩa",
+        "id":1
+    }
+}

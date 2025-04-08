@@ -1,0 +1,1 @@
+export const domain: string = 'http://192.168.1.98:3001/api/v1';
