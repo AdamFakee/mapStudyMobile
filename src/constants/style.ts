@@ -17,3 +17,11 @@ export const padding = {
 export const tabbar = {
     height : 60
 }
+
+export const radius = {
+    all: 20,
+}
+
+export const gap = {
+    all: 20
+}

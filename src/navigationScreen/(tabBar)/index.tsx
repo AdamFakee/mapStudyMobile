@@ -10,7 +10,7 @@ import Icon from 'react-native-vector-icons/AntDesign';
 import HeaderTabBar, { HeaderTabBarProps } from '../../components/Layouts/HeaderTabBar';
 import { tabBarTitle } from '../../constants/tabBar';
 import { color, tabbar } from '../../constants/style';
-import SearchDrawer from '../../components/Layouts/searchDrawer';
+import SearchDrawer from '../../components/Layouts/SearchDrawer';
 
 type BottomTabType = {
   homeTab: undefined;

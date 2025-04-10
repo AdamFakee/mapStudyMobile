@@ -22,7 +22,16 @@ interface CallApiType {
     method?: 'GET' | 'POST' | 'PUT' | 'PATCH' | 'DELETE';
     data?: any;
 }
-export const callApi = async ({ url, headers, method = 'GET', data}: CallApiType) => {
+export interface ApiResponse {
+    status?: number;
+    message: string;
+}
+export const callApi = async <T>({
+    url,
+    headers,
+    method = 'GET',
+    data,
+}: CallApiType): Promise<T> => {
     const response = await axiosConfigBase({
         url,
         method,
@@ -31,6 +40,9 @@ export const callApi = async ({ url, headers, method = 'GET', data}: CallApiType
         transformRequest: transformReq,
         transformResponse: transformRes,
     });
-    return response.data;
+
+    // nếu gặp lỗi 204 
+    const result: T = response.status === 204 ? {} : await response.data;
+    return { ...result };
 };
 
