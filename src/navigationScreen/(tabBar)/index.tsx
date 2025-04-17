@@ -1,23 +1,27 @@
-import { BottomTabNavigationOptions, createBottomTabNavigator } from '@react-navigation/bottom-tabs'
+import { BottomTabBarProps, BottomTabNavigationOptions, BottomTabScreenProps, createBottomTabNavigator } from '@react-navigation/bottom-tabs'
 import React, { RefObject, useRef } from 'react'
-import IndexCourses from './Courses';
-import IndexHome from './Home';
-import IndexExam from './Exam';
-import IndexNews from './News';
+import IndexCourses, { CourseStackType } from './Courses';
+import IndexHome, { HomeStackType } from './Home';
+import IndexExam, { ExamStackType } from './Exam';
+import IndexNews, { NewsStackType } from './News';
 import { BlurView } from '@react-native-community/blur';
-import { DrawerLayoutAndroid, StyleSheet, Text } from 'react-native';
+import { DrawerLayoutAndroid, StyleSheet, Text, View } from 'react-native';
 import Icon from 'react-native-vector-icons/AntDesign';
 import HeaderTabBar, { HeaderTabBarProps } from '../../components/Layouts/HeaderTabBar';
 import { tabBarTitle } from '../../constants/tabBar';
 import { color, tabbar } from '../../constants/style';
 import SearchDrawer from '../../components/Layouts/SearchDrawer';
+import { NavigatorScreenParams } from '@react-navigation/native';
+import { getWidth } from '../../utils/demensionUtils';
 
 type BottomTabType = {
-  homeTab: undefined;
-  courseTab: undefined;
-  examTab: undefined;
-  newsTab: undefined;
+  homeTab: NavigatorScreenParams<HomeStackType>;
+  courseTab: NavigatorScreenParams<CourseStackType>;
+  examTab: NavigatorScreenParams<ExamStackType>;
+  newsTab: NavigatorScreenParams<NewsStackType>;
 }
+
+export type BottomTabProps< T extends keyof BottomTabType> = BottomTabScreenProps<BottomTabType, T>
 const RootTabBar = createBottomTabNavigator<BottomTabType>();
 
 const opts: BottomTabNavigationOptions = {
@@ -69,10 +73,18 @@ export interface SearchDrawerRef {
 }
 const Index = () => {
   const drawerRef = useRef<DrawerLayoutAndroid>(null);
+  const width = getWidth('screen');
   return (
     <DrawerLayoutAndroid
       ref={drawerRef}
-      renderNavigationView={() => <SearchDrawer/>}
+      drawerWidth={width * 0.8}
+      renderNavigationView={() => {
+        return (
+          <View style={{flex: 1}}>
+            <SearchDrawer drawerRef={drawerRef}/>
+          </View>
+        )
+      }}
     >
       <RootTabBar.Navigator
         screenOptions={opts}

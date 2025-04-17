@@ -1,12 +1,13 @@
 import React from 'react';
-import { createNativeStackNavigator, NativeStackNavigationOptions } from "@react-navigation/native-stack";
+import { createNativeStackNavigator, NativeStackNavigationOptions, NativeStackScreenProps } from "@react-navigation/native-stack";
 import New from '../../../app/(tabBar)/News/New';
 
-type StackType = {
+export type NewsStackType = {
     New: undefined;
 }
 
-const RootStack = createNativeStackNavigator<StackType>();
+export type NewsTabbarProps< T extends keyof NewsStackType > = NativeStackScreenProps<NewsStackType, T>;
+const RootStack = createNativeStackNavigator<NewsStackType>();
 
 const opts: NativeStackNavigationOptions = {
   headerShown: false,

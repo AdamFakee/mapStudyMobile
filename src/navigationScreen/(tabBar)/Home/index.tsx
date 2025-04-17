@@ -1,12 +1,14 @@
 import React from 'react';
-import { createNativeStackNavigator, NativeStackNavigationOptions } from "@react-navigation/native-stack";
+import { createNativeStackNavigator, NativeStackNavigationOptions, NativeStackScreenProps } from "@react-navigation/native-stack";
 import Home from '../../../app/(tabBar)/Home/Home';
 
-type StackType = {
+export type HomeStackType = {
     Home: undefined;
 }
 
-const RootStack = createNativeStackNavigator<StackType>();
+export type HomeTabBarProps<T extends keyof HomeStackType> = NativeStackScreenProps<HomeStackType, T>;
+
+const RootStack = createNativeStackNavigator<HomeStackType>();
 
 const opts: NativeStackNavigationOptions = {
   headerShown: false,

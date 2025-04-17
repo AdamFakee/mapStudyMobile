@@ -1,12 +1,14 @@
-import { View, StyleSheet, FlatList } from 'react-native';
+import { View, StyleSheet, FlatList, TouchableWithoutFeedback } from 'react-native';
 import React, { useEffect, useState } from 'react';
 import TitleHeader from './TitleHeader';
-import CourseCard from '../card/CourseCard';
-import { getWidth } from '../../utils/demensionUtils';
-import { gap, padding } from '../../constants/style';
-import { Course } from '../../types/definition';
-import { domain } from '../../constants/domain';
-import { ApiResponse, callApi } from '../../customs/axiosLib';
+import CourseCard from '../../card/CourseCard';
+import { getWidth } from '../../../utils/demensionUtils';
+import { gap, padding } from '../../../constants/style';
+import { Course } from '../../../types/definition';
+import { domain } from '../../../constants/domain';
+import { ApiResponse, callApi } from '../../../customs/axiosLib';
+import { useNavigation } from '@react-navigation/native';
+import { BottomTabProps } from '../../../navigationScreen/(tabBar)';
 
 
 interface resultFetch extends ApiResponse {
@@ -17,6 +19,7 @@ interface resultFetch extends ApiResponse {
 
 const widthScreen = getWidth('screen');
 const ListCourse = ({ isNew, isHot, title }: { isNew: boolean, isHot: boolean, title: string }) => {
+    const navigation = useNavigation<BottomTabProps<"homeTab">["navigation"]>();
     // call api
     const [ courses, setCourses ] = useState<Course[]>(); 
     const url: string = domain + `/course/filter?isNew=${isNew}&isHot=${isHot}`;
@@ -34,6 +37,17 @@ const ListCourse = ({ isNew, isHot, title }: { isNew: boolean, isHot: boolean, t
 
         fetchCourse();
     }, [url]);
+
+
+    // navigation
+    const handleNavigation = (courseId: number) => {
+        navigation.navigate('courseTab', {
+            params: {
+                courseId
+            },
+            screen: 'DetailCourse'
+        })
+    }
     return (
         <View style={styles.container}>
             {/* title */}
@@ -45,9 +59,11 @@ const ListCourse = ({ isNew, isHot, title }: { isNew: boolean, isHot: boolean, t
                 <FlatList
                     data={courses}
                     renderItem={({item}) => 
-                        <View style={styles.item}>
-                            <CourseCard item={item}/>
-                        </View>
+                        <TouchableWithoutFeedback onPress={() => handleNavigation(item.courseId)}>
+                            <View style={styles.item}>
+                                <CourseCard item={item}/>
+                            </View>
+                        </TouchableWithoutFeedback>
                     }
                     contentContainerStyle={styles.contentContainerFlatList}
                     scrollEnabled={false} // fix lỗi xung đột với scrollView 

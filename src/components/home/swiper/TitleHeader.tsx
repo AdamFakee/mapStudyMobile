@@ -1,6 +1,6 @@
 import { View, Text, TouchableWithoutFeedback, StyleSheet, StyleProp, ViewStyle } from 'react-native'
 import React from 'react'
-import { color } from '../../constants/style';
+import { color } from '../../../constants/style';
 
 type TitleHeaderProps = {
     title: string,

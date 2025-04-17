@@ -1,12 +1,13 @@
 import React from 'react';
-import { createNativeStackNavigator, NativeStackNavigationOptions } from "@react-navigation/native-stack";
+import { createNativeStackNavigator, NativeStackNavigationOptions, NativeStackScreenProps } from "@react-navigation/native-stack";
 import Exam from '../../../app/(tabBar)/Exam/Exam';
 
-type StackType = {
+export type ExamStackType = {
     Exam: undefined;
 }
 
-const RootStack = createNativeStackNavigator<StackType>();
+export type ExamTabbarProps< T extends keyof ExamStackType > = NativeStackScreenProps<ExamStackType, T>
+const RootStack = createNativeStackNavigator<ExamStackType>();
 
 const opts: NativeStackNavigationOptions = {
   headerShown: false,

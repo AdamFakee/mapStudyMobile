@@ -1,10 +1,10 @@
 import { View, FlatList, StyleSheet, Dimensions, StyleProp, ViewStyle } from 'react-native'
 import React, { useEffect, useState } from 'react'
-import { TeacherCard, TeacherCardType } from '../card/TeacherCard';
+import { TeacherCard, TeacherCardType } from '../../card/TeacherCard';
 import TitleHeader from './TitleHeader';
-import { gap, padding } from '../../constants/style';
-import { ApiResponse, callApi } from '../../customs/axiosLib';
-import { domain } from '../../constants/domain';
+import { gap, padding } from '../../../constants/style';
+import { ApiResponse, callApi } from '../../../customs/axiosLib';
+import { domain } from '../../../constants/domain';
 
 const screenWidth = Dimensions.get('screen').width;
 const customsStyleForTitleHeader: StyleProp<ViewStyle> = {
