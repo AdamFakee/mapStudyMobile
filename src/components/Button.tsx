@@ -1,17 +1,20 @@
 import { View, Text, TouchableWithoutFeedback, StyleSheet } from 'react-native'
 import React from 'react'
-import { color, padding, radius } from '../constants/style'
+import { color, radius } from '../constants/style'
 import Icon from 'react-native-vector-icons/FontAwesome6';
 
 type ActiveButtonType = {
     title: string,
-    fn?: () => void
+    fn?: () => void,
+    isIcon?: boolean,
 }
-export const ActiveButton = ({title, fn }: ActiveButtonType) => {
+export const ActiveButton = ({title, fn, isIcon = true }: ActiveButtonType) => {
     return (
         <TouchableWithoutFeedback onPress={fn}>
             <View style={styles.container}>
-                <Icon name='key' color={color.block}/>
+                {
+                    isIcon && <Icon name='key' color={color.block}/>
+                }
                 <Text style={styles.title}> {title} </Text>
             </View>
         </TouchableWithoutFeedback>

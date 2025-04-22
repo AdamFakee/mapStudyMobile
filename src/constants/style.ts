@@ -29,3 +29,7 @@ export const radius = {
 export const gap = {
     all: 20
 }
+
+export const input = {
+    height: 45
+}

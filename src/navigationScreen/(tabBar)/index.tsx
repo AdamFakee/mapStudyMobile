@@ -1,4 +1,4 @@
-import { BottomTabBarProps, BottomTabNavigationOptions, BottomTabScreenProps, createBottomTabNavigator } from '@react-navigation/bottom-tabs'
+import { BottomTabNavigationOptions, BottomTabScreenProps, createBottomTabNavigator } from '@react-navigation/bottom-tabs'
 import React, { RefObject, useRef } from 'react'
 import IndexCourses, { CourseStackType } from './Courses';
 import IndexHome, { HomeStackType } from './Home';
@@ -13,12 +13,17 @@ import { color, tabbar } from '../../constants/style';
 import SearchDrawer from '../../components/Layouts/SearchDrawer';
 import { NavigatorScreenParams } from '@react-navigation/native';
 import { getWidth } from '../../utils/demensionUtils';
+import IndexAuth, { AuthStacktype } from './auth';
+import IndexProfile, { ProfileStackType } from './profile';
+import { useAppSelectorGlobal } from '../../redux/store/globalStore';
 
 type BottomTabType = {
   homeTab: NavigatorScreenParams<HomeStackType>;
   courseTab: NavigatorScreenParams<CourseStackType>;
   examTab: NavigatorScreenParams<ExamStackType>;
   newsTab: NavigatorScreenParams<NewsStackType>;
+  authTab: NavigatorScreenParams<AuthStacktype>;
+  profileTab: NavigatorScreenParams<ProfileStackType>
 }
 
 export type BottomTabProps< T extends keyof BottomTabType> = BottomTabScreenProps<BottomTabType, T>
@@ -72,6 +77,7 @@ export interface SearchDrawerRef {
   drawerRef: RefObject<DrawerLayoutAndroid> | null;
 }
 const Index = () => {
+  const { isLogin } = useAppSelectorGlobal(state => state.globalReducer);
   const drawerRef = useRef<DrawerLayoutAndroid>(null);
   const width = getWidth('screen');
   return (
@@ -107,6 +113,23 @@ const Index = () => {
           title: tabBarTitle.news,
           tabBarIcon: (props: PropsIconUIType) => <CustomIconUI {...props} iconName = 'paperclip'/>
         }}/>
+        {
+          isLogin
+            ?
+              (
+                <RootTabBar.Screen name='profileTab' component={IndexProfile} options={{
+                  title: tabBarTitle.profile,
+                  tabBarIcon: (props: PropsIconUIType) => <CustomIconUI {...props} iconName = 'user'/>
+                }}/>
+              )
+            :
+              (
+                <RootTabBar.Screen name='authTab' component={IndexAuth} options={{
+                  title: tabBarTitle.auth,
+                  tabBarIcon: (props: PropsIconUIType) => <CustomIconUI {...props} iconName = 'login'/>
+                }}/>
+              )
+        }
       </RootTabBar.Navigator>
     </DrawerLayoutAndroid>
   )

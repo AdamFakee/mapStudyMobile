@@ -16,7 +16,7 @@ export const axiosConfigBase: AxiosInstance = axios.create({
     timeout: 2000,
 });
 
-interface CallApiType {
+export interface CallApiType {
     url: string,
     headers?: RawAxiosRequestHeaders;
     method?: 'GET' | 'POST' | 'PUT' | 'PATCH' | 'DELETE';
@@ -25,6 +25,10 @@ interface CallApiType {
 export interface ApiResponse {
     status?: number;
     message: string;
+}
+export interface ApiError extends Error {
+    status: number;
+    code: number;
 }
 export const callApi = async <T>({
     url,
