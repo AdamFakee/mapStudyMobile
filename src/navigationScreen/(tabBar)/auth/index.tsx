@@ -20,7 +20,7 @@ const opts: NativeStackNavigationOptions = {
 
 const IndexAuth = () => {
   return (
-    <RootStack.Navigator initialRouteName='Register' screenOptions={opts}>
+    <RootStack.Navigator initialRouteName='PreAuth' screenOptions={opts}>
       <RootStack.Screen name='Login' component={Login}/>
       <RootStack.Screen name='Register' component={Register}/>
       <RootStack.Screen name='PreAuth' component={PreAuth}/>
