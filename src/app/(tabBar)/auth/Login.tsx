@@ -19,6 +19,7 @@ import Loading from '../../../components/Loading'
 
 
 const Login = () => {
+  console.log('hihihihih:::login')
   const [isLoading, setIsLoading] = useState<boolean>(false);
   const globalDispatch = useAppDispatchGlobal();
   const navigation = useNavigation<AuthTabBarProps<'Login'>['navigation']>();

@@ -2,7 +2,6 @@ import React from 'react';
 import { View, Image, StyleSheet, TouchableWithoutFeedback } from 'react-native';
 import Icon from 'react-native-vector-icons/Feather';
 import { SearchDrawerRef } from '../../navigationScreen/(tabBar)';
-import { BlurView } from '@react-native-community/blur';
 import { color } from '../../constants/style';
 
 export interface HeaderTabBarProps {
@@ -16,10 +15,8 @@ const HeaderTabBar = ({ children, drawerRef }: HeaderTabBarProps & SearchDrawerR
     return (
         <View style={styles.container}>
             {/* blur header */}
-            <BlurView
+            <View
                 style={styles.blurWraper}
-                blurAmount={10}
-                blurType='light'
             >
                 <View style={[styles.headerWrapper]}>
                     <View style={styles.logo}>
@@ -31,7 +28,7 @@ const HeaderTabBar = ({ children, drawerRef }: HeaderTabBarProps & SearchDrawerR
                         </View>
                     </TouchableWithoutFeedback>
                 </View>
-            </BlurView>
+            </View>
 
             {children}
         </View>

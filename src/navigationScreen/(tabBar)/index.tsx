@@ -4,7 +4,6 @@ import IndexCourses, { CourseStackType } from './Courses';
 import IndexHome, { HomeStackType } from './Home';
 import IndexExam, { ExamStackType } from './Exam';
 import IndexNews, { NewsStackType } from './News';
-import { BlurView } from '@react-native-community/blur';
 import { DrawerLayoutAndroid, StyleSheet, Text, View } from 'react-native';
 import Icon from 'react-native-vector-icons/AntDesign';
 import HeaderTabBar, { HeaderTabBarProps } from '../../components/Layouts/HeaderTabBar';
@@ -44,19 +43,21 @@ const opts: BottomTabNavigationOptions = {
   tabBarStyle: {
     position: 'absolute',
     height: tabbar.height,
-    alignItems: 'center',
+    borderTopLeftRadius: 20,
+    borderTopRightRadius: 20,
+    overflow: 'hidden',
+    backgroundColor: 'rgba(101,92,155,0.4)',
+
   },
   tabBarBackground: () => (
-    <BlurView
+    <View
       style={{
         ...StyleSheet.absoluteFillObject,
         backgroundColor: 'rgba(101,92,155,0.4)',
         borderTopLeftRadius: 20,
         borderTopRightRadius: 20,
-        overflow: 'hidden'
+        overflow:'hidden',
       }}
-      blurAmount={30}
-      blurType='light'
     />
   ),
   // end custom tabbar blur
