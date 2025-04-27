@@ -2,7 +2,7 @@ import { View, Text, TouchableWithoutFeedback, StyleSheet } from 'react-native'
 import React from 'react'
 import { color, gap, padding } from '../../../constants/style';
 import { fetchFilterCourse, filterCourseAction } from '../../../redux/slices/filterCourse/filterCourseSlice';
-import { useAppDispatchCourse, useAppSelectorCourse } from '../../../redux/store/courseTab/courseStore';
+import { useAppDispatchGlobal, useAppSelectorGlobal } from '../../../redux/store/globalStore';
 
 
 interface Props {
@@ -18,8 +18,8 @@ const defaultItem: Props[] = [
     { title: 'Đại học', classNumber: '4' }
 ];
 const TopBar = () => {
-    const dispatch = useAppDispatchCourse();
-    const classType = useAppSelectorCourse(state => state.filterCourseReducer.classType);
+    const dispatch = useAppDispatchGlobal();
+    const classType = useAppSelectorGlobal(state => state.courseReducer.filterCourseReducer.classType);
 
     const handleSetClassType = (payload: string) => {
         dispatch(filterCourseAction.setClassType(payload));

@@ -3,8 +3,17 @@ import React, { useState } from 'react'
 import { color, padding, radius } from '../../../../constants/style'
 import Icon from 'react-native-vector-icons/Entypo'
 import { Chapter } from '../../../../redux/slices/detailCourse/detailCourseSlice'
+import { useNavigation } from '@react-navigation/native'
+import { CourseTabBarProps } from '../../../../navigationScreen/(tabBar)/Courses'
 const Lesson = ({chapter}: {chapter: Chapter}) => {
   const [isOpen, setIsOpen] = useState<boolean>(false)
+  const navigation = useNavigation<CourseTabBarProps<'Chapter'>['navigation']>();
+  const handleNavigation = (props: {
+    chapterId: number,
+    chapterTitle: string
+  }) => {
+    navigation.navigate('Chapter', props);
+  }
   return (
     <View style={styles.container}>
       <TouchableWithoutFeedback onPress={() => {
@@ -26,7 +35,9 @@ const Lesson = ({chapter}: {chapter: Chapter}) => {
                   }
                 })
                 return (
-                  <TouchableWithoutFeedback key={index}>
+                  <TouchableWithoutFeedback key={index}
+                    onPress={() => handleNavigation({chapterId: lesson.lessonId, chapterTitle: lesson.lessonTitle})}
+                  >
                     <View style={[styles.item, customStyles.item]}>
                       <Text style={styles.itemTitle}>{lesson.lessonTitle}</Text>
                     </View>

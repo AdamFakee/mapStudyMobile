@@ -2,10 +2,10 @@ import { View, TouchableWithoutFeedback, StyleSheet } from 'react-native'
 import React from 'react'
 import Lesson from './Lesson'
 import { gap } from '../../../../constants/style';
-import { useAppSelectorCourse } from '../../../../redux/store/courseTab/courseStore';
+import { useAppSelectorGlobal } from '../../../../redux/store/globalStore';
 
 const ListLessonDetailTab = () => {
-  const listChapter = useAppSelectorCourse(state => state.detailCourseReducer.detailFetch.metadata.detail_chapter)
+  const listChapter = useAppSelectorGlobal(state => state.courseReducer.detailCourseReducer.detailFetch.metadata.detail_chapter)
   return (
     <View style={styles.container}>
       {

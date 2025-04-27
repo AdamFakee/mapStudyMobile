@@ -6,21 +6,20 @@ import { TouchableWithoutFeedback } from 'react-native'
 import { fetchFilterCourse } from '../../../redux/slices/filterCourse/filterCourseSlice'
 // import Pagination from '../../Pagination'
 import { useNavigation } from '@react-navigation/native'
-import { useAppDispatchCourse, useAppSelectorCourse } from '../../../redux/store/courseTab/courseStore'
 import { CourseTabBarProps } from '../../../navigationScreen/(tabBar)/Courses'
 import Loading from '../../Loading'
 import Empty from '../../Empty'
+import { useAppDispatchGlobal, useAppSelectorGlobal } from '../../../redux/store/globalStore'
 
 
 
 const ListCourseFilter = () => {
-  const dispatch = useAppDispatchCourse();
-  const { isLoading, sectionCourse } = useAppSelectorCourse(state => state.filterCourseReducer)
+  const dispatch = useAppDispatchGlobal();
+  const { isLoading, sectionCourse } = useAppSelectorGlobal(state => state.courseReducer.filterCourseReducer);
   useEffect(() => {
     dispatch(fetchFilterCourse());
   },[dispatch])
 
-  // const  = useAppSelectorCourse(state => state.filterCourseReducer.sectionCourse);
   const navigation = useNavigation<CourseTabBarProps<"Course">['navigation']>();
   // const handlePagination = (page: number) => {
     

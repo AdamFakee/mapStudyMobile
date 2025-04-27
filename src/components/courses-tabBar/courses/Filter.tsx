@@ -5,11 +5,11 @@ import Subject from './Subject'
 import { color, gap } from '../../../constants/style'
 import ButtonFilter from './ButtonFilter'
 import { fetchFilterCourse, filterCourseAction } from '../../../redux/slices/filterCourse/filterCourseSlice'
-import { useAppDispatchCourse } from '../../../redux/store/courseTab/courseStore'
+import { useAppDispatchGlobal } from '../../../redux/store/globalStore'
 
 
 const Filter = () => {
-    const filterDispatch = useAppDispatchCourse();
+    const filterDispatch = useAppDispatchGlobal();
     const handleResetFilterStore = () => {
         filterDispatch(filterCourseAction.resetStore());
         filterDispatch(fetchFilterCourse());

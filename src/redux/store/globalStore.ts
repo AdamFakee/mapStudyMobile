@@ -1,10 +1,12 @@
 import { configureStore } from "@reduxjs/toolkit";
 import { useDispatch, useSelector } from 'react-redux'
 import { globalReducer } from "../slices/globalSlice";
+import { CourseReducers } from "./courseTab/courseReducer";
 
 export const GlobalStore = configureStore({
     reducer: {
         globalReducer,
+        courseReducer: CourseReducers,
     }
 })
 

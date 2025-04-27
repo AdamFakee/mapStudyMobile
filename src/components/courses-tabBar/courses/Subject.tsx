@@ -4,10 +4,10 @@ import data from '../../../data/subjects.json';
 import { color, padding, radius } from '../../../constants/style';
 import { Subject as SubjectType } from '../../../types/definition';
 import { filterCourseAction } from '../../../redux/slices/filterCourse/filterCourseSlice';
-import { useAppDispatchCourse, useAppSelectorCourse } from '../../../redux/store/courseTab/courseStore';
+import { useAppDispatchGlobal, useAppSelectorGlobal } from '../../../redux/store/globalStore';
 const Subject = () => {
-    const filterSubjects = useAppSelectorCourse(state => state.filterCourseReducer).subjects;
-    const filterDispatch = useAppDispatchCourse();
+    const filterSubjects = useAppSelectorGlobal(state => state.courseReducer.filterCourseReducer).subjects;
+    const filterDispatch = useAppDispatchGlobal();
 
     const handleAddSubject = (id: SubjectType['id']) => {
         filterDispatch(filterCourseAction.addSubject({id}));

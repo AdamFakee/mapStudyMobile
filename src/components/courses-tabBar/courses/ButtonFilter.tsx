@@ -1,14 +1,14 @@
 import { View, Text, TouchableWithoutFeedback, StyleSheet } from 'react-native'
 import React from 'react'
 import { color, radius } from '../../../constants/style'
-import { useAppSelectorCourse } from '../../../redux/store/courseTab/courseStore'
+import { useAppSelectorGlobal } from '../../../redux/store/globalStore'
 
 type ButtonType = {
     title :string,
     fn?: () => void,
 }
 const ButtonFilter = ({ title, fn}: ButtonType) => {
-    const filterSubject = useAppSelectorCourse(state => state.filterCourseReducer.subjects);
+    const filterSubject = useAppSelectorGlobal(state => state.courseReducer.filterCourseReducer.subjects);
     const isActive = filterSubject.length > 0;
     const customStyle = StyleSheet.create({
         container: {

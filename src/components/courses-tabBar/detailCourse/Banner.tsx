@@ -1,10 +1,10 @@
 import { View, Text, StyleSheet, Image } from 'react-native'
 import React from 'react'
 import { color, gap, padding, radius } from '../../../constants/style'
-import { useAppSelectorCourse } from '../../../redux/store/courseTab/courseStore';
+import { useAppSelectorGlobal } from '../../../redux/store/globalStore';
 
 const Banner = () => {
-    const detailCouse = useAppSelectorCourse(state => state.detailCourseReducer);
+    const detailCouse = useAppSelectorGlobal(state => state.courseReducer.detailCourseReducer);
     return (
         <View style={styles.container}>
             <View style={styles.wraper}>

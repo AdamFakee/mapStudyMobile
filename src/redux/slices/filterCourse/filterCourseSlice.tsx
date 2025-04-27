@@ -3,7 +3,7 @@ import { Course, Subject } from "../../../types/definition";
 import { ApiResponse, callApi } from "../../../customs/axiosLib";
 import { domain } from "../../../constants/domain";
 import { filterCoursesByClass, flattenCourses } from "../../../utils/objectUtils";
-import { CourseRootState } from "../../store/courseTab/courseStore";
+import { GlobalRootState } from "../../store/globalStore";
 
 export interface resultfetchFilterCourse extends ApiResponse {
     metadata: {
@@ -87,11 +87,10 @@ const filterSlice = createSlice({
 
 
 export const fetchFilterCourse = createAsyncThunk('filterCourse/callApi', async (props, { getState }) => {
-    const state = getState() as CourseRootState;
-    const filterState = state.filterCourseReducer;
+    const state = getState() as GlobalRootState;
+    const filterState = state.courseReducer.filterCourseReducer;
     const queryParams = `search=${filterState.searchValue}&filters=${filterState.subjects.map(el => el.id).join(',')}&_class=${filterState.classType ? filterState.classType : initialFilterState.classType}`;
     const url = domain + `/course/searchMobile?${queryParams}`;
-
     const response = await callApi<resultfetchFilterCourse>({url});
     return response;
 })

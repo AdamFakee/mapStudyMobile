@@ -7,16 +7,16 @@ import DetailTab from '../../../components/courses-tabBar/detailCourse/DetailTab
 import { useRoute } from '@react-navigation/native';
 import { CourseTabBarProps } from '../../../navigationScreen/(tabBar)/Courses';
 import { fetchDetailCourse } from '../../../redux/slices/detailCourse/detailCourseSlice';
-import { useAppDispatchCourse, useAppSelectorCourse } from '../../../redux/store/courseTab/courseStore';
 import Loading from '../../../components/Loading';
+import { useAppDispatchGlobal, useAppSelectorGlobal } from '../../../redux/store/globalStore';
 
 const heightScreen = getHeight('screen');
 const DetailCourse = () => {
 
   const route = useRoute<CourseTabBarProps<'DetailCourse'>['route']>();
   const { courseId } = route.params;
-  const dispatch = useAppDispatchCourse();
-  const {isLoading} = useAppSelectorCourse(state => state.detailCourseReducer);
+  const dispatch = useAppDispatchGlobal();
+  const {isLoading} = useAppSelectorGlobal(state => state.courseReducer.detailCourseReducer);
   useEffect(() => {
     dispatch(fetchDetailCourse({courseId}));
   }, [courseId, dispatch]);

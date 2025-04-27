@@ -27,7 +27,8 @@ export const radius = {
 }
 
 export const gap = {
-    all: 20
+    all: 20,
+    sm: 7
 }
 
 export const input = {

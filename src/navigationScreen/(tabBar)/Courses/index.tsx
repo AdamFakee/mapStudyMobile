@@ -1,14 +1,19 @@
 import React from 'react';
 import { createNativeStackNavigator, NativeStackNavigationOptions, NativeStackScreenProps } from "@react-navigation/native-stack";
 import Course from "../../../app/(tabBar)/Courses/Course";
-import { Provider } from 'react-redux';
+// import { Provider } from 'react-redux';
 import DetailCourse from '../../../app/(tabBar)/Courses/DetailCourse';
-import { CourseStore } from '../../../redux/store/courseTab/courseStore';
+// import { CourseStore } from '../../../redux/store/courseTab/courseStore';
+import Chapter from '../../../app/(tabBar)/Courses/Chapter';
 
 export type CourseStackType = {
     Course: undefined;
     DetailCourse: {
         courseId: number,
+    };
+    Chapter: {
+        chapterId: number,
+        chapterTitle: string,
     };
 }
 
@@ -21,12 +26,13 @@ const opts: NativeStackNavigationOptions = {
 };
 const IndexCourses = () => {
     return (
-        <Provider store={CourseStore}>
+        // <Provider store={CourseStore}>
             <RootStack.Navigator initialRouteName="Course" screenOptions={opts}>
                 <RootStack.Screen name="Course" component={Course}/>
                 <RootStack.Screen name="DetailCourse" component={DetailCourse}/>
+                <RootStack.Screen name='Chapter' component={Chapter}/>
             </RootStack.Navigator>
-        </Provider>
+        // </Provider>
     )
 }
 
