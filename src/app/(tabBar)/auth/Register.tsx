@@ -44,14 +44,13 @@ const Register = () => {
     console.log('data::::', data)
     try {
       const res = await CallApiRegister<resultFetchRegister>(data);
-      console.log('resgider::::res::::', res)
       // save tokens
       const {accessToken, refreshToken} = res.metadata.tokens;
       await asyncStorageService.setData({value:accessToken, key: keyStore.accessToken})
       await asyncStorageService.setData({value:refreshToken, key: keyStore.refreshToken})
       // End save token
 
-      globalDispatch(globalActions.login()); // set login status
+      globalDispatch(globalActions.login(res.metadata.data)); // set login status
     } catch (error) {
       const responseErr = error as ApiError;
       console.log( responseErr.status)

@@ -1,15 +1,26 @@
-import { createAsyncThunk, createSlice } from "@reduxjs/toolkit"
+import { createAsyncThunk, createSlice, PayloadAction } from "@reduxjs/toolkit"
 import { asyncStorageService } from "../../services/asyncStorage.service"
 import { keyStore } from "../../constants/storeData"
 
-interface globalStateProps {
+export interface dataUser {
+    thumbnail?: string,
+    name: string,
+    email: string
+}
+
+interface globalStateProps{
     isLogin: boolean,
-    isLoading: boolean
+    isLoading: boolean,
+    dataUser: dataUser
 }
 
 const initialGlobalState: globalStateProps = {
     isLogin: false,
     isLoading: true,
+    dataUser: {
+        name: '',
+        email: ''
+    }
 }
 
 
@@ -17,7 +28,8 @@ const globalSlice = createSlice({
     initialState: initialGlobalState,
     name: 'globalSlice',
     reducers: {
-        login: (state) => {
+        login: (state, action: PayloadAction<dataUser>) => {
+            state.dataUser = action.payload;
             state.isLogin = true;
         },
         logout: (state) => {

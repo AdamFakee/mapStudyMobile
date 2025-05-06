@@ -23,7 +23,7 @@ export const ActiveButton = ({title, fn, isIcon = true }: ActiveButtonType) => {
 
 const styles = StyleSheet.create({
     container: {
-        flex: 1,
+        height: 'auto',
         backgroundColor: color.primary,
         borderRadius: radius.all,
         paddingVertical: 15,

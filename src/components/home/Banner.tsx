@@ -3,11 +3,16 @@ import { Image, StyleSheet, View } from 'react-native'
 import { icon } from '../../constants/icon'
 import { ActiveButton } from '../Button'
 import { color, padding, radius } from '../../constants/style'
+import { useNavigation } from '@react-navigation/native'
+import { BottomTabProps } from '../../navigationScreen/(tabBar)'
 
 function Banner() {
+    const navigation = useNavigation<BottomTabProps<'homeTab'>['navigation']>();
     const handleActiveCourse = (): void => {
-
-    }
+        navigation.navigate('courseTab', {
+            screen: 'ActiveCourse',
+        });
+    };
     return (
         <View style={styles.container}>
             {/* banner */}

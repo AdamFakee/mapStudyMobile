@@ -7,16 +7,19 @@ export interface inputFrameProps {
   isShowRequiredIcon: boolean,
   title: string,
   errMessage?: string,
+  isShowTitle?: boolean
 }
-const InputFrame = ({children, isShowRequiredIcon, title, errMessage}: inputFrameProps) => {
+const InputFrame = ({children, isShowRequiredIcon, title, errMessage, isShowTitle}: inputFrameProps) => {
   return (
     <View style={styles.container}>
-      <View style={styles.titleContainer}>
+      {
+        isShowTitle && <View style={styles.titleContainer}>
         <Text style={styles.title}>{title}</Text>
         {
           isShowRequiredIcon && <Text style={styles.titleIcon}>*</Text>
         }
       </View>
+      }
       {children}
       {
         errMessage && (

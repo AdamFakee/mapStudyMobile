@@ -1,11 +1,10 @@
-import { View, StyleSheet, ScrollView, Dimensions } from 'react-native';
+import { View, StyleSheet, ScrollView } from 'react-native';
 import React from 'react';
 import Banner from '../../../components/home/Banner';
 import ListTeacher from '../../../components/home/swiper/ListTeacher';
 import { color, gap, padding, tabbar } from '../../../constants/style';
 import ListCourse from '../../../components/home/swiper/ListCourse';
 
-const { height } = Dimensions.get('window');
 
 const Home = () => {
   return (

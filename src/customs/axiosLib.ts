@@ -20,7 +20,7 @@ export interface CallApiType {
     url: string,
     headers?: RawAxiosRequestHeaders;
     method?: 'GET' | 'POST' | 'PUT' | 'PATCH' | 'DELETE';
-    data?: any;
+    data?: unknown;
 }
 export interface ApiResponse {
     status?: number;

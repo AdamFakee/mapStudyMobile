@@ -35,6 +35,14 @@ export interface Chapter {
     title: string
 }
 
+export interface ChapterDetail {
+    chapter_id: number;
+    id: number;
+    position: number;
+    title: string;
+    video_link: string;
+}
+
 export interface Subject {
     id: number,
     title: string

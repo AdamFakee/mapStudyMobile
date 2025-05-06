@@ -3,14 +3,16 @@ import React, { useState } from 'react'
 import { color, padding, radius } from '../../../../constants/style'
 import Icon from 'react-native-vector-icons/Entypo'
 import { Chapter } from '../../../../redux/slices/detailCourse/detailCourseSlice'
-import { useNavigation } from '@react-navigation/native'
+import { useNavigation, useRoute } from '@react-navigation/native'
 import { CourseTabBarProps } from '../../../../navigationScreen/(tabBar)/Courses'
 const Lesson = ({chapter}: {chapter: Chapter}) => {
   const [isOpen, setIsOpen] = useState<boolean>(false)
-  const navigation = useNavigation<CourseTabBarProps<'Chapter'>['navigation']>();
+  const navigation = useNavigation<CourseTabBarProps<'DetailCourse'>['navigation']>();
+  const route = useRoute<CourseTabBarProps<'DetailCourse'>['route']>();
   const handleNavigation = (props: {
     chapterId: number,
     chapterTitle: string
+    courseId: number
   }) => {
     navigation.navigate('Chapter', props);
   }
@@ -36,7 +38,7 @@ const Lesson = ({chapter}: {chapter: Chapter}) => {
                 })
                 return (
                   <TouchableWithoutFeedback key={index}
-                    onPress={() => handleNavigation({chapterId: lesson.lessonId, chapterTitle: lesson.lessonTitle})}
+                    onPress={() => handleNavigation({chapterId: lesson.lessonId, chapterTitle: lesson.lessonTitle, courseId: route.params.courseId})}
                   >
                     <View style={[styles.item, customStyles.item]}>
                       <Text style={styles.itemTitle}>{lesson.lessonTitle}</Text>

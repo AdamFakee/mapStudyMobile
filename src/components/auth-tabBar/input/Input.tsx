@@ -11,13 +11,14 @@ export interface inputType<T extends FieldValues> extends registerError {
   name: Path<T>,
   isShowRequiredIcon?: boolean,
   keyBoardType?: KeyboardTypeOptions;
+  isShowTitle?: boolean,
 }
 const Input = <T extends FieldValues>({
   keyBoardType = 'default', ...props
 }: inputType<T>) => {
   return (
     <View>
-      <InputFrame title={props.title} errMessage={props.err?.message} isShowRequiredIcon={props.isShowRequiredIcon !== undefined ? props.isShowRequiredIcon : true}>
+      <InputFrame title={props.title} errMessage={props.err?.message} isShowRequiredIcon={props.isShowRequiredIcon !== undefined ? props.isShowRequiredIcon : true} isShowTitle={props.isShowTitle !== undefined ? props.isShowTitle : true}>
         <Controller
           control={props.control}
           rules={{

@@ -19,7 +19,6 @@ import Loading from '../../../components/Loading'
 
 
 const Login = () => {
-  console.log('hihihihih:::login')
   const [isLoading, setIsLoading] = useState<boolean>(false);
   const globalDispatch = useAppDispatchGlobal();
   const navigation = useNavigation<AuthTabBarProps<'Login'>['navigation']>();
@@ -42,7 +41,9 @@ const Login = () => {
       await asyncStorageService.setData({value:refreshToken, key: keyStore.refreshToken})
       // End save token
 
-      globalDispatch(globalActions.login()); // set login status
+      globalDispatch(globalActions.login(
+        res.metadata.data
+      )); // set login status
     } catch (error) {
       const responseErr = error as ApiError;
       console.log( responseErr.status)

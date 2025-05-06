@@ -1,14 +1,12 @@
 import { callApi, CallApiType, ApiResponse } from './../customs/axiosLib';
 import { domain } from "../constants/domain"
 import { Tokens } from "../types/definition"
+import { dataUser } from '../redux/slices/globalSlice';
 
 export interface resultFetchRegister extends ApiResponse {
     metadata: {
         tokens: Tokens,
-        data: {
-            name: string,
-            email: string,
-        }
+        data: dataUser
     }
 }
 
