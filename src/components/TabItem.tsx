@@ -27,6 +27,26 @@ const TabItem = <T,>(props: ItemProps<T>) => {
     )
 }
 
+export interface TabItemForVoidFunctionProps {
+    title: string,
+    fn: () => void
+}
+
+export const TabItemForVoidFuntion = (props: TabItemForVoidFunctionProps) => {
+    const [isPressed, setIsPressed] = useState<boolean>(false);
+    return (
+        <TouchableWithoutFeedback
+            onPressIn={() => setIsPressed(true)}
+            onPressOut={() => setIsPressed(false)}
+            onPress={() => props.fn()}
+        >
+            <View style={[styles.button, isPressed && styles.button_Pressed]}>
+                <Text style={styles.buttonTitle}>{props.title}</Text>
+            </View>
+        </TouchableWithoutFeedback>
+    )
+}
+
 const styles = StyleSheet.create({
     button: {
         paddingHorizontal: padding.horizon * 1.4,
