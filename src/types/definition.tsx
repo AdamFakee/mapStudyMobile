@@ -74,7 +74,8 @@ export interface Question {
     B: string;
     C: string;
     D: string;
-    result: "A" | "B" | "C" | "D";}
+    result: string;
+}
 export interface Quiz {
     title: string;
     questions: Question[];

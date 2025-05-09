@@ -9,7 +9,8 @@ export const color = {
     "primary-typo": "#1b1b1b",
     "secondary-typo": "#295779",
     activeTabBar: '#fE9900',
-    inActiveButton: '#E5E5E5'
+    inActiveButton: '#E5E5E5',
+    bgTransparent: 'rgba(0, 0, 0, 0.5)'
 }
 
 export const padding = {
