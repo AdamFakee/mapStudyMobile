@@ -1,1 +1,1 @@
-export const domain: string = 'http://192.168.1.100:3001/api/v1';
+export const domain: string = 'http://192.168.1.104:3001/api/v1';
