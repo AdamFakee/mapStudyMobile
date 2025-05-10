@@ -1,3 +1,31 @@
+
+-- "EduMarket" là trang web clone từ trang 'https://mapstudy.edu.vn/'.
+
+demo: https://drive.google.com/file/d/1-w8c2DKD5Z0eEGzaWaxQU4sqYjREYto0/view?usp=sharing
+
+Công nghệ:
+- FE: react-native, react, redux/redux-toolkit, zod.
+
+src/
+├── actionAuth/         <!-- chứa các action xác thực (login, logout, v.v.) -->
+├── app/                <!-- phần màn hình của app -->
+├── assets/             <!-- chứa tài nguyên tĩnh: ảnh, fonts, icons -->
+├── components/         <!-- các component tái sử dụng (UI component) -->
+├── constants/          <!-- giá trị hằng số như icon, API endpoint, style, .... -->
+├── customs/            <!-- phần mở rộng/custom theo logic riêng -->
+├── data/               <!-- dữ liệu giả lập -->
+├── hooks/              <!-- custom React hooks (useAuth, useFetch, ...) -->
+├── navigationScreen/   <!-- định nghĩa các màn hình và navigation -->
+├── redux/              <!-- cấu hình Redux store, slice -->
+├── services/           <!-- gọi API, xử lý service layer -->
+├── types/              <!-- các kiểu dữ liệu (interface/type TS) -->
+├── utils/              <!-- các hàm tiện ích dùng lại nhiều nơi -->
+├── validations/        <!-- kiểm tra dữ liệu đầu vào (form validation) -->
+
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
