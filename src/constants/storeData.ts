@@ -1,4 +1,5 @@
 export const keyStore = {
     accessToken: 'AT',
-    refreshToken: 'RT'
+    refreshToken: 'RT',
+    userData: 'Infor'
 }

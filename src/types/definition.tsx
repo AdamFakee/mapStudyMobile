@@ -80,3 +80,10 @@ export interface Quiz {
     title: string;
     questions: Question[];
 }
+
+
+export interface InforUser {
+    name: string,
+    thumbnail: null | string,
+    email: string,
+}

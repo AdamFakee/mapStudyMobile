@@ -1,6 +1,6 @@
+import { keyStore } from './../../constants/storeData';
 import { createAsyncThunk, createSlice, PayloadAction } from "@reduxjs/toolkit"
 import { asyncStorageService } from "../../services/asyncStorage.service"
-import { keyStore } from "../../constants/storeData"
 
 export interface dataUser {
     thumbnail?: string,
@@ -42,6 +42,7 @@ const globalSlice = createSlice({
         })
         build.addCase(checkLogin.fulfilled, (state, actions) => {
             if(actions.payload) {
+                state.dataUser = actions.payload.userData;
                 state.isLogin = true;
             }
             state.isLoading = false;
@@ -49,10 +50,19 @@ const globalSlice = createSlice({
     }
 })
 
+
 export const checkLogin = createAsyncThunk('globalSlice/checkLogin', async () => {
-    const token = await asyncStorageService.getData({key: keyStore.accessToken})
-    console.log('logiN::::token::check::::', token)
-    return token ? token : null;
+    const keys = [keyStore.accessToken, keyStore.refreshToken]
+    const tokens = await asyncStorageService.getDataByMultiKeys(keys);
+    const userData = await asyncStorageService.getData({key: keyStore.userData});
+    const payload = {
+        userData, 
+        tokens: {
+            accessToken: tokens[keyStore.accessToken],
+            refreshToken: tokens[keyStore.refreshToken]
+        }
+    }
+    return payload ? payload : null;
 })
 
 

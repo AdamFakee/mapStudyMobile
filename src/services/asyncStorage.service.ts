@@ -18,10 +18,23 @@ const getData = async ({key}: {key: string}) => {
     }
 };
 
+const getDataByMultiKeys = async (keys: string[]) => {
+    const results:{
+        [key: string]: string
+    } = {};
+    await Promise.all(keys.map(async (key) => {
+        const data = await getData({ key });
+        if (data) {
+            results[key] = String(data);
+        }
+    }));
+    return results;
+}
+
 const removeData = async (key: string) => {
     return await AsyncStorage.removeItem(key);
 }
 
 export const asyncStorageService = {
-    getData, setData, removeData
+    getData, setData, removeData, getDataByMultiKeys
 } 
