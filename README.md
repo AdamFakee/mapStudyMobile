@@ -1,7 +1,7 @@
 
 -- "EduMarket" là trang web clone từ trang 'https://mapstudy.edu.vn/'.
 
-demo: https://drive.google.com/file/d/1-w8c2DKD5Z0eEGzaWaxQU4sqYjREYto0/view?usp=sharing
+demo: https://drive.google.com/file/d/1isFNH3nz1Vgml1ohujp0stN7NEYLrCkY/view?usp=sharing
 
 Công nghệ:
 - FE: react-native, react, redux/redux-toolkit, zod.

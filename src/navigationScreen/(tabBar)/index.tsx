@@ -16,7 +16,7 @@ import IndexAuth, { AuthStacktype } from './auth';
 import IndexProfile, { ProfileStackType } from './profile';
 import { useAppSelectorGlobal } from '../../redux/store/globalStore';
 
-type BottomTabType = {
+export type BottomTabType = {
   homeTab: NavigatorScreenParams<HomeStackType>;
   courseTab: NavigatorScreenParams<CourseStackType>;
   examTab: NavigatorScreenParams<ExamStackType>;

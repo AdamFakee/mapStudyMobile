@@ -17,7 +17,7 @@ const InputSelect = <T extends FieldValues,>(props: inputSelectProps<T>) => {
     });
     return (
         <View>
-            <InputFrame title={props.title} errMessage={props.err?.message} isShowRequiredIcon={props.isShowRequiredIcon !== undefined ? props.isShowRequiredIcon : true}>
+            <InputFrame title={props.title} errMessage={props.err?.message} isShowRequiredIcon={props.isShowRequiredIcon !== undefined ? props.isShowRequiredIcon : true} isShowTitle={props.isShowTitle !== undefined ? props.isShowTitle : true}>
                 <Controller
                 control={props.control}
                 rules={{

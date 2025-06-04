@@ -13,7 +13,7 @@ const InputPassWord = <T extends FieldValues,>(props: inputType<T>) => {
   };
   return (
     <View>
-      <InputFrame title={props.title} errMessage={props?.err?.message} isShowRequiredIcon={props.isShowRequiredIcon  !== undefined ? props.isShowRequiredIcon : true}>
+      <InputFrame title={props.title} errMessage={props?.err?.message} isShowRequiredIcon={props.isShowRequiredIcon  !== undefined ? props.isShowRequiredIcon : true} isShowTitle={props.isShowTitle !== undefined ? props.isShowTitle : true}>
         <View style={[styles.inputContainer, props.err && styles.inputContainerError]}>
           <Controller
             render={({ field: {onChange, value}}) => (
